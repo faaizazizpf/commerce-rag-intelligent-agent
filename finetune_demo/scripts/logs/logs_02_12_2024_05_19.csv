@@ -1,0 +1,26 @@
+Message Index,Timestamp,Role,Content
+0,02/12/2024 05:19:28.432337 PM,user,"Here are some more products I am interested in: HWM80-35 - 8KG Single Tub Washer Gray priced at 19999, Haier Single Tub Washing Machine (HWM80-35) HWM80-35 + 08KG priced at 23000, Haier Double Tub Washing Machine (HWM-75AS) HWM-75AS - 7.5KG priced at 28499, Haier Double Tub Washing Machine (HWM80-100) HWM80-100 - 08KG priced at 25532, HWM80-35 - 8KG Single Tub Washer Milky white priced at 19999. Read it and say OK"
+1,02/12/2024 05:19:28.432364 PM,assistant,OK
+2,02/12/2024 05:19:28.432379 PM,user,HWM80-35 - 8KG Single Tub Washer
+3,02/12/2024 05:19:28.432394 PM,assistant,"The Haier Single Tub Washing Machine (HWM80-35) at Rs. 19,999. Would you like to purchase it?"
+Q,02/12/2024 05:19:28.432407 PM,user,HWM80-35 - 8KG Single Tub Washer
+R,02/12/2024 05:19:28.432419 PM,assistant,"The Haier Single Tub Washing Machine (HWM80-35) at Rs. 19,999. Would you like to purchase it?"
+0,02/12/2024 05:19:38.961499 PM,user,"Here are some more products I am interested in: HWM150-826 - 15KG Top Load Fully Automatic Washing Machine HWM150-826 - 15KG priced at 99999, HWM150-1708 - 15KG Top Load Fully Automatic Washing Machine HWM150 1708 - 15KG priced at 107999, Haier 3D Series Washing Machine (HWM150-1678) HWM150-1678 - 15KG priced at 125000, HWM120-826 - 12KG Top Load Fully Automatic Washing Machine HWM120-826 - 12KG priced at 89499, HWM150-826 - 15KG Top Load Fully Automatic Washing Machine HWM150-826 - 15KG priced at 99999. Read it and say OK"
+1,02/12/2024 05:19:38.961540 PM,assistant,OK
+2,02/12/2024 05:19:38.961553 PM,user,HWM80-35 - 8KG Single Tub Washer
+3,02/12/2024 05:19:38.961565 PM,assistant,"The Haier Single Tub Washing Machine (HWM80-35) at Rs. 19,999. Would you like to purchase it?"
+4,02/12/2024 05:19:38.961576 PM,user,HWM150-826 - 15KG Top Load Fully Automatic Washing Machine
+5,02/12/2024 05:19:38.961586 PM,assistant,"The Haier 3D Series Washing Machine (HWM150-1678) at Rs. 125,000. How would you like to proceed?"
+Q,02/12/2024 05:19:38.961597 PM,user,HWM150-826 - 15KG Top Load Fully Automatic Washing Machine
+R,02/12/2024 05:19:38.961607 PM,assistant,"The Haier 3D Series Washing Machine (HWM150-1678) at Rs. 125,000. How would you like to proceed?"
+0,02/12/2024 05:19:45.919791 PM,user,"Here are some more products I am interested in: Haier Android Dongle (S905Y4) Black priced at 14999, Haier LED - Real Android TV - S6 series S6 - 65"" priced at 199800, Haier 58"" 4K UHD Android TV (H58S5UG PRO)
+ H58S5UG PRO - 58"" priced at 145223, Haier U1 Wifi T Shape Hood (HCH-ET901U1) HCH-ET901U1 - Touch priced at 75000, Haier Android Dongle (S905Y4) Black priced at 14999. Read it and say OK"
+1,02/12/2024 05:19:45.919854 PM,assistant,OK
+2,02/12/2024 05:19:45.919887 PM,user,HWM80-35 - 8KG Single Tub Washer
+3,02/12/2024 05:19:45.919915 PM,assistant,"The Haier Single Tub Washing Machine (HWM80-35) at Rs. 19,999. Would you like to purchase it?"
+4,02/12/2024 05:19:45.919945 PM,user,HWM150-826 - 15KG Top Load Fully Automatic Washing Machine
+5,02/12/2024 05:19:45.919972 PM,assistant,"The Haier 3D Series Washing Machine (HWM150-1678) at Rs. 125,000. How would you like to proceed?"
+6,02/12/2024 05:19:45.919999 PM,user,Haier Android Dongle (S905Y4)
+7,02/12/2024 05:19:45.920025 PM,assistant,"You can purchase the The https://haier.com.pk/product/2329 #Haier Android Dongle (S905Y4)# for Rs. 14,999. Is there anything else you need assistance with today?"
+Q,02/12/2024 05:19:45.920055 PM,user,Haier Android Dongle (S905Y4)
+R,02/12/2024 05:19:45.920081 PM,assistant,"You can purchase the The https://haier.com.pk/product/2329 #Haier Android Dongle (S905Y4)# for Rs. 14,999. Is there anything else you need assistance with today?"

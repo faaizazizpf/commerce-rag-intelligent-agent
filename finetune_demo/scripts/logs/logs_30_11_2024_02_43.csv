@@ -1,0 +1,15 @@
+Message Index,Timestamp,Role,Content
+0,30/11/2024 02:43:05.891642 PM,user,"Here are some more products I am interested in: H32D2M - 32 Inch H-CAST D2M Series LED H32D2M - 32"" priced at 39899, Haier 32"" K66 Smart Android Series LED (H32K66G) H32K66G - 32"" priced at 50575, Haier 40"" K66 Smart Android Series LED (H40K66FG) H40K66FG - 40"" priced at 71800, Haier 43"" K66 Smart Android Series LED (H43K66G) H43K66G - 43"" priced at 76388, H32D2M - 32 Inch H-CAST D2M Series LED H32D2M - 32"" priced at 39899. Read it and say OK"
+1,30/11/2024 02:43:05.891679 PM,assistant,OK
+2,30/11/2024 02:43:05.891694 PM,user,H32D2M - 32 Inch H-CAST D2M Series LED
+3,30/11/2024 02:43:05.891705 PM,assistant,"The product code for the 32-inch The https://haier.com.pk/product/145 #H32D2M - 32 Inch H-CAST D2M Series LED# - 32 Inch H-CAST D2M Series LED D2M Series LED refrigerator is The https://haier.com.pk/product/145 #H32D2M - 32 Inch H-CAST D2M Series LED#. It costs Rs. 39,899. Would you like to make a purchase?"
+Q,30/11/2024 02:43:05.891719 PM,user,H32D2M - 32 Inch H-CAST D2M Series LED
+R,30/11/2024 02:43:05.891730 PM,assistant,"The product code for the 32-inch The https://haier.com.pk/product/145 #H32D2M - 32 Inch H-CAST D2M Series LED# - 32 Inch H-CAST D2M Series LED D2M Series LED refrigerator is The https://haier.com.pk/product/145 #H32D2M - 32 Inch H-CAST D2M Series LED#. It costs Rs. 39,899. Would you like to make a purchase?"
+0,30/11/2024 02:43:31.915010 PM,user,"Here are some more products I am interested in: Haier Double Drive Series Washing Machine (HWM 150-1978) HWM 150-1978 - 15KG priced at 150000, Haier Double Drive Series Washing Machine (HWM 120-1978) HWM120 1978 - 12 KG priced at 135000, Haier Double Tub Washing Machine (HWM80-000) HWM80-000 - 08KG priced at 23661, Haier Double Tub Washing Machine (HWM80-100) HWM80-100 - 08KG priced at 25532, Haier Double Drive Series Washing Machine (HWM 120-1978) HWM120 1978 - 12 KG priced at 135000. Read it and say OK"
+1,30/11/2024 02:43:31.915041 PM,assistant,OK
+2,30/11/2024 02:43:31.915055 PM,user,H32D2M - 32 Inch H-CAST D2M Series LED
+3,30/11/2024 02:43:31.915068 PM,assistant,"The product code for the 32-inch The https://haier.com.pk/product/145 #H32D2M - 32 Inch H-CAST D2M Series LED# - 32 Inch H-CAST D2M Series LED D2M Series LED refrigerator is The https://haier.com.pk/product/145 #H32D2M - 32 Inch H-CAST D2M Series LED#. It costs Rs. 39,899. Would you like to make a purchase?"
+4,30/11/2024 02:43:31.915082 PM,user,the Haier Double Drive Series Washing Machine (HWM 120-1978) price
+5,30/11/2024 02:43:31.915093 PM,assistant,"The The https://haier.com.pk/product/3353 #Haier Double Drive Series Washing Machine (HWM 150-1978)# at Rs. 150,000. Is there anything else you would like assistance with today?"
+Q,30/11/2024 02:43:31.915106 PM,user,the Haier Double Drive Series Washing Machine (HWM 120-1978) price
+R,30/11/2024 02:43:31.915117 PM,assistant,"The The https://haier.com.pk/product/3353 #Haier Double Drive Series Washing Machine (HWM 150-1978)# at Rs. 150,000. Is there anything else you would like assistance with today?"

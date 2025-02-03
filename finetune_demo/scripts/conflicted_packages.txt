@@ -1,0 +1,9 @@
+accelerate==1.1.1
+aiofiles==23.2.1
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+async-lru==2.0.4
+Babel==2.13.1
+aiobotocore==2.15.2
+fsspec==2024.10.0
+

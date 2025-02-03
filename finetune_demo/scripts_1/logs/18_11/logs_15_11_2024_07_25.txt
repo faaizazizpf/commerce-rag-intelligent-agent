@@ -1,0 +1,38 @@
+Message Index,Timestamp,Role,Content
+13,15/11/2024 07:25:07.965879 PM,user,haier HRF-622IBS black/30 price?
+14,15/11/2024 07:25:07.965892 PM,assistant,"The current MRP for the Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) in black color with a capacity of 30L is Rs. 309,900. However, we offer it to you at a discounted price of Rs. 114,999. Would you like to proceed with the purchase?"
+15,15/11/2024 07:25:07.965906 PM,user,haier HRF-622IBS grey/20
+16,15/11/2024 07:25:07.965919 PM,assistant,"The current MRP for the Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) in gray color with a capacity of 18Cu Ft/622Liter is Rs. 309,900. Our selling price is Rs. 105,362. How can I assist you further?"
+17,15/11/2024 07:25:07.965934 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+18,15/11/2024 07:25:07.965948 PM,assistant,Let me check the availability of the product. Please give me a moment.
+19,15/11/2024 07:25:07.965960 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+20,15/11/2024 07:25:07.965974 PM,assistant,"I'm sorry, but there seems to be a mistake in the request. Can you try again?"
+21,15/11/2024 07:25:07.965986 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+22,15/11/2024 07:25:07.966001 PM,assistant,It appears that the requested product does not exist. Please let me know how else I can help you today.
+23,15/11/2024 07:25:07.966013 PM,user,Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+24,15/11/2024 07:25:07.966025 PM,assistant,"The price for the Haier Solo Series 20L Microwave (HDL-20MXP4) is Rs. 17,843. Is there anything else you would like assistance with?"
+25,15/11/2024 07:25:07.966038 PM,user,Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+26,15/11/2024 07:25:07.966050 PM,assistant,"The current MRP for the Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) in stainless steel finish is Rs. 17,000. Our selling price is Rs. 13,000. Would you like to place an order?"
+27,15/11/2024 07:25:07.966063 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+28,15/11/2024 07:25:07.966075 PM,assistant,"Yes, the Haier LED - 4K UHD Real Tv Android Series - K6600 is suitable for general entertainment purposes. You should also consider its features before making a decision."
+29,15/11/2024 07:25:07.966088 PM,user,what's the price?
+30,15/11/2024 07:25:07.966100 PM,assistant,"The Haier LED - 4K UHD Real Tv Android Series - K6600 at Rs. 85,900. Let me know if you need any further details."
+31,15/11/2024 07:25:07.966112 PM,user,Haier LED - Real Android TV - S6 series price of this model?
+32,15/11/2024 07:25:07.966124 PM,assistant,"The Haier LED - Real Android TV - S6 series at Rs. 161,200."
+33,15/11/2024 07:25:07.966136 PM,user,Haier LED - Real Android TV - S6 series S6 - 55 price
+34,15/11/2024 07:25:07.966148 PM,assistant,"The Haier LED - Real Android TV - S6 series at Rs. 161,200."
+35,15/11/2024 07:25:07.966159 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+36,15/11/2024 07:25:07.966171 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in silver color with a capacity of 7Cu Ft/216Liters is priced at Rs. 58,700."
+37,15/11/2024 07:25:07.966184 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+38,15/11/2024 07:25:07.966195 PM,assistant,"Sorry, but we do not carry the Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in gold color or with a capacity of 438 Liters. What other models interest you?"
+39,15/11/2024 07:25:07.966208 PM,user,Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Red/10 Cu Ft/276 Liter this model price?
+40,15/11/2024 07:25:07.966221 PM,assistant,The Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) in red color with a capacity of 276 Liters is currently out of stock. We recommend checking back later or considering another refrigerator model.
+41,15/11/2024 07:25:07.966234 PM,user,Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver color price range
+42,15/11/2024 07:25:07.966246 PM,assistant,"The HRF-438 IBSA - 15CFT Digital Inverter Refrigerator at Rs. 97,999."
+43,15/11/2024 07:25:07.966258 PM,user,Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver price?
+44,15/11/2024 07:25:07.966270 PM,assistant,"The MRP for the Haier 14CFT - HRF-438 IBSA - 15CFT Digital Inverter Refrigerator - Digital Inverter Refrigerator in silver color is Rs. 97,999 while our selling price is Rs. 94,471."
+45,15/11/2024 07:25:07.966283 PM,user,HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner White/HSU-12CFCP price
+46,15/11/2024 07:25:07.966296 PM,assistant,"The HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner at Rs. 125,499."
+47,15/11/2024 07:25:07.966313 PM,user,HSU-12CFCM - 1 Ton Turbo Cool Air Conditioner White/HSU-12CFCP price
+Q,15/11/2024 07:25:07.966326 PM,user,HSU-12CFCM - 1 Ton Turbo Cool Air Conditioner White/HSU-12CFCP price
+R,15/11/2024 07:25:07.966338 PM,assistant,"The HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner at Rs. 125,499."

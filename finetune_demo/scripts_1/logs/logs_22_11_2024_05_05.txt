@@ -1,0 +1,31 @@
+Message Index,Timestamp,Role,Content
+0,22/11/2024 05:05:05.708147 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+1,22/11/2024 05:05:05.708167 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+2,22/11/2024 05:05:05.708179 PM,user,what is the price of remote?
+3,22/11/2024 05:05:05.708189 PM,assistant,Remote not found on our system. Please check for availability elsewhere. How else can I assist you today?
+4,22/11/2024 05:05:05.708200 PM,user,Candy - C32K7G - 32 Inch Android Smart LED TV price?
+5,22/11/2024 05:05:05.708210 PM,assistant,"The Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 32 Inch Android Smart LED TV is priced at Rs. 44,899. Would you like to purchase this item?"
+6,22/11/2024 05:05:05.708221 PM,user,Candy - C32K7G - 44 Inch Android Smart LED TV price?
+7,22/11/2024 05:05:05.708231 PM,assistant,"Unfortunately, we do not carry the Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 44 Inch Android Smart LED TV. Our inventory includes other electronics such as televisions and air conditioners. Is there anything specific you're looking for?"
+8,22/11/2024 05:05:05.708243 PM,user,Candy - C40K6FG - 40 Inch Smart Android LED TV price?
+9,22/11/2024 05:05:05.708252 PM,assistant,"Yes, we offer the Candy - Candy - Candy - C40K6FG - 40 Inch Smart Android LED TV - 40 Inch Smart Android LED TV for Rs. 61,899. Would you like to proceed with the purchase?"
+10,22/11/2024 05:05:05.708263 PM,user,Give me the list of AC that are less than 1004000 Rs.
+11,22/11/2024 05:05:05.708273 PM,assistant,"Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD), priced at Rs. 63,999; Haier Digital Inverter Premium Series Refrigerator (HRF-IPB/IPR), priced at Rs. 62,100. Both models fall within your budget range."
+12,22/11/2024 05:05:05.708284 PM,user,Give me the list of AC that are less than 140000 Rs.
+Q,22/11/2024 05:05:05.708294 PM,user,Give me the list of AC that are less than 140000 Rs.
+R,22/11/2024 05:05:05.708303 PM,assistant,"Haier Marvel Inverter Series Air Conditioner (HSU-12HFMAC) - 1 Ton, priced at Rs. 134,000; Haier Thunder Inverter Series Air Conditioner (HSU-18HPM T3)), priced at Rs. 222,000. These two units meet your criteria."
+0,22/11/2024 05:05:16.009638 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+1,22/11/2024 05:05:16.009669 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+2,22/11/2024 05:05:16.009685 PM,user,Candy - C32K7G - 32 Inch Android Smart LED TV price?
+3,22/11/2024 05:05:16.009698 PM,assistant,"The Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 32 Inch Android Smart LED TV is priced at Rs. 44,899. Would you like to purchase this item?"
+4,22/11/2024 05:05:16.009712 PM,user,Candy - C32K7G - 44 Inch Android Smart LED TV price?
+5,22/11/2024 05:05:16.009724 PM,assistant,"Unfortunately, we do not carry the Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 44 Inch Android Smart LED TV. Our inventory includes other electronics such as televisions and air conditioners. Is there anything specific you're looking for?"
+6,22/11/2024 05:05:16.009739 PM,user,Candy - C40K6FG - 40 Inch Smart Android LED TV price?
+7,22/11/2024 05:05:16.009751 PM,assistant,"Yes, we offer the Candy - Candy - Candy - C40K6FG - 40 Inch Smart Android LED TV - 40 Inch Smart Android LED TV for Rs. 61,899. Would you like to proceed with the purchase?"
+8,22/11/2024 05:05:16.009764 PM,user,Give me the list of AC that are less than 1004000 Rs.
+9,22/11/2024 05:05:16.009776 PM,assistant,"Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD), priced at Rs. 63,999; Haier Digital Inverter Premium Series Refrigerator (HRF-IPB/IPR), priced at Rs. 62,100. Both models fall within your budget range."
+10,22/11/2024 05:05:16.009790 PM,user,Give me the list of AC that are less than 140000 Rs.
+11,22/11/2024 05:05:16.009802 PM,assistant,"Haier Marvel Inverter Series Air Conditioner (HSU-12HFMAC) - 1 Ton, priced at Rs. 134,000; Haier Thunder Inverter Series Air Conditioner (HSU-18HPM T3)), priced at Rs. 222,000. These two units meet your criteria."
+12,22/11/2024 05:05:16.009815 PM,user,Give me the list of AC that are less than 140000 Rs.
+Q,22/11/2024 05:05:16.009827 PM,user,Give me the list of AC that are less than 140000 Rs.
+R,22/11/2024 05:05:16.009839 PM,assistant,"Haier Marvel Inverter Series Air Conditioner (HSU-12HFMAC) - 1 Ton, priced at Rs. 134,000; Haier Thunder Inverter Series Air Conditioner (HSU-18HPM T3)), priced at Rs. 222,000. These two units fit within your specified budget range."

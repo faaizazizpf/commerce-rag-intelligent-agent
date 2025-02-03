@@ -1,0 +1,11 @@
+Message Index,Timestamp,Role,Content
+0,30/11/2024 02:54:22.772130 PM,user,"Here are some more products I am interested in: HRF-336 EPR/EPB/EPC/EPG - 12CFT E-Star Glass Door Series Refrigerator Red/HRF-336 EPR/EPB/EPC/EPG - 12 Cu Ft/336 Liter priced at 96000, HRF-336 EBS/EBD -12CFT E-Star Metal Door Refrigerator Silver/HRF-336 - 12 Cu Ft/336 Liter priced at 84000, HRF-276 EPR/EPB/EPC/EPG - 10CFT E-Star Glass Door Series Refrigerator Red/HRF-276 EPR/EPB/EPC/EPG - 10 Cu Ft/276 Liter priced at 77999, HRF-538 EPR/EPG - 19 CFT E-Star Refrigerator Red priced at 109999, Haier Built in Microwave Oven (HMN 25NG24) HMN 25NG24 - Black Grilling priced at 38438. Read it and say OK"
+1,30/11/2024 02:54:22.772156 PM,assistant,OK
+2,30/11/2024 02:54:22.772167 PM,user,"fix sentence mistake ""name and link embeded in response"""
+3,30/11/2024 02:54:22.772178 PM,assistant,"Apologies for the oversight. Let me fix that. Here's the corrected version:
+
+""The product name is 'Haier E-Star EP Series Refrigerator' with a capacity of 246 liters using non-inverter technology. The MRP is Rs. 110,500, but we offer it at a discounted price of Rs. 101,964."""
+Q,30/11/2024 02:54:22.772193 PM,user,"fix sentence mistake ""name and link embeded in response"""
+R,30/11/2024 02:54:22.772204 PM,assistant,"Apologies for the oversight. Let me fix that. Here's the corrected version:
+
+""The product name is 'Haier E-Star EP Series Refrigerator' with a capacity of 246 liters using non-inverter technology. The MRP is Rs. 110,500, but we offer it at a discounted price of Rs. 101,964."""

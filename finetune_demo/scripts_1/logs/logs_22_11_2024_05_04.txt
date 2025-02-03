@@ -1,0 +1,76 @@
+Message Index,Timestamp,Role,Content
+0,22/11/2024 05:04:06.909921 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+1,22/11/2024 05:04:06.909945 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+2,22/11/2024 05:04:06.909961 PM,user,"Haier LED - 4K UHD Real Tv Android Series - K6600 K6600 - 75"" price?"
+3,22/11/2024 05:04:06.909975 PM,assistant,"The Haier LED - 4K UHD Real Tv Android Series - K6600 at Rs. 85,900. Is there anything else I can help you with?"
+4,22/11/2024 05:04:06.909988 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 - 50 price?
+5,22/11/2024 05:04:06.910001 PM,assistant,"The Haier LED - 4K UHD Real Tv Android Series - K6600 at Rs. 85,900. Do you require any further information about this product?"
+6,22/11/2024 05:04:06.910013 PM,user,Haier Double Tub Washing Machine (HWM80-100)  HWM80-100 - 08KG price?
+7,22/11/2024 05:04:06.910025 PM,assistant,"The Haier Single Tub Washing Machine (HWM80-35) at Rs. 19,999. You may also be interested in our double tub washing machines from Haier. Can I provide you with more options?"
+8,22/11/2024 05:04:06.910039 PM,user,HRF-368 EPR/EPB/EPC/EPG - 13CFT E-Star Glass Door Series Refrigerator Green/HRF-368 EPR/EPB/EPC/EPG - 14 Cu Ft/368 Liter price?
+9,22/11/2024 05:04:06.910052 PM,assistant,"The HRF-438 EPR/EPB/EPG - 15CFT E-Star Glass Door Series Refrigerator at Rs. 101,999."
+10,22/11/2024 05:04:06.910065 PM,user,HRF-622IBS - 22CFT - Side by Side Digital Inverter Refrigerator  black price?
+11,22/11/2024 05:04:06.910077 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD) priced at Rs. 63,999."
+12,22/11/2024 05:04:06.910089 PM,user,what is the price of remote?
+Q,22/11/2024 05:04:06.910101 PM,user,what is the price of remote?
+R,22/11/2024 05:04:06.910114 PM,assistant,Remote not found on our system. Please check for availability elsewhere. How else can I assist you today?
+0,22/11/2024 05:04:21.136485 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+1,22/11/2024 05:04:21.136511 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+2,22/11/2024 05:04:21.136526 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 - 50 price?
+3,22/11/2024 05:04:21.136539 PM,assistant,"The Haier LED - 4K UHD Real Tv Android Series - K6600 at Rs. 85,900. Do you require any further information about this product?"
+4,22/11/2024 05:04:21.136553 PM,user,Haier Double Tub Washing Machine (HWM80-100)  HWM80-100 - 08KG price?
+5,22/11/2024 05:04:21.136565 PM,assistant,"The Haier Single Tub Washing Machine (HWM80-35) at Rs. 19,999. You may also be interested in our double tub washing machines from Haier. Can I provide you with more options?"
+6,22/11/2024 05:04:21.136580 PM,user,HRF-368 EPR/EPB/EPC/EPG - 13CFT E-Star Glass Door Series Refrigerator Green/HRF-368 EPR/EPB/EPC/EPG - 14 Cu Ft/368 Liter price?
+7,22/11/2024 05:04:21.136592 PM,assistant,"The HRF-438 EPR/EPB/EPG - 15CFT E-Star Glass Door Series Refrigerator at Rs. 101,999."
+8,22/11/2024 05:04:21.136605 PM,user,HRF-622IBS - 22CFT - Side by Side Digital Inverter Refrigerator  black price?
+9,22/11/2024 05:04:21.136617 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD) priced at Rs. 63,999."
+10,22/11/2024 05:04:21.136631 PM,user,what is the price of remote?
+11,22/11/2024 05:04:21.136643 PM,assistant,Remote not found on our system. Please check for availability elsewhere. How else can I assist you today?
+12,22/11/2024 05:04:21.136655 PM,user,Candy - C32K7G - 32 Inch Android Smart LED TV price?
+Q,22/11/2024 05:04:21.136667 PM,user,Candy - C32K7G - 32 Inch Android Smart LED TV price?
+R,22/11/2024 05:04:21.136679 PM,assistant,"The Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 32 Inch Android Smart LED TV is priced at Rs. 44,899. Would you like to purchase this item?"
+0,22/11/2024 05:04:34.348175 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+1,22/11/2024 05:04:34.348209 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+2,22/11/2024 05:04:34.348228 PM,user,Haier Double Tub Washing Machine (HWM80-100)  HWM80-100 - 08KG price?
+3,22/11/2024 05:04:34.348244 PM,assistant,"The Haier Single Tub Washing Machine (HWM80-35) at Rs. 19,999. You may also be interested in our double tub washing machines from Haier. Can I provide you with more options?"
+4,22/11/2024 05:04:34.348262 PM,user,HRF-368 EPR/EPB/EPC/EPG - 13CFT E-Star Glass Door Series Refrigerator Green/HRF-368 EPR/EPB/EPC/EPG - 14 Cu Ft/368 Liter price?
+5,22/11/2024 05:04:34.348279 PM,assistant,"The HRF-438 EPR/EPB/EPG - 15CFT E-Star Glass Door Series Refrigerator at Rs. 101,999."
+6,22/11/2024 05:04:34.348295 PM,user,HRF-622IBS - 22CFT - Side by Side Digital Inverter Refrigerator  black price?
+7,22/11/2024 05:04:34.348310 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD) priced at Rs. 63,999."
+8,22/11/2024 05:04:34.348325 PM,user,what is the price of remote?
+9,22/11/2024 05:04:34.348340 PM,assistant,Remote not found on our system. Please check for availability elsewhere. How else can I assist you today?
+10,22/11/2024 05:04:34.348355 PM,user,Candy - C32K7G - 32 Inch Android Smart LED TV price?
+11,22/11/2024 05:04:34.348370 PM,assistant,"The Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 32 Inch Android Smart LED TV is priced at Rs. 44,899. Would you like to purchase this item?"
+12,22/11/2024 05:04:34.348386 PM,user,Candy - C32K7G - 44 Inch Android Smart LED TV price?
+Q,22/11/2024 05:04:34.348401 PM,user,Candy - C32K7G - 44 Inch Android Smart LED TV price?
+R,22/11/2024 05:04:34.348415 PM,assistant,"Unfortunately, we do not carry the Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 44 Inch Android Smart LED TV. Our inventory includes other electronics such as televisions and air conditioners. Is there anything specific you're looking for?"
+0,22/11/2024 05:04:43.383690 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+1,22/11/2024 05:04:43.383718 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+2,22/11/2024 05:04:43.383734 PM,user,HRF-368 EPR/EPB/EPC/EPG - 13CFT E-Star Glass Door Series Refrigerator Green/HRF-368 EPR/EPB/EPC/EPG - 14 Cu Ft/368 Liter price?
+3,22/11/2024 05:04:43.383748 PM,assistant,"The HRF-438 EPR/EPB/EPG - 15CFT E-Star Glass Door Series Refrigerator at Rs. 101,999."
+4,22/11/2024 05:04:43.383761 PM,user,HRF-622IBS - 22CFT - Side by Side Digital Inverter Refrigerator  black price?
+5,22/11/2024 05:04:43.383773 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD) priced at Rs. 63,999."
+6,22/11/2024 05:04:43.383785 PM,user,what is the price of remote?
+7,22/11/2024 05:04:43.383796 PM,assistant,Remote not found on our system. Please check for availability elsewhere. How else can I assist you today?
+8,22/11/2024 05:04:43.383808 PM,user,Candy - C32K7G - 32 Inch Android Smart LED TV price?
+9,22/11/2024 05:04:43.383820 PM,assistant,"The Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 32 Inch Android Smart LED TV is priced at Rs. 44,899. Would you like to purchase this item?"
+10,22/11/2024 05:04:43.383833 PM,user,Candy - C32K7G - 44 Inch Android Smart LED TV price?
+11,22/11/2024 05:04:43.383845 PM,assistant,"Unfortunately, we do not carry the Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 44 Inch Android Smart LED TV. Our inventory includes other electronics such as televisions and air conditioners. Is there anything specific you're looking for?"
+12,22/11/2024 05:04:43.383859 PM,user,Candy - C40K6FG - 40 Inch Smart Android LED TV price?
+Q,22/11/2024 05:04:43.383871 PM,user,Candy - C40K6FG - 40 Inch Smart Android LED TV price?
+R,22/11/2024 05:04:43.383882 PM,assistant,"Yes, we offer the Candy - Candy - Candy - C40K6FG - 40 Inch Smart Android LED TV - 40 Inch Smart Android LED TV for Rs. 61,899. Would you like to proceed with the purchase?"
+0,22/11/2024 05:04:54.044903 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+1,22/11/2024 05:04:54.045002 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+2,22/11/2024 05:04:54.045055 PM,user,HRF-622IBS - 22CFT - Side by Side Digital Inverter Refrigerator  black price?
+3,22/11/2024 05:04:54.045101 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD) priced at Rs. 63,999."
+4,22/11/2024 05:04:54.045148 PM,user,what is the price of remote?
+5,22/11/2024 05:04:54.045189 PM,assistant,Remote not found on our system. Please check for availability elsewhere. How else can I assist you today?
+6,22/11/2024 05:04:54.045238 PM,user,Candy - C32K7G - 32 Inch Android Smart LED TV price?
+7,22/11/2024 05:04:54.045279 PM,assistant,"The Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 32 Inch Android Smart LED TV is priced at Rs. 44,899. Would you like to purchase this item?"
+8,22/11/2024 05:04:54.045324 PM,user,Candy - C32K7G - 44 Inch Android Smart LED TV price?
+9,22/11/2024 05:04:54.045345 PM,assistant,"Unfortunately, we do not carry the Candy - Candy - C32K7G - 32 Inch Android Smart LED TV - 44 Inch Android Smart LED TV. Our inventory includes other electronics such as televisions and air conditioners. Is there anything specific you're looking for?"
+10,22/11/2024 05:04:54.045363 PM,user,Candy - C40K6FG - 40 Inch Smart Android LED TV price?
+11,22/11/2024 05:04:54.045376 PM,assistant,"Yes, we offer the Candy - Candy - Candy - C40K6FG - 40 Inch Smart Android LED TV - 40 Inch Smart Android LED TV for Rs. 61,899. Would you like to proceed with the purchase?"
+12,22/11/2024 05:04:54.045388 PM,user,Give me the list of AC that are less than 1004000 Rs.
+Q,22/11/2024 05:04:54.045398 PM,user,Give me the list of AC that are less than 1004000 Rs.
+R,22/11/2024 05:04:54.045408 PM,assistant,"Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD), priced at Rs. 63,999; Haier Digital Inverter Premium Series Refrigerator (HRF-IPB/IPR), priced at Rs. 62,100. Both models fall within your budget range."

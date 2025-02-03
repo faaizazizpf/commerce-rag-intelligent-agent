@@ -1,0 +1,21 @@
+Message Index,Timestamp,Role,Content
+0,02/12/2024 03:45:34.101699 PM,user,"Here are some more products I am interested in: Haier Dishwasher DW14-KFFWWPK DW14-KFFWWPK priced at 65343, Haier Smart Anti Dry 3 Burner Hob (HCC-QHA9331) HCC-QHA9331 - 3 Burner priced at 83000, Haier HCC-738DGS:3 brass burner/76cm/FFD/SS HCC-738DGS - Stainless Steel priced at 55400, Haier Smart Anti Dry 3 Burner Hob (HCC-QHA9331/83UD) HCC QHA9331 - 3 Burner priced at 83000, Haier FFD Safety Device 3 Burner Hob (HCC-309DGS) HCC-309DGS - Stainless Steel priced at 58500. Read it and say OK"
+1,02/12/2024 03:45:34.101730 PM,assistant,OK
+2,02/12/2024 03:45:34.101746 PM,user,Haier E-Star EP Series Refrigerator price?
+3,02/12/2024 03:45:34.101757 PM,assistant,"The MRP for the Haier E-Star EB Series Refrigerator (The https://haier.com.pk/product/2431 #HRF-216# EBS/EBD) is Rs. 63,999 but we offer it at a discounted price of Rs. 105,574. Would you like to proceed with the purchase or do you need further assistance?"
+4,02/12/2024 03:45:34.101771 PM,user,list 3 more different ones
+5,02/12/2024 03:45:34.101781 PM,assistant,"Certainly! Here are three additional Haier refrigerator models:
+
+1. Haier E-Star EB Series Refrigerator (The https://haier.com.pk/product/2431 #HRF-216# EBS/EBD) - Gold color variant, 7 Cu Ft/216 Liters, MRP Rs. 63,999 our price Rs. 63,999.
+2. Haier E-Star EB Series Refrigerator (The https://haier.com.pk/product/2431 #HRF-216# EBS/EBD) - Black color variant, 246 Liters, MRP Rs. 119,000 our price Rs. 113,455.
+3. Haier Digital Inverter With Turbo Fan Series Refrigerator (HRF-IDRA/IDBA)  - Green color variant, 485 Liters, MRP Rs. 132,000, our price Rs. 116,450.
+
+Please let us know which model interests you the most."
+Q,02/12/2024 03:45:34.101797 PM,user,list 3 more different ones
+R,02/12/2024 03:45:34.101807 PM,assistant,"Certainly! Here are three additional Haier refrigerator models:
+
+1. Haier E-Star EB Series Refrigerator (The https://haier.com.pk/product/2431 #HRF-216# EBS/EBD) - Gold color variant, 7 Cu Ft/216 Liters, MRP Rs. 63,999 our price Rs. 63,999.
+2. Haier E-Star EB Series Refrigerator (The https://haier.com.pk/product/2431 #HRF-216# EBS/EBD) - Black color variant, 246 Liters, MRP Rs. 119,000 our price Rs. 113,455.
+3. Haier Digital Inverter With Turbo Fan Series Refrigerator (HRF-IDRA/IDBA)  - Green color variant, 485 Liters, MRP Rs. 132,000, our price Rs. 116,450.
+
+Please let us know which model interests you the most."

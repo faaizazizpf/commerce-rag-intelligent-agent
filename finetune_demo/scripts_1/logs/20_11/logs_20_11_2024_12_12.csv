@@ -1,0 +1,71 @@
+Message Index,Timestamp,Role,Content
+0,20/11/2024 12:12:24.013881 PM,user,"Here are some products I am interested in: Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) 622ICG - Chocolate Glass priced at 309900, Haier 45L Red Ribbon Grill Series Microwave (HMN-45110EGB) HMN-45110EGB - 45L priced at 33400, HRF-538 EPR/EPG - 19 CFT E-Star Refrigerator Red priced at 109999. Read it and say OK"
+1,20/11/2024 12:12:24.013918 PM,assistant,OK
+2,20/11/2024 12:12:24.013934 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W)) White/HSU 18HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1.5 Ton priced at 154644, Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFM/N/F/AC/AD/AE/DG/DS/CE/CC-WUSDC(W)) White/HSU 18HFMCC - 1.5 Ton priced at 160000, Haier Pearl Inverter Series Air Conditioner (HSU-12/18 HFPCA/AA/BG-SG-WUSDC) Silver/HSU-18HFPAA - 1.5 Ton priced at 167435. Read it and say OK"
+3,20/11/2024 12:12:24.013952 PM,assistant,OK
+4,20/11/2024 12:12:24.013965 PM,user,"Here are some more products I am interested in: Haier Android Dongle (S905Y4) Black priced at 14999, Haier LED - Real Android TV - S6 series S6 - 65"" priced at 199800, Haier 522 SBS Series Refrigerator (HRF-522 IBS) HRF 522IBS - Black priced at 259900, H32K800X - 32 Inch Google TV  32 Inches priced at 46999. Read it and say OK"
+5,20/11/2024 12:12:24.013980 PM,assistant,OK
+6,20/11/2024 12:12:24.013991 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC) HSU-18HFMCC - 1.5 Ton priced at 154644, Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W)) White/HSU 18HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1.5 Ton priced at 154644, Haier Marvel Inverter Series Air Conditioner (HSU-12HFMDG) HSU 12HFMDG - 1 Ton priced at 129351, CSU-18HP(50P) - Candy Max - 1.5 Ton Heat & Cool DC Inverter  Candy Max priced at 135999, Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFM/N/F/AC/AD/AE/DG/DS/CE/CC-WUSDC(W)) White/HSU 18HFMCC - 1.5 Ton priced at 160000. Read it and say OK"
+7,20/11/2024 12:12:24.014015 PM,user,I need a fridge
+8,20/11/2024 12:12:24.014027 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,20/11/2024 12:12:24.014040 PM,user,Any you have
+10,20/11/2024 12:12:24.014051 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,20/11/2024 12:12:24.014066 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,20/11/2024 12:12:24.014079 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,20/11/2024 12:12:24.014091 PM,user, HMW-28100-28L Digital Grill Microwave Oven price?
+14,20/11/2024 12:12:24.014103 PM,assistant,"The price for the Haier  HMW-28100-28L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 33,999. Is there anything else you would like to inquire about our products?"
+15,20/11/2024 12:12:24.014117 PM,user, HMW-23200-23L Digital Microwave Oven  price?
+16,20/11/2024 12:12:24.014129 PM,assistant,"The price for the Haier   HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven is Rs. 30,449. Would you like any further assistance or information on other Haier appliances?"
+17,20/11/2024 12:12:24.014142 PM,user, HMW-20DGS-20L Digital Grill Microwave Oven  price?
+18,20/11/2024 12:12:24.014154 PM,assistant,"The price for the Haier     HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. How can I assist you further today?"
+19,20/11/2024 12:12:24.014167 PM,user,hello buddy how are you
+20,20/11/2024 12:12:24.014178 PM,assistant,Hello! I'm here to help you with any queries related to Haier products. How may I assist you today?
+21,20/11/2024 12:12:24.014191 PM,user,give me the price of haier products
+22,20/11/2024 12:12:24.014202 PM,assistant,Of course! Please let me know which specific product you're interested in so that I can provide its price and details for you.
+23,20/11/2024 12:12:24.014215 PM,user, HMW-20DGS-20L Digital Grill Microwave Oven  price?
+24,20/11/2024 12:12:24.014227 PM,assistant,"The price for the Haier     HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. Let me know if you need information on other models."
+25,20/11/2024 12:12:24.014241 PM,user,any red color AC
+26,20/11/2024 12:12:24.014252 PM,assistant,"Yes, we offer red colored air conditioners such as the Haier HCS Digital Inverter Series Refrigerator (HRF-IFGA/IFRA/IFPA), priced at Rs. 102,000. Do you require pricing for additional products?"
+27,20/11/2024 12:12:24.014265 PM,user,give me the price of haier red tea cups
+28,20/11/2024 12:12:24.014277 PM,assistant,"Unfortunately, we do not carry red tea cups. Our focus lies on household appliances and electronics. What else can I help you with today?"
+29,20/11/2024 12:12:24.014290 PM,user,ok then give me the price of haier shoes
+30,20/11/2024 12:12:24.014301 PM,assistant,"I apologize, but we don't sell footwear. However, we do have a variety of home entertainment systems, smart speakers, and air purifiers available. Can I guide you through those instead?"
+31,20/11/2024 12:12:24.014315 PM,user,give the price of all the invertor ac
+Q,20/11/2024 12:12:24.014326 PM,user,give the price of all the invertor ac
+R,20/11/2024 12:12:24.014338 PM,assistant,Let me check the prices for you now. Just a moment while I gather the information...
+0,20/11/2024 12:12:44.448466 PM,user,"Here are some products I am interested in: Haier Android Dongle (S905Y4) Black priced at 14999, Haier LED - Real Android TV - S6 series S6 - 65"" priced at 199800, Haier 522 SBS Series Refrigerator (HRF-522 IBS) HRF 522IBS - Black priced at 259900. Read it and say OK"
+1,20/11/2024 12:12:44.448508 PM,assistant,OK
+2,20/11/2024 12:12:44.448523 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC) HSU-18HFMCC - 1.5 Ton priced at 154644, Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W)) White/HSU 18HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1.5 Ton priced at 154644, Haier Marvel Inverter Series Air Conditioner (HSU-12HFMDG) HSU 12HFMDG - 1 Ton priced at 129351. Read it and say OK"
+3,20/11/2024 12:12:44.448542 PM,assistant,OK
+4,20/11/2024 12:12:44.448553 PM,user,"Here are some more products I am interested in: HWM120-35FF - 12KG Single Tub Washer Grey priced at 25499,  HMW-20MX11 20L Solo Microwave Oven  HMW-20MX11 priced at 17999, HWD60-50 - Spinner HD60 50 - 06KG (B) priced at 17999, HGL-30100 - 30L Rotisserie/Grill/Convection/Baking Microwave Oven Black priced at 43999. Read it and say OK"
+5,20/11/2024 12:12:44.448569 PM,assistant,OK
+6,20/11/2024 12:12:44.448580 PM,user,"Here are some more products I am interested in: Candy - C55K7UG - 55 Inch Android Smart LED TV Certified Android TV priced at 110899, Candy - C50K7UG - 50 Inch Smart Android LED TV Certified Android TV priced at 99899, H98S900UX - 98 Inch Google TV 98 Inches priced at 731999, HSU-18LFCM-- Cool Only Inverter Series Air Conditioner White/HSU-18LFCB-USDC - 1.5 Ton priced at 143999, Candy - CDL-25DG02 -25L - Grill Microwave Oven CDL-25DG02 priced at 25299. Read it and say OK"
+7,20/11/2024 12:12:44.448597 PM,user,I need a fridge
+8,20/11/2024 12:12:44.448609 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,20/11/2024 12:12:44.448625 PM,user,Any you have
+10,20/11/2024 12:12:44.448636 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,20/11/2024 12:12:44.448654 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,20/11/2024 12:12:44.448668 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,20/11/2024 12:12:44.448680 PM,user, HMW-28100-28L Digital Grill Microwave Oven price?
+14,20/11/2024 12:12:44.448692 PM,assistant,"The price for the Haier  HMW-28100-28L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 33,999. Is there anything else you would like to inquire about our products?"
+15,20/11/2024 12:12:44.448706 PM,user, HMW-23200-23L Digital Microwave Oven  price?
+16,20/11/2024 12:12:44.448717 PM,assistant,"The price for the Haier   HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven is Rs. 30,449. Would you like any further assistance or information on other Haier appliances?"
+17,20/11/2024 12:12:44.448731 PM,user, HMW-20DGS-20L Digital Grill Microwave Oven  price?
+18,20/11/2024 12:12:44.448743 PM,assistant,"The price for the Haier     HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. How can I assist you further today?"
+19,20/11/2024 12:12:44.448756 PM,user,hello buddy how are you
+20,20/11/2024 12:12:44.448777 PM,assistant,Hello! I'm here to help you with any queries related to Haier products. How may I assist you today?
+21,20/11/2024 12:12:44.448790 PM,user,give me the price of haier products
+22,20/11/2024 12:12:44.448801 PM,assistant,Of course! Please let me know which specific product you're interested in so that I can provide its price and details for you.
+23,20/11/2024 12:12:44.448814 PM,user, HMW-20DGS-20L Digital Grill Microwave Oven  price?
+24,20/11/2024 12:12:44.448826 PM,assistant,"The price for the Haier     HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. Let me know if you need information on other models."
+25,20/11/2024 12:12:44.448840 PM,user,any red color AC
+26,20/11/2024 12:12:44.448851 PM,assistant,"Yes, we offer red colored air conditioners such as the Haier HCS Digital Inverter Series Refrigerator (HRF-IFGA/IFRA/IFPA), priced at Rs. 102,000. Do you require pricing for additional products?"
+27,20/11/2024 12:12:44.448865 PM,user,give me the price of haier red tea cups
+28,20/11/2024 12:12:44.448877 PM,assistant,"Unfortunately, we do not carry red tea cups. Our focus lies on household appliances and electronics. What else can I help you with today?"
+29,20/11/2024 12:12:44.448890 PM,user,ok then give me the price of haier shoes
+30,20/11/2024 12:12:44.448901 PM,assistant,"I apologize, but we don't sell footwear. However, we do have a variety of home entertainment systems, smart speakers, and air purifiers available. Can I guide you through those instead?"
+31,20/11/2024 12:12:44.448915 PM,user,give the price of all the invertor ac
+32,20/11/2024 12:12:44.448926 PM,assistant,Let me check the prices for you now. Just a moment while I gather the information...
+33,20/11/2024 12:12:44.448939 PM,user,ok
+Q,20/11/2024 12:12:44.448950 PM,user,ok
+R,20/11/2024 12:12:44.448962 PM,assistant,"I'm sorry, but we currently do not have any inverter ACs listed. Let me see what alternatives we have for you."

@@ -1,0 +1,139 @@
+Message Index,Timestamp,Role,Content
+0,12/11/2024 03:29:19.209111 PM,user,"Here are some products I am interested in: Haier Hand Wash Series Washing Machine (HWM-1708)HWM80 1708Y - 8KGpriced at 70900, Washing machine haierwhite /10priced at 4, Haier Double Tub Washing Machine (HWM80-100SR)HWM80-100SR - 08KGpriced at 24501. Read it and say OK"
+1,12/11/2024 03:29:19.209134 PM,assistant,OK
+2,12/11/2024 03:29:19.209147 PM,user,"Here are some more products I am interested in: Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS)622ICG - Chocolate Glasspriced at 309900, Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG)HRF 578TBP - Black Metalpriced at 329900, Haier 748KG SBS Series Refrigerator (HRF-748KG)Black Glasspriced at 196900. Read it and say OK"
+3,12/11/2024 03:29:19.209163 PM,assistant,OK
+4,12/11/2024 03:29:19.209174 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W))White/HSU 12HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1 Tonpriced at 129351, Haier Turbo Cool Series Air Conditioner (HSU-24LTC/L)HSU-24LTC/L - 2 Tonpriced at 202000, Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC)HSU-12HFMCC - 1.0 Tonpriced at 129351, Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFM/N/F/AC/AD/AE/DG/DS/CE/CC-WUSDC(W))White/HSU 12HFM - 1 Tonpriced at 134000. Read it and say OK"
+5,12/11/2024 03:29:19.209193 PM,assistant,OK
+6,12/11/2024 03:29:19.209211 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HMN 25NG23)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HMN 25NG24)HMN 25NG24 - Black Grillingpriced at 38438, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599, Haier Built in Microwave Oven (HDL 25UG21)HDL 25UG21 - Silverpriced at 30699. Read it and say OK"
+7,12/11/2024 03:29:19.209229 PM,user,does haier has apple iphone
+8,12/11/2024 03:29:19.209242 PM,assistant,"No, Apple iPhone is not produced by Haier. However, we do have a range of home appliances such as washing machines, microwaves, and televisions. Is there anything specific you are looking for in terms of appliances?"
+9,12/11/2024 03:29:19.209258 PM,user,I need a fridge
+10,12/11/2024 03:29:19.209269 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+11,12/11/2024 03:29:19.209282 PM,user,Any you have
+12,12/11/2024 03:29:19.209293 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+13,12/11/2024 03:29:19.209309 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+14,12/11/2024 03:29:19.209322 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+15,12/11/2024 03:29:19.209334 PM,user,Is haier have good wood tables?
+Q,12/11/2024 03:29:19.209346 PM,user,Is haier have good wood tables?
+R,12/11/2024 03:29:19.209358 PM,assistant,Haier does not offer wooden furniture like tables. Our focus is on household electronics and kitchenware. How can I assist you further today?
+0,12/11/2024 03:29:27.084744 PM,user,"Here are some products I am interested in: Haier Hand Wash Series Washing Machine (HWM-1708)HWM80 1708Y - 8KGpriced at 70900, Washing machine haierwhite /10priced at 4, Haier Double Tub Washing Machine (HWM80-100SR)HWM80-100SR - 08KGpriced at 24501. Read it and say OK"
+1,12/11/2024 03:29:27.084778 PM,assistant,OK
+2,12/11/2024 03:29:27.084792 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HMN 25NG23)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HMN 25NG24)HMN 25NG24 - Black Grillingpriced at 38438. Read it and say OK"
+3,12/11/2024 03:29:27.084809 PM,assistant,OK
+4,12/11/2024 03:29:27.084820 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HMN 25NG23)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599, Haier Built in Microwave Oven (HDL 25UG21)HDL 25UG21 - Silverpriced at 30699. Read it and say OK"
+5,12/11/2024 03:29:27.084836 PM,assistant,OK
+6,12/11/2024 03:29:27.084849 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier FFD Safety Device 3 Burner Hob (HCC-309DGS)HCC-309DGS - Stainless Steelpriced at 58500, Haier HCC-738DGG:3 brass burner/76cm/FFD/GlassHCC-738DGG - Glass Finishpriced at 55400, Haier FFD Safety Device 3 Burner Hob (HCC-631DGS)HCC-631DGS - Stainless Steelpriced at 35150, Haier Electric Fuel Built In Oven (HWO-60S7EX1)HWO 60S7EX1 - 76Lpriced at 68373. Read it and say OK"
+7,12/11/2024 03:29:27.084866 PM,user,does haier has apple iphone
+8,12/11/2024 03:29:27.084878 PM,assistant,"No, Apple iPhone is not produced by Haier. However, we do have a range of home appliances such as washing machines, microwaves, and televisions. Is there anything specific you are looking for in terms of appliances?"
+9,12/11/2024 03:29:27.084892 PM,user,I need a fridge
+10,12/11/2024 03:29:27.084903 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+11,12/11/2024 03:29:27.084916 PM,user,Any you have
+12,12/11/2024 03:29:27.084927 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+13,12/11/2024 03:29:27.084942 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+14,12/11/2024 03:29:27.084954 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+15,12/11/2024 03:29:27.084967 PM,user,Is haier have good wood tables?
+16,12/11/2024 03:29:27.084979 PM,assistant,Haier does not offer wooden furniture like tables. Our focus is on household electronics and kitchenware. How can I assist you further today?
+17,12/11/2024 03:29:27.084991 PM,user,which wood haier used in their producta?
+Q,12/11/2024 03:29:27.085003 PM,user,which wood haier used in their producta?
+R,12/11/2024 03:29:27.085018 PM,assistant,"While Haier doesn't provide wooden furniture, our wide selection of innovative appliances may interest you. Check out our latest models for smart living solutions!"
+0,12/11/2024 03:29:35.878197 PM,user,"Here are some products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HMN 25NG23)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599. Read it and say OK"
+1,12/11/2024 03:29:35.878222 PM,assistant,OK
+2,12/11/2024 03:29:35.878236 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier FFD Safety Device 3 Burner Hob (HCC-309DGS)HCC-309DGS - Stainless Steelpriced at 58500, Haier HCC-738DGG:3 brass burner/76cm/FFD/GlassHCC-738DGG - Glass Finishpriced at 55400. Read it and say OK"
+3,12/11/2024 03:29:35.878253 PM,assistant,OK
+4,12/11/2024 03:29:35.878265 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HDL 25UG21)HDL 25UG21 - Silverpriced at 30699, Haier Built in Microwave Oven (HMN 25NG23)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599. Read it and say OK"
+5,12/11/2024 03:29:35.878282 PM,assistant,OK
+6,12/11/2024 03:29:35.878294 PM,user,"Here are some more products I am interested in: Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG)HRF 678TGG - Golden Glasspriced at 329900, Haier HCC-738DGG:3 brass burner/76cm/FFD/GlassHCC-738DGG - Glass Finishpriced at 55400, HRF-438 EPR/EPB/EPG - 15CFT E-Star Glass Door Series RefrigeratorGreen/HRF-438 EPR/EPB/EPC/EPG - 16 Cu Ft/438 Literpriced at 101999, Haier HCC-738DGS:3 brass burner/76cm/FFD/SSHCC-738DGS - Stainless Steelpriced at 55400, HRF-276 EPR/EPB/EPC/EPG - 10CFT E-Star Glass Door Series RefrigeratorGreen/HRF-276 EPR/EPB/EPC/EPG - 10 Cu Ft/276 Literpriced at 77999. Read it and say OK"
+7,12/11/2024 03:29:35.878313 PM,user,does haier has apple iphone
+8,12/11/2024 03:29:35.878324 PM,assistant,"No, Apple iPhone is not produced by Haier. However, we do have a range of home appliances such as washing machines, microwaves, and televisions. Is there anything specific you are looking for in terms of appliances?"
+9,12/11/2024 03:29:35.878338 PM,user,I need a fridge
+10,12/11/2024 03:29:35.878350 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+11,12/11/2024 03:29:35.878362 PM,user,Any you have
+12,12/11/2024 03:29:35.878374 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+13,12/11/2024 03:29:35.878389 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+14,12/11/2024 03:29:35.878401 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+15,12/11/2024 03:29:35.878414 PM,user,Is haier have good wood tables?
+16,12/11/2024 03:29:35.878425 PM,assistant,Haier does not offer wooden furniture like tables. Our focus is on household electronics and kitchenware. How can I assist you further today?
+17,12/11/2024 03:29:35.878438 PM,user,which wood haier used in their producta?
+18,12/11/2024 03:29:35.878450 PM,assistant,"While Haier doesn't provide wooden furniture, our wide selection of innovative appliances may interest you. Check out our latest models for smart living solutions!"
+19,12/11/2024 03:29:35.878463 PM,user,And is solid oak or pine is easily available?
+Q,12/11/2024 03:29:35.878474 PM,user,And is solid oak or pine is easily available?
+R,12/11/2024 03:29:35.878486 PM,assistant,"Solid Oak or Pine materials are typically found in custom furniture pieces rather than standard Haier offerings. For high-quality stainless steel appliances, check out our collection online."
+0,12/11/2024 03:29:44.256017 PM,user,"Here are some products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HDL 25UG21)HDL 25UG21 - Silverpriced at 30699, Haier Built in Microwave Oven (HMN 25NG23)HMN 25NG23 - Sliver Grillingpriced at 34642. Read it and say OK"
+1,12/11/2024 03:29:44.256053 PM,assistant,OK
+2,12/11/2024 03:29:44.256069 PM,user,"Here are some more products I am interested in: Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG)HRF 678TGG - Golden Glasspriced at 329900, Haier HCC-738DGG:3 brass burner/76cm/FFD/GlassHCC-738DGG - Glass Finishpriced at 55400, HRF-438 EPR/EPB/EPG - 15CFT E-Star Glass Door Series RefrigeratorGreen/HRF-438 EPR/EPB/EPC/EPG - 16 Cu Ft/438 Literpriced at 101999. Read it and say OK"
+3,12/11/2024 03:29:44.256087 PM,assistant,OK
+4,12/11/2024 03:29:44.256099 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL 25UG21)HDL 25UG21 - Silverpriced at 30699, Haier Built in Microwave Oven (HDL/HMN 25NG)HDL 25UG21 - Silverpriced at 30699, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599, Haier Dual Fuel Built In Oven (HWO-60S4MGX1)HWO 60S4MGX1 - Stainless Steelpriced at 62595. Read it and say OK"
+5,12/11/2024 03:29:44.256115 PM,assistant,OK
+6,12/11/2024 03:29:44.256126 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W))White/HSU 12HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1 Tonpriced at 129351, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599, Haier Built in Microwave Oven (HDL/HMN 25NG)HDL 25NG22 - Blackpriced at 26599, Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS)622ICG - Chocolate Glasspriced at 309900, Haier Built in Microwave Oven (HMN 25NG23)HMN 25NG23 - Sliver Grillingpriced at 34642. Read it and say OK"
+7,12/11/2024 03:29:44.256144 PM,user,does haier has apple iphone
+8,12/11/2024 03:29:44.256155 PM,assistant,"No, Apple iPhone is not produced by Haier. However, we do have a range of home appliances such as washing machines, microwaves, and televisions. Is there anything specific you are looking for in terms of appliances?"
+9,12/11/2024 03:29:44.256170 PM,user,I need a fridge
+10,12/11/2024 03:29:44.256182 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+11,12/11/2024 03:29:44.256195 PM,user,Any you have
+12,12/11/2024 03:29:44.256206 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+13,12/11/2024 03:29:44.256222 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+14,12/11/2024 03:29:44.256235 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+15,12/11/2024 03:29:44.256247 PM,user,Is haier have good wood tables?
+16,12/11/2024 03:29:44.256258 PM,assistant,Haier does not offer wooden furniture like tables. Our focus is on household electronics and kitchenware. How can I assist you further today?
+17,12/11/2024 03:29:44.256271 PM,user,which wood haier used in their producta?
+18,12/11/2024 03:29:44.256282 PM,assistant,"While Haier doesn't provide wooden furniture, our wide selection of innovative appliances may interest you. Check out our latest models for smart living solutions!"
+19,12/11/2024 03:29:44.256295 PM,user,And is solid oak or pine is easily available?
+20,12/11/2024 03:29:44.256307 PM,assistant,"Solid Oak or Pine materials are typically found in custom furniture pieces rather than standard Haier offerings. For high-quality stainless steel appliances, check out our collection online."
+21,12/11/2024 03:29:44.256320 PM,user,Is addminssions are open in haier university?
+Q,12/11/2024 03:29:44.256333 PM,user,Is addminssions are open in haier university?
+R,12/11/2024 03:29:44.256346 PM,assistant,"For admission-related queries about Haier University, you should directly contact the admissions office to get up-to-date information. They would be able to confirm any ongoing intake programs or additional details you might need."
+0,12/11/2024 03:29:51.958358 PM,user,"Here are some products I am interested in: Haier Built in Microwave Oven (HDL 25UG21)HDL 25UG21 - Silverpriced at 30699, Haier Built in Microwave Oven (HDL/HMN 25NG)HDL 25UG21 - Silverpriced at 30699, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599. Read it and say OK"
+1,12/11/2024 03:29:51.958384 PM,assistant,OK
+2,12/11/2024 03:29:51.958397 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W))White/HSU 12HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1 Tonpriced at 129351, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599, Haier Built in Microwave Oven (HDL/HMN 25NG)HDL 25NG22 - Blackpriced at 26599. Read it and say OK"
+3,12/11/2024 03:29:51.958414 PM,assistant,OK
+4,12/11/2024 03:29:51.958427 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W))White/HSU 12HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1 Tonpriced at 129351, Haier Marvel Inverter Series Air Conditioner (HSU-18HFMAE)HSU-18HFMAE - 1.5 Tonpriced at 154644, Haier Marvel Inverter Series Air Conditioner (HSU-18HFMCE)HSU-18HFMCE - 1.5 Tonpriced at 154644, Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC)HSU-12HFMCC - 1.0 Tonpriced at 129351. Read it and say OK"
+5,12/11/2024 03:29:51.958446 PM,assistant,OK
+6,12/11/2024 03:29:51.958457 PM,user,"Here are some more products I am interested in: Haier Solo Series 25/30L Microwave (HDL-25/30MX60/80)HDL 30MX80 - 30Lpriced at 31415, Haier Microwave Grill Oven HMN-45200ESDHMN-45200ESD - 45Lpriced at 46000, Haier Built in Microwave Oven (HDL/HMN 25NG)HDL 25NG22 - Blackpriced at 26599, Haier Solo Series 30L Microwave (HDL-30MX80)HDL 30MX80 - 30Lpriced at 31415, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599. Read it and say OK"
+7,12/11/2024 03:29:51.958475 PM,user,does haier has apple iphone
+8,12/11/2024 03:29:51.958486 PM,assistant,"No, Apple iPhone is not produced by Haier. However, we do have a range of home appliances such as washing machines, microwaves, and televisions. Is there anything specific you are looking for in terms of appliances?"
+9,12/11/2024 03:29:51.958500 PM,user,I need a fridge
+10,12/11/2024 03:29:51.958512 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+11,12/11/2024 03:29:51.958525 PM,user,Any you have
+12,12/11/2024 03:29:51.958536 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+13,12/11/2024 03:29:51.958551 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+14,12/11/2024 03:29:51.958564 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+15,12/11/2024 03:29:51.958577 PM,user,Is haier have good wood tables?
+16,12/11/2024 03:29:51.958588 PM,assistant,Haier does not offer wooden furniture like tables. Our focus is on household electronics and kitchenware. How can I assist you further today?
+17,12/11/2024 03:29:51.958601 PM,user,which wood haier used in their producta?
+18,12/11/2024 03:29:51.958613 PM,assistant,"While Haier doesn't provide wooden furniture, our wide selection of innovative appliances may interest you. Check out our latest models for smart living solutions!"
+19,12/11/2024 03:29:51.958626 PM,user,And is solid oak or pine is easily available?
+20,12/11/2024 03:29:51.958638 PM,assistant,"Solid Oak or Pine materials are typically found in custom furniture pieces rather than standard Haier offerings. For high-quality stainless steel appliances, check out our collection online."
+21,12/11/2024 03:29:51.958652 PM,user,Is addminssions are open in haier university?
+22,12/11/2024 03:29:51.958663 PM,assistant,"For admission-related queries about Haier University, you should directly contact the admissions office to get up-to-date information. They would be able to confirm any ongoing intake programs or additional details you might need."
+23,12/11/2024 03:29:51.958677 PM,user,which is the latest haier wood table prices?
+Q,12/11/2024 03:29:51.958689 PM,user,which is the latest haier wood table prices?
+R,12/11/2024 03:29:51.958701 PM,assistant,"As mentioned earlier, Haier does not produce wooden tables. We specialize in electronic devices like air conditioners, TVs, and water heaters. How else can I help you today?"
+0,12/11/2024 03:29:59.491025 PM,user,"Here are some products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W))White/HSU 12HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1 Tonpriced at 129351, Haier Marvel Inverter Series Air Conditioner (HSU-18HFMAE)HSU-18HFMAE - 1.5 Tonpriced at 154644, Haier Marvel Inverter Series Air Conditioner (HSU-18HFMCE)HSU-18HFMCE - 1.5 Tonpriced at 154644. Read it and say OK"
+1,12/11/2024 03:29:59.491060 PM,assistant,OK
+2,12/11/2024 03:29:59.491074 PM,user,"Here are some more products I am interested in: Haier Solo Series 25/30L Microwave (HDL-25/30MX60/80)HDL 30MX80 - 30Lpriced at 31415, Haier Microwave Grill Oven HMN-45200ESDHMN-45200ESD - 45Lpriced at 46000, Haier Built in Microwave Oven (HDL/HMN 25NG)HDL 25NG22 - Blackpriced at 26599. Read it and say OK"
+3,12/11/2024 03:29:59.491090 PM,assistant,OK
+4,12/11/2024 03:29:59.491101 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HMN 25NG23)HMN 25NG23 - Sliver Grillingpriced at 34642, Haier Built in Microwave Oven (HDL 25NG22)HDL 25NG22 - Blackpriced at 26599, Haier Built in Microwave Oven (HMN 25NG24)HMN 25NG24 - Black Grillingpriced at 38438. Read it and say OK"
+5,12/11/2024 03:29:59.491117 PM,assistant,OK
+6,12/11/2024 03:29:59.491128 PM,user,"Here are some more products I am interested in: Haier Solo Series 25/30L Microwave (HDL-25/30MX60/80)HDL 30MX80 - 30Lpriced at 31415, Haier Solo Series 30L Microwave (HDL-30MX80)HDL 30MX80 - 30Lpriced at 31415, Haier 36L Grill Series Microwave Oven (HDL-36200EGD)HDL-36200EGD - 36Lpriced at 39999, Haier Solo Series 25 Microwave (HDL-25MX60)HDL 25MX60 - 25Lpriced at 26290, Haier HCC-736DGG:3 asm burner/76cm/FFD/GlassHCC-736DGG - Glass Finishpriced at 45400. Read it and say OK"
+7,12/11/2024 03:29:59.491145 PM,user,does haier has apple iphone
+8,12/11/2024 03:29:59.491157 PM,assistant,"No, Apple iPhone is not produced by Haier. However, we do have a range of home appliances such as washing machines, microwaves, and televisions. Is there anything specific you are looking for in terms of appliances?"
+9,12/11/2024 03:29:59.491171 PM,user,I need a fridge
+10,12/11/2024 03:29:59.491182 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+11,12/11/2024 03:29:59.491194 PM,user,Any you have
+12,12/11/2024 03:29:59.491205 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+13,12/11/2024 03:29:59.491220 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+14,12/11/2024 03:29:59.491232 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+15,12/11/2024 03:29:59.491245 PM,user,Is haier have good wood tables?
+16,12/11/2024 03:29:59.491256 PM,assistant,Haier does not offer wooden furniture like tables. Our focus is on household electronics and kitchenware. How can I assist you further today?
+17,12/11/2024 03:29:59.491269 PM,user,which wood haier used in their producta?
+18,12/11/2024 03:29:59.491280 PM,assistant,"While Haier doesn't provide wooden furniture, our wide selection of innovative appliances may interest you. Check out our latest models for smart living solutions!"
+19,12/11/2024 03:29:59.491294 PM,user,And is solid oak or pine is easily available?
+20,12/11/2024 03:29:59.491305 PM,assistant,"Solid Oak or Pine materials are typically found in custom furniture pieces rather than standard Haier offerings. For high-quality stainless steel appliances, check out our collection online."
+21,12/11/2024 03:29:59.491326 PM,user,Is addminssions are open in haier university?
+22,12/11/2024 03:29:59.491345 PM,assistant,"For admission-related queries about Haier University, you should directly contact the admissions office to get up-to-date information. They would be able to confirm any ongoing intake programs or additional details you might need."
+23,12/11/2024 03:29:59.491370 PM,user,which is the latest haier wood table prices?
+24,12/11/2024 03:29:59.491391 PM,assistant,"As mentioned earlier, Haier does not produce wooden tables. We specialize in electronic devices like air conditioners, TVs, and water heaters. How else can I help you today?"
+25,12/11/2024 03:29:59.491405 PM,user,what is the price of 36*40 inches haier wood  table
+Q,12/11/2024 03:29:59.491417 PM,user,what is the price of 36*40 inches haier wood  table
+R,12/11/2024 03:29:59.491429 PM,assistant,"Unfortunately, we don't sell wooden tables. We focus on providing top-notch appliances like TVs, AC units, and refrigerators. Would you like to explore those instead?"

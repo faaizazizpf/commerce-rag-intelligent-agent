@@ -1,0 +1,7 @@
+Message Index,Timestamp,Role,Content
+0,28/11/2024 06:25:30.457664 PM,user,"Here are some more products I am interested in: Remote Remote priced at 10, H50K800UX - 50 Inch Google TV 50 Inches priced at 95399, Haier LED - 4K UHD Real Tv Android Series - K6600 K6600 - 50"" priced at 85900, Haier 55"" 4K UHD Android TV (HE55S6UG PRO) HE55S6UG PRO - 55"" priced at 154210, Remote Remote priced at 10. Read it and say OK"
+1,28/11/2024 06:25:30.457684 PM,assistant,OK
+2,28/11/2024 06:25:30.457696 PM,user,remote price?
+3,28/11/2024 06:25:30.457705 PM,assistant,<function query_RAG_check_with_link at 0x7163941a9000>
+Q,28/11/2024 06:25:30.457717 PM,user,remote price?
+R,28/11/2024 06:25:30.457725 PM,assistant,<function query_RAG_check_with_link at 0x7163941a9000>

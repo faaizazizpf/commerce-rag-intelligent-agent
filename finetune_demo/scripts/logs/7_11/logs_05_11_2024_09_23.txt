@@ -1,0 +1,325 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Starting of the Server Run05/11/2024 09:23:01.115821 PM%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Message 0: [05/11/2024 09:23:01.116143 PM] user: Here is the list of items of Haier products. Read it and say OK! {'Product Info': 'Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Red/10 Cu Ft/276 Liter', 'Price(Rs)': 82000}, {'Product Info': 'Washing machine haier', 'Status': 'inactive', 'Categories': 'Home Appliances/', 'Variation': 'black/30', 'Price(Rs)': 4}, {'Product Info': 'HRF-246 EPR/EPB/EPC/EPG - 8.6 CFT E-Star Glass Door Series Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Chocolate/HRF-246 EPR/EPB/EPC/EPG - 9 Cu Ft/246 Liter', 'Price(Rs)': 72999}, {'Product Info': 'HRF-306 EPR/EPB/EPC/EPG - 11CFT E-Star Glass Door Series Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Black/HRF-306 EPR/EPB/EPC/EPG - 11 Cu Ft/306 Liter', 'Price(Rs)': 86000}, {'Product Info': 'HRF-336 EPR/EPB/EPC/EPG - 12CFT E-Star Glass Door Series Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Black/HRF-336 EPR/EPB/EPC/EPG - 12 Cu Ft/336 Liter', 'Price(Rs)': 96000}, 
+Message 1: [05/11/2024 09:23:01.116469 PM] assistant: OK
+Message 2: [05/11/2024 09:23:01.116960 PM] user: Here is the second list. Read it and say OK!
+                "{
+                      "contactInformation": {
+                        "headOffice": {
+                          "address": "4-B, Q-Block, Old College Road, M. M. Alam Road Extension, Gulberg-II, Lahore, Pakistan"
+                        },
+                        "emails": [
+                          "info@haier.com.pk",
+                          "corporatesales@haier.com.pk",
+                          "Export@haier.com.pk"
+                        ],
+                        "phone": "(042) 1111 42437"
+                      }
+                    }"
+                {'Product Info': 'Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Red/7 Cu Ft/216 Liter', 'Price(Rs)': 73000}, {'Product Info': 'Haier Marvel Inverter Series Air Conditioner (HSU-18HFMAE)', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'HSU-18HFMAE - 1.5 Ton', 'Price(Rs)': 154644}, {'Product Info': 'Haier LED - 4K UHD Real Tv Android Series - K6600', 'Status': 'inactive', 'Categories': 'Home Appliances/Televisions/4K Smart Series', 'Variation': 'K6600 - 65"', 'Price(Rs)': 139900}, {'Product Info': 'Haier Triple Inverter Series Air Conditioner (HSU-12/18 HFC/N/F/M-USDC(W))', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'White/HSU 18HFC - 1.5 Ton', 'Price(Rs)': 153000}, {'Product Info': 'Haier 32L Solo Series Microwave Oven (HDL-32200EGD)', 'Status': 'inactive', 'Categories': 'Home Appliances/Kitchen Appliances/Microwaves', 'Variation': 'HDL-32200EGD - 32L', 'Price(Rs)': 34999}, 
+Message 3: [05/11/2024 09:23:01.117219 PM] assistant: OK
+Message 4: [05/11/2024 09:23:01.117468 PM] user: Here is the third list of items of Haier products. Read it and say OK! [{'Product Info': 'Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Gold/16 Cu Ft/438 Liter', 'Price(Rs)': 76092, 'combined': 'Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Home Appliances/Refrigerators/Non Inverter Refrigerator Gold/16 Cu Ft/438 Liter'}, {'Product Info': 'Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Gold/HRF-216 - 7 Cu Ft/216 Liter', 'Price(Rs)': 63999, 'combined': 'Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD) Home Appliances/Refrigerators/Non Inverter Refrigerator Gold/HRF-216 - 7 Cu Ft/216 Liter'}, {'Product Info': 'HRF-186 EBS/EBD - 6.5 CFT E-Star Metal Door Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Gold/HRF-186 - 6 Cu Ft/186 Liter', 'Price(Rs)': 59900, 'combined': 'HRF-186 EBS/EBD - 6.5 CFT E-Star Metal Door Refrigerator Home Appliances/Refrigerators/Non Inverter Refrigerator Gold/HRF-186 - 6 Cu Ft/186 Liter'}, {'Product Info': 'HRF-438 EBS/EBD - 15 CFT E-Star Metal Door Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Gold/HRF-438 - 16 Cu Ft/438 Liter', 'Price(Rs)': 76092, 'combined': 'HRF-438 EBS/EBD - 15 CFT E-Star Metal Door Refrigerator Home Appliances/Refrigerators/Non Inverter Refrigerator Gold/HRF-438 - 16 Cu Ft/438 Liter'}, {'Product Info': 'HRF-306 EBS/EBD - 11 CFT E-Star Metal Door Series Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Gold/HRF-306 - 11 Cu Ft/306 Liter', 'Price(Rs)': 80000, 'combined': 'HRF-306 EBS/EBD - 11 CFT E-Star Metal Door Series Refrigerator Home Appliances/Refrigerators/Non Inverter Refrigerator Gold/HRF-306 - 11 Cu Ft/306 Liter'}]
+Message 5: [05/11/2024 09:23:01.117732 PM] assistant: OK
+Message 6: [05/11/2024 09:23:01.118000 PM] user: I need a fridge
+Message 7: [05/11/2024 09:23:01.118253 PM] assistant: Sure! We have several options available. Could you please specify your requirements or preferences?
+Message 8: [05/11/2024 09:23:01.118529 PM] user: Any you have
+Message 9: [05/11/2024 09:23:01.118752 PM] assistant: We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options.
+Message 10: [05/11/2024 09:23:01.119004 PM] user: Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction.
+Message 11: [05/11/2024 09:23:01.119225 PM] assistant: I understand. I will act as an AI customer support chatbot specialized in Haier products.
+Message 12: [05/11/2024 09:23:01.119621 PM] user: Washing machine haier HRF-622IBS black/30 price?
+Message 13: [05/11/2024 09:23:01.119887 PM] assistant: The Washing machine haier at Rs. 4. Would you like to proceed with the purchase?
+Message 14: [05/11/2024 09:23:01.120241 PM] user: Washing machine haier HRF-622IBS grey/20
+Message 15: [05/11/2024 09:23:01.120898 PM] assistant: Understood. The product details are as follows:
+Product Name: Haier Twin Tub Semi Automatic Washing Machine HTW100-1169
+Capacity: 6.2KG
+Color: Grey
+Price: Rs. 44,400
+
+Would you like to make a purchase?
+Message 16: [05/11/2024 09:23:01.121246 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 17: [05/11/2024 09:23:01.121474 PM] assistant: This watch offers advanced features for seamless usage. Would you like to proceed with the purchase?
+Message 18: [05/11/2024 09:23:01.121696 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+Message 19: [05/11/2024 09:23:01.121915 PM] assistant: The price for this watch is Rs. 19,130. Would you like to confirm the order?
+Message 20: [05/11/2024 09:23:01.122102 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 21: [05/11/2024 09:23:01.122342 PM] assistant: Thank you for choosing our smartwatch. You can place the order through our website or contact us directly for assistance.
+Message 22: [05/11/2024 09:23:01.122562 PM] user: Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+Message 23: [05/11/2024 09:23:01.122802 PM] assistant: The price for this microwave is Rs. 17,050. Would you like to add it to your cart?
+Message 24: [05/11/2024 09:23:01.123054 PM] user: Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+Message 25: [05/11/2024 09:23:01.123329 PM] assistant: The price for this hob is Rs. 17,500. How would you like to proceed?
+Message 26: [05/11/2024 09:23:01.123585 PM] user: Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+Message 27: [05/11/2024 09:23:01.123838 PM] assistant: Yes, this television is ideal for home entertainment purposes due to its high-quality display and user-friendly interface.
+Message 28: [05/11/2024 09:23:01.125706 PM] user: what's the price?
+Message 29: [05/11/2024 09:23:01.125960 PM] assistant: The price for the Haier LED - 4K UHD Real Tv Android Series - K6600 is Rs.  HMW-28100-28L Digital Grill Microwave Oven . Is there anything else I can help you with?
+Message 30: [05/11/2024 09:23:01.126228 PM] user: Haier LED - Real Android TV - S6 series price of this model?
+Message 31: [05/11/2024 09:23:01.126476 PM] assistant: The price for the Haier LED - Real Android TV - S6 series is Rs. 68,250. Would you like to inquire about additional details or place an order?
+Message 32: [05/11/2024 09:23:01.126659 PM] user: Haier LED - Real Android TV - S6 series S6 - 55 price
+Message 33: [05/11/2024 09:23:01.126848 PM] assistant: The price for the Haier LED - Real Android TV - S6 series S6 - 55 inch variant is Rs. 68,250. Please let me know if you wish to proceed with the purchase.
+Message 34: [05/11/2024 09:23:01.127129 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+Message 35: [05/11/2024 09:23:01.127368 PM] assistant: The price for the Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) is Rs. 58,700. If you require any further information, feel free to ask.
+Message 36: [05/11/2024 09:23:01.128790 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+[Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q]
+Received query: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter 
+[R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R]
+Response generated: The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in gold color with 16 cu ft/438 liter capacity is priced at Rs. 58,700. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Starting of the Server Run05/11/2024 09:23:11.341505 PM%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Message 0: [05/11/2024 09:23:11.341845 PM] user: Here is the list of items of Haier products. Read it and say OK! {'Product Info': 'HDF-405 INV - 14.3 CFT Single Door Inverter Deep Freezer', 'Status': 'active', 'Categories': 'Home Appliances/Deep Freezers/Single Door Inverter', 'Variation': 'HDF-405I - 405 Liter', 'Price(Rs)': 94499}, {'Product Info': 'Candy - C55K7UG - 55 Inch Android Smart LED TV', 'Status': 'active', 'Categories': 'Home Appliances/Televisions/Candy LED', 'Variation': 'Certified Android TV', 'Price(Rs)': 110899}, {'Product Info': 'H55S900UX - 55 Inch Google TV', 'Status': 'active', 'Categories': 'Home Appliances/Televisions/QLED Series', 'Variation': '55 inches', 'Price(Rs)': 199999}, {'Product Info': 'Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Non Inverter AC', 'Variation': '20/200/333', 'Price(Rs)': 1925}, {'Product Info': 'Haier Pearl Inverter Series Air Conditioner (HSU-12/18 HFPCA/AA/BG-SG-WUSDC)', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'Black/HSU-18HFP - 1.5 Ton', 'Price(Rs)': 167435}, 
+Message 1: [05/11/2024 09:23:11.342046 PM] assistant: OK
+Message 2: [05/11/2024 09:23:11.342241 PM] user: Here is the second list. Read it and say OK!
+                "{
+                      "contactInformation": {
+                        "headOffice": {
+                          "address": "4-B, Q-Block, Old College Road, M. M. Alam Road Extension, Gulberg-II, Lahore, Pakistan"
+                        },
+                        "emails": [
+                          "info@haier.com.pk",
+                          "corporatesales@haier.com.pk",
+                          "Export@haier.com.pk"
+                        ],
+                        "phone": "(042) 1111 42437"
+                      }
+                    }"
+                {'Product Info': 'Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Non Inverter AC', 'Variation': '100/200/333', 'Price(Rs)': 1994}, {'Product Info': 'Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Non Inverter AC', 'Variation': '30/1000/222', 'Price(Rs)': 1930}, {'Product Info': 'HRF-336 IAPA/IARA - 11.8 CFT Digital Inverter series Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Purple/336 Liters', 'Price(Rs)': 99000}, {'Product Info': 'Haier Hand Wash Series Washing Machine (HWM-1708)', 'Status': 'inactive', 'Categories': 'Home Appliances/Washing Machines/Top Load Fully Automatic', 'Variation': 'HWM80 1708Y - 8KG', 'Price(Rs)': 70900}, {'Product Info': 'Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFM/N/F/AC/AD/AE/DG/DS/CE/CC-WUSDC(W))', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'White/HSU 18HFM - 1.5 Ton', 'Price(Rs)': 160000}, 
+Message 3: [05/11/2024 09:23:11.342664 PM] assistant: OK
+Message 4: [05/11/2024 09:23:11.342955 PM] user: Here is the third list of items of Haier products. Read it and say OK! [{'Product Info': 'Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Red/10 Cu Ft/276 Liter', 'Price(Rs)': 82000, 'combined': 'Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Home Appliances/Refrigerators/Non Inverter Refrigerator Red/10 Cu Ft/276 Liter'}, {'Product Info': 'Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Gold/10 Cu Ft/276 Liter', 'Price(Rs)': 78000, 'combined': 'Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Home Appliances/Refrigerators/Non Inverter Refrigerator Gold/10 Cu Ft/276 Liter'}, {'Product Info': 'HRF-276 EPR/EPB/EPC/EPG - 10CFT E-Star Glass Door Series Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Red/HRF-276 EPR/EPB/EPC/EPG - 10 Cu Ft/276 Liter', 'Price(Rs)': 77999, 'combined': 'HRF-276 EPR/EPB/EPC/EPG - 10CFT E-Star Glass Door Series Refrigerator Home Appliances/Refrigerators/Non Inverter Refrigerator Red/HRF-276 EPR/EPB/EPC/EPG - 10 Cu Ft/276 Liter'}, {'Product Info': 'Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Red/11 Cu Ft/306 Liter', 'Price(Rs)': 63583, 'combined': 'Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB) Home Appliances/Refrigerators/Inverter Refrigerator Red/11 Cu Ft/306 Liter'}, {'Product Info': 'HRF-306 EPR/EPB/EPC/EPG - 11CFT E-Star Glass Door Series Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Red/HRF-306 EPR/EPB/EPC/EPG - 11 Cu Ft/306 Liter', 'Price(Rs)': 86000, 'combined': 'HRF-306 EPR/EPB/EPC/EPG - 11CFT E-Star Glass Door Series Refrigerator Home Appliances/Refrigerators/Non Inverter Refrigerator Red/HRF-306 EPR/EPB/EPC/EPG - 11 Cu Ft/306 Liter'}]
+Message 5: [05/11/2024 09:23:11.343136 PM] assistant: OK
+Message 6: [05/11/2024 09:23:11.343330 PM] user: I need a fridge
+Message 7: [05/11/2024 09:23:11.343536 PM] assistant: Sure! We have several options available. Could you please specify your requirements or preferences?
+Message 8: [05/11/2024 09:23:11.343809 PM] user: Any you have
+Message 9: [05/11/2024 09:23:11.344021 PM] assistant: We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options.
+Message 10: [05/11/2024 09:23:11.344163 PM] user: Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction.
+Message 11: [05/11/2024 09:23:11.344341 PM] assistant: I understand. I will act as an AI customer support chatbot specialized in Haier products.
+Message 12: [05/11/2024 09:23:11.344646 PM] user: Washing machine haier HRF-622IBS black/30 price?
+Message 13: [05/11/2024 09:23:11.344804 PM] assistant: The Washing machine haier at Rs. 4. Would you like to proceed with the purchase?
+Message 14: [05/11/2024 09:23:11.345084 PM] user: Washing machine haier HRF-622IBS grey/20
+Message 15: [05/11/2024 09:23:11.345776 PM] assistant: Understood. The product details are as follows:
+Product Name: Haier Twin Tub Semi Automatic Washing Machine HTW100-1169
+Capacity: 6.2KG
+Color: Grey
+Price: Rs. 44,400
+
+Would you like to make a purchase?
+Message 16: [05/11/2024 09:23:11.345988 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 17: [05/11/2024 09:23:11.346237 PM] assistant: This watch offers advanced features for seamless usage. Would you like to proceed with the purchase?
+Message 18: [05/11/2024 09:23:11.346405 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+Message 19: [05/11/2024 09:23:11.346561 PM] assistant: The price for this watch is Rs. 19,130. Would you like to confirm the order?
+Message 20: [05/11/2024 09:23:11.346760 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 21: [05/11/2024 09:23:11.346911 PM] assistant: Thank you for choosing our smartwatch. You can place the order through our website or contact us directly for assistance.
+Message 22: [05/11/2024 09:23:11.347063 PM] user: Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+Message 23: [05/11/2024 09:23:11.347212 PM] assistant: The price for this microwave is Rs. 17,050. Would you like to add it to your cart?
+Message 24: [05/11/2024 09:23:11.347385 PM] user: Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+Message 25: [05/11/2024 09:23:11.347572 PM] assistant: The price for this hob is Rs. 17,500. How would you like to proceed?
+Message 26: [05/11/2024 09:23:11.347743 PM] user: Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+Message 27: [05/11/2024 09:23:11.347890 PM] assistant: Yes, this television is ideal for home entertainment purposes due to its high-quality display and user-friendly interface.
+Message 28: [05/11/2024 09:23:11.348039 PM] user: what's the price?
+Message 29: [05/11/2024 09:23:11.348210 PM] assistant: The price for the Haier LED - 4K UHD Real Tv Android Series - K6600 is Rs.  HMW-28100-28L Digital Grill Microwave Oven . Is there anything else I can help you with?
+Message 30: [05/11/2024 09:23:11.348408 PM] user: Haier LED - Real Android TV - S6 series price of this model?
+Message 31: [05/11/2024 09:23:11.348574 PM] assistant: The price for the Haier LED - Real Android TV - S6 series is Rs. 68,250. Would you like to inquire about additional details or place an order?
+Message 32: [05/11/2024 09:23:11.348729 PM] user: Haier LED - Real Android TV - S6 series S6 - 55 price
+Message 33: [05/11/2024 09:23:11.348903 PM] assistant: The price for the Haier LED - Real Android TV - S6 series S6 - 55 inch variant is Rs. 68,250. Please let me know if you wish to proceed with the purchase.
+Message 34: [05/11/2024 09:23:11.349049 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+Message 35: [05/11/2024 09:23:11.349227 PM] assistant: The price for the Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) is Rs. 58,700. If you require any further information, feel free to ask.
+Message 36: [05/11/2024 09:23:11.349383 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+Message 37: [05/11/2024 09:23:11.349531 PM] assistant: The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in gold color with 16 cu ft/438 liter capacity is priced at Rs. 58,700.
+Message 38: [05/11/2024 09:23:11.349832 PM] user: Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Red/10 Cu Ft/276 Liter this model price?
+[Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q]
+Received query: Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Red/10 Cu Ft/276 Liter this model price? 
+[R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R]
+Response generated: The Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) in red color with 10 cu ft/276 liter capacity is priced at Rs. 73,000. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Starting of the Server Run05/11/2024 09:23:23.348667 PM%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Message 0: [05/11/2024 09:23:23.348914 PM] user: Here is the list of items of Haier products. Read it and say OK! {'Product Info': 'Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Red/10 Cu Ft/276 Liter', 'Price(Rs)': 82000}, {'Product Info': 'Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Side by Side Refrigerator', 'Variation': 'HRF 578TBP - Black Metal', 'Price(Rs)': 329900}, {'Product Info': 'Haier Digital Inverter series Refrigerator (HRF-306 IAPA/IARA)\n', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Green/306 Liters', 'Price(Rs)': 95000}, {'Product Info': 'Haier Pearl Inverter Series Air Conditioner (HSU-12/18 HFP/CA/AA/BG-SG-WUSDC)', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'Black/HSU 12HFP - 1 Ton', 'Price(Rs)': 143000}, {'Product Info': 'HRF-538 IAPA/IARA -  12CFT Digital Inverter Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Red', 'Price(Rs)': 129999}, 
+Message 1: [05/11/2024 09:23:23.349117 PM] assistant: OK
+Message 2: [05/11/2024 09:23:23.349292 PM] user: Here is the second list. Read it and say OK!
+                "{
+                      "contactInformation": {
+                        "headOffice": {
+                          "address": "4-B, Q-Block, Old College Road, M. M. Alam Road Extension, Gulberg-II, Lahore, Pakistan"
+                        },
+                        "emails": [
+                          "info@haier.com.pk",
+                          "corporatesales@haier.com.pk",
+                          "Export@haier.com.pk"
+                        ],
+                        "phone": "(042) 1111 42437"
+                      }
+                    }"
+                {'Product Info': 'Haier Pearl Inverter Series Air Conditioner (HSU-12/18 HFPCA/AA/BG-SG-WUSDC)', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'Silver/HSU-12HFPCA - 1.5 Ton', 'Price(Rs)': 167435}, {'Product Info': 'HWM85-826 - 8.5KG Top Load Fully Automatic Washing Machine', 'Status': 'active', 'Categories': 'Home Appliances/Washing Machines/Top Load Fully Automatic', 'Variation': 'HWM85-826 - 8.5KG', 'Price(Rs)': 59999}, {'Product Info': 'Haier Hygienic Wash Series Washing Machine (HW08-BP929S3)', 'Status': 'inactive', 'Categories': 'Home Appliances/Washing Machines/Front Load Fully Automatic', 'Variation': 'HW08-BP929S3 - 8 KG', 'Price(Rs)': 120000}, {'Product Info': 'Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFM/N/F/AC/AD/AE/DG/DS/CE/CC-WUSDC(W))', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'White/HSU 12HFMCC - 1 Ton', 'Price(Rs)': 134000}, {'Product Info': 'Washing machine haier', 'Status': 'inactive', 'Categories': 'Home Appliances/', 'Variation': 'grey/20', 'Price(Rs)': 4}, 
+Message 3: [05/11/2024 09:23:23.349487 PM] assistant: OK
+Message 4: [05/11/2024 09:23:23.349766 PM] user: Here is the third list of items of Haier products. Read it and say OK! [{'Product Info': 'Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 95999, 'combined': 'Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}, {'Product Info': 'HRF-306IBSA - 10CFT Digital Inverter refrigerator', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 82999, 'combined': 'HRF-306IBSA - 10CFT Digital Inverter refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}, {'Product Info': 'HRF-438 IBSA - 15CFT Digital Inverter Refrigerator', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 97999, 'combined': 'HRF-438 IBSA - 15CFT Digital Inverter Refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}, {'Product Info': 'Haier Digital Inverter Premium Series Refrigerator (HRF-IPB/IPR)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Black/14 Cu Ft/368 Liter', 'Price(Rs)': 66800, 'combined': 'Haier Digital Inverter Premium Series Refrigerator (HRF-IPB/IPR) Home Appliances/Refrigerators/Inverter Refrigerator Black/14 Cu Ft/368 Liter'}, {'Product Info': 'HRF-368 IBSA - 13CFT Digital Inverter Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 92999, 'combined': 'HRF-368 IBSA - 13CFT Digital Inverter Refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}]
+Message 5: [05/11/2024 09:23:23.349956 PM] assistant: OK
+Message 6: [05/11/2024 09:23:23.350100 PM] user: I need a fridge
+Message 7: [05/11/2024 09:23:23.350918 PM] assistant: Sure! We have several options available. Could you please specify your requirements or preferences?
+Message 8: [05/11/2024 09:23:23.351096 PM] user: Any you have
+Message 9: [05/11/2024 09:23:23.351251 PM] assistant: We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options.
+Message 10: [05/11/2024 09:23:23.351506 PM] user: Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction.
+Message 11: [05/11/2024 09:23:23.351652 PM] assistant: I understand. I will act as an AI customer support chatbot specialized in Haier products.
+Message 12: [05/11/2024 09:23:23.351826 PM] user: Washing machine haier HRF-622IBS black/30 price?
+Message 13: [05/11/2024 09:23:23.351988 PM] assistant: The Washing machine haier at Rs. 4. Would you like to proceed with the purchase?
+Message 14: [05/11/2024 09:23:23.352158 PM] user: Washing machine haier HRF-622IBS grey/20
+Message 15: [05/11/2024 09:23:23.352322 PM] assistant: Understood. The product details are as follows:
+Product Name: Haier Twin Tub Semi Automatic Washing Machine HTW100-1169
+Capacity: 6.2KG
+Color: Grey
+Price: Rs. 44,400
+
+Would you like to make a purchase?
+Message 16: [05/11/2024 09:23:23.352483 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 17: [05/11/2024 09:23:23.352721 PM] assistant: This watch offers advanced features for seamless usage. Would you like to proceed with the purchase?
+Message 18: [05/11/2024 09:23:23.352893 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+Message 19: [05/11/2024 09:23:23.353080 PM] assistant: The price for this watch is Rs. 19,130. Would you like to confirm the order?
+Message 20: [05/11/2024 09:23:23.353235 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 21: [05/11/2024 09:23:23.353498 PM] assistant: Thank you for choosing our smartwatch. You can place the order through our website or contact us directly for assistance.
+Message 22: [05/11/2024 09:23:23.353697 PM] user: Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+Message 23: [05/11/2024 09:23:23.353881 PM] assistant: The price for this microwave is Rs. 17,050. Would you like to add it to your cart?
+Message 24: [05/11/2024 09:23:23.354039 PM] user: Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+Message 25: [05/11/2024 09:23:23.354238 PM] assistant: The price for this hob is Rs. 17,500. How would you like to proceed?
+Message 26: [05/11/2024 09:23:23.354396 PM] user: Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+Message 27: [05/11/2024 09:23:23.354585 PM] assistant: Yes, this television is ideal for home entertainment purposes due to its high-quality display and user-friendly interface.
+Message 28: [05/11/2024 09:23:23.354745 PM] user: what's the price?
+Message 29: [05/11/2024 09:23:23.354905 PM] assistant: The price for the Haier LED - 4K UHD Real Tv Android Series - K6600 is Rs.  HMW-28100-28L Digital Grill Microwave Oven . Is there anything else I can help you with?
+Message 30: [05/11/2024 09:23:23.355095 PM] user: Haier LED - Real Android TV - S6 series price of this model?
+Message 31: [05/11/2024 09:23:23.355732 PM] assistant: The price for the Haier LED - Real Android TV - S6 series is Rs. 68,250. Would you like to inquire about additional details or place an order?
+Message 32: [05/11/2024 09:23:23.355936 PM] user: Haier LED - Real Android TV - S6 series S6 - 55 price
+Message 33: [05/11/2024 09:23:23.356112 PM] assistant: The price for the Haier LED - Real Android TV - S6 series S6 - 55 inch variant is Rs. 68,250. Please let me know if you wish to proceed with the purchase.
+Message 34: [05/11/2024 09:23:23.356276 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+Message 35: [05/11/2024 09:23:23.356446 PM] assistant: The price for the Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) is Rs. 58,700. If you require any further information, feel free to ask.
+Message 36: [05/11/2024 09:23:23.356616 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+Message 37: [05/11/2024 09:23:23.356777 PM] assistant: The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in gold color with 16 cu ft/438 liter capacity is priced at Rs. 58,700.
+Message 38: [05/11/2024 09:23:23.356956 PM] user: Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Red/10 Cu Ft/276 Liter this model price?
+Message 39: [05/11/2024 09:23:23.357140 PM] assistant: The Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) in red color with 10 cu ft/276 liter capacity is priced at Rs. 73,000.
+Message 40: [05/11/2024 09:23:23.357315 PM] user: Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver color price range
+[Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q]
+Received query: Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver color price range 
+[R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R]
+Response generated: The Haier 14CFT - HRF-438 IBSA - 15CFT Digital Inverter Refrigerator - Digital Inverter Refrigerator in silver color has a price tag of Rs. 97,999. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Starting of the Server Run05/11/2024 09:23:37.224064 PM%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Message 0: [05/11/2024 09:23:37.224354 PM] user: Here is the list of items of Haier products. Read it and say OK! {'Product Info': 'Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Non Inverter AC', 'Variation': '100/200/222', 'Price(Rs)': 1995}, {'Product Info': 'Haier Hygienic Wash Series Washing Machine (HW100-BP929S3)', 'Status': 'inactive', 'Categories': 'Home Appliances/Washing Machines/Front Load Fully Automatic', 'Variation': 'HW100 BP14929S3 - 10 KG', 'Price(Rs)': 135000}, {'Product Info': 'Haier Double-Door IM Inverter Series Deep Freezer (HDF-IM)', 'Status': 'inactive', 'Categories': 'Home Appliances/Deep Freezers/Single Door Inverter', 'Variation': 'HDF 385IM - 385L', 'Price(Rs)': 90500}, {'Product Info': 'HRF-336 EPR/EPB/EPC/EPG - 12CFT E-Star Glass Door Series Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Green/HRF-336 EPR/EPB/EPC/EPG - 12 Cu Ft/336 Liter', 'Price(Rs)': 96000}, {'Product Info': 'Haier Digital Inverter Premium Series Refrigerator (HRF-IPB/IPR)', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Red/11 Cu Ft/306 Liter', 'Price(Rs)': 60100}, 
+Message 1: [05/11/2024 09:23:37.224679 PM] assistant: OK
+Message 2: [05/11/2024 09:23:37.225815 PM] user: Here is the second list. Read it and say OK!
+                "{
+                      "contactInformation": {
+                        "headOffice": {
+                          "address": "4-B, Q-Block, Old College Road, M. M. Alam Road Extension, Gulberg-II, Lahore, Pakistan"
+                        },
+                        "emails": [
+                          "info@haier.com.pk",
+                          "corporatesales@haier.com.pk",
+                          "Export@haier.com.pk"
+                        ],
+                        "phone": "(042) 1111 42437"
+                      }
+                    }"
+                {'Product Info': 'Haier Triple Inverter Series Air Conditioner (HSU-12/18 HFCN/CF/CM-USDC(W))', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'White/HSU 18HFCN - 1.5 Ton', 'Price(Rs)': 147720}, {'Product Info': 'Haier Glass Tempered 3 Burner Hob (HCC-731/830DGG)', 'Status': 'inactive', 'Categories': 'Home Appliances/Kitchen Appliances/Hobs', 'Variation': 'HCC 731DGG - Glass Panel', 'Price(Rs)': 29000}, {'Product Info': ' HMW-28100-28L Digital Grill Microwave Oven ', 'Status': 'active', 'Categories': 'Home Appliances/Microwave Ovens/Grill Series', 'Variation': 'HMW-28100', 'Price(Rs)': 33999}, {'Product Info': 'HRF-368 IFGA/IFRA/IFPA - 13CFT HCS Digital Inverter Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Green/HRF-368 - 14 Cu Ft/368 Liter', 'Price(Rs)': 115999}, {'Product Info': 'HW90-BP14959S8 - 9 kg Fully Automatic Front Load Washing Machine', 'Status': 'active', 'Categories': 'Home Appliances/Washing Machines/Front Load Fully Automatic', 'Variation': 'Grey', 'Price(Rs)': 169999}, 
+Message 3: [05/11/2024 09:23:37.226086 PM] assistant: OK
+Message 4: [05/11/2024 09:23:37.226304 PM] user: Here is the third list of items of Haier products. Read it and say OK! [{'Product Info': 'Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 95999, 'combined': 'Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}, {'Product Info': 'HRF-306IBSA - 10CFT Digital Inverter refrigerator', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 82999, 'combined': 'HRF-306IBSA - 10CFT Digital Inverter refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}, {'Product Info': 'HRF-438 IBSA - 15CFT Digital Inverter Refrigerator', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 97999, 'combined': 'HRF-438 IBSA - 15CFT Digital Inverter Refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}, {'Product Info': 'HRF-368 IBSA - 13CFT Digital Inverter Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 92999, 'combined': 'HRF-368 IBSA - 13CFT Digital Inverter Refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}, {'Product Info': 'HRF-336 IBSA - 12CFT Digital Inverter Refrigerator', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Silver', 'Price(Rs)': 85999, 'combined': 'HRF-336 IBSA - 12CFT Digital Inverter Refrigerator Home Appliances/Refrigerators/Inverter Refrigerator Silver'}]
+Message 5: [05/11/2024 09:23:37.231412 PM] assistant: OK
+Message 6: [05/11/2024 09:23:37.231660 PM] user: I need a fridge
+Message 7: [05/11/2024 09:23:37.232001 PM] assistant: Sure! We have several options available. Could you please specify your requirements or preferences?
+Message 8: [05/11/2024 09:23:37.232190 PM] user: Any you have
+Message 9: [05/11/2024 09:23:37.232414 PM] assistant: We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options.
+Message 10: [05/11/2024 09:23:37.232639 PM] user: Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction.
+Message 11: [05/11/2024 09:23:37.232895 PM] assistant: I understand. I will act as an AI customer support chatbot specialized in Haier products.
+Message 12: [05/11/2024 09:23:37.233083 PM] user: Washing machine haier HRF-622IBS black/30 price?
+Message 13: [05/11/2024 09:23:37.233264 PM] assistant: The Washing machine haier at Rs. 4. Would you like to proceed with the purchase?
+Message 14: [05/11/2024 09:23:37.233481 PM] user: Washing machine haier HRF-622IBS grey/20
+Message 15: [05/11/2024 09:23:37.233669 PM] assistant: Understood. The product details are as follows:
+Product Name: Haier Twin Tub Semi Automatic Washing Machine HTW100-1169
+Capacity: 6.2KG
+Color: Grey
+Price: Rs. 44,400
+
+Would you like to make a purchase?
+Message 16: [05/11/2024 09:23:37.233879 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 17: [05/11/2024 09:23:37.234065 PM] assistant: This watch offers advanced features for seamless usage. Would you like to proceed with the purchase?
+Message 18: [05/11/2024 09:23:37.234267 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+Message 19: [05/11/2024 09:23:37.234482 PM] assistant: The price for this watch is Rs. 19,130. Would you like to confirm the order?
+Message 20: [05/11/2024 09:23:37.234682 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 21: [05/11/2024 09:23:37.234879 PM] assistant: Thank you for choosing our smartwatch. You can place the order through our website or contact us directly for assistance.
+Message 22: [05/11/2024 09:23:37.235063 PM] user: Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+Message 23: [05/11/2024 09:23:37.235714 PM] assistant: The price for this microwave is Rs. 17,050. Would you like to add it to your cart?
+Message 24: [05/11/2024 09:23:37.236004 PM] user: Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+Message 25: [05/11/2024 09:23:37.236276 PM] assistant: The price for this hob is Rs. 17,500. How would you like to proceed?
+Message 26: [05/11/2024 09:23:37.237067 PM] user: Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+Message 27: [05/11/2024 09:23:37.237398 PM] assistant: Yes, this television is ideal for home entertainment purposes due to its high-quality display and user-friendly interface.
+Message 28: [05/11/2024 09:23:37.237582 PM] user: what's the price?
+Message 29: [05/11/2024 09:23:37.237763 PM] assistant: The price for the Haier LED - 4K UHD Real Tv Android Series - K6600 is Rs.  HMW-28100-28L Digital Grill Microwave Oven . Is there anything else I can help you with?
+Message 30: [05/11/2024 09:23:37.237945 PM] user: Haier LED - Real Android TV - S6 series price of this model?
+Message 31: [05/11/2024 09:23:37.238108 PM] assistant: The price for the Haier LED - Real Android TV - S6 series is Rs. 68,250. Would you like to inquire about additional details or place an order?
+Message 32: [05/11/2024 09:23:37.238261 PM] user: Haier LED - Real Android TV - S6 series S6 - 55 price
+Message 33: [05/11/2024 09:23:37.238429 PM] assistant: The price for the Haier LED - Real Android TV - S6 series S6 - 55 inch variant is Rs. 68,250. Please let me know if you wish to proceed with the purchase.
+Message 34: [05/11/2024 09:23:37.238596 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+Message 35: [05/11/2024 09:23:37.238779 PM] assistant: The price for the Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) is Rs. 58,700. If you require any further information, feel free to ask.
+Message 36: [05/11/2024 09:23:37.238951 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+Message 37: [05/11/2024 09:23:37.239116 PM] assistant: The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in gold color with 16 cu ft/438 liter capacity is priced at Rs. 58,700.
+Message 38: [05/11/2024 09:23:37.239320 PM] user: Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Red/10 Cu Ft/276 Liter this model price?
+Message 39: [05/11/2024 09:23:37.239946 PM] assistant: The Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) in red color with 10 cu ft/276 liter capacity is priced at Rs. 73,000.
+Message 40: [05/11/2024 09:23:37.240722 PM] user: Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver color price range
+Message 41: [05/11/2024 09:23:37.241293 PM] assistant: The Haier 14CFT - HRF-438 IBSA - 15CFT Digital Inverter Refrigerator - Digital Inverter Refrigerator in silver color has a price tag of Rs. 97,999.
+Message 42: [05/11/2024 09:23:37.241555 PM] user: Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver price?
+[Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q]
+Received query: Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver price? 
+[R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R]
+Response generated: The price for the Haier 14CFT - HRF-438 IBSA - 15CFT Digital Inverter Refrigerator - Digital Inverter Refrigerator in silver color is Rs. 97,999. Would you like to make the purchase? 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Starting of the Server Run05/11/2024 09:23:52.756422 PM%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Message 0: [05/11/2024 09:23:52.756737 PM] user: Here is the list of items of Haier products. Read it and say OK! {'Product Info': 'HSU-18RFP - 1.5 Ton RF Series DC Inverter ', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'HSU-18RFP', 'Price(Rs)': 142999}, {'Product Info': 'HRF-538 IAPA/IARA -  12CFT Digital Inverter Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Red', 'Price(Rs)': 129999}, {'Product Info': 'Haier Single-Door IM Inverter Series Deep Freezer (HDF-IM)', 'Status': 'inactive', 'Categories': 'Home Appliances/Deep Freezers/Single Door Inverter', 'Variation': 'HDF 245IM - 245L', 'Price(Rs)': 73000}, {'Product Info': 'HRF-336 IDRA/IDBA - 11.8 CFT Digital Inverter Refrigerator', 'Status': 'inactive', 'Categories': 'Home Appliances/Refrigerators/Inverter Refrigerator', 'Variation': 'Red/HRF-336 - 12 Cu Ft/336 Liter', 'Price(Rs)': 102000}, {'Product Info': 'Haier Front Load 8 KG Washing Machine HW80-BP12929S3', 'Status': 'inactive', 'Categories': 'Home Appliances/Washing Machines/Front Load Fully Automatic', 'Variation': '8KG - HW80-BP12929S3', 'Price(Rs)': 179900}, 
+Message 1: [05/11/2024 09:23:52.757075 PM] assistant: OK
+Message 2: [05/11/2024 09:23:52.757439 PM] user: Here is the second list. Read it and say OK!
+                "{
+                      "contactInformation": {
+                        "headOffice": {
+                          "address": "4-B, Q-Block, Old College Road, M. M. Alam Road Extension, Gulberg-II, Lahore, Pakistan"
+                        },
+                        "emails": [
+                          "info@haier.com.pk",
+                          "corporatesales@haier.com.pk",
+                          "Export@haier.com.pk"
+                        ],
+                        "phone": "(042) 1111 42437"
+                      }
+                    }"
+                {'Product Info': 'Haier Double Tub Washing Machine (HWM80-100SR)', 'Status': 'inactive', 'Categories': 'Home Appliances/Washing Machines/Double Drum', 'Variation': 'HWM80-100SR - 08KG', 'Price(Rs)': 24501}, {'Product Info': 'HDF-385 - 13.6 CFT Double Door Deep Freezer', 'Status': 'active', 'Categories': 'Home Appliances/Deep Freezers/Double Door Non Inverter', 'Variation': 'HDF-385H - 385L', 'Price(Rs)': 87999}, {'Product Info': 'HRF-276 EBS/EBD - 10 CFT E-Star Metal Door Refrigerator', 'Status': 'active', 'Categories': 'Home Appliances/Refrigerators/Non Inverter Refrigerator', 'Variation': 'Gold/HRF-276 - 10 Cu Ft/276 Liter', 'Price(Rs)': 75000}, {'Product Info': 'Haier FFD Safety Device 5 Burner Hob (HCC-519DGG/DGS)', 'Status': 'inactive', 'Categories': 'Home Appliances/Kitchen Appliances/Hobs', 'Variation': 'HCC 519DGG - Glass Panel ', 'Price(Rs)': 56817}, {'Product Info': 'HWM120-826E - 12KG Top Load Fully Automatic Washing Machine', 'Status': 'active', 'Categories': 'Home Appliances/Washing Machines/Top Load Fully Automatic', 'Variation': 'HWM120-826E - 12KG', 'Price(Rs)': 85499}, 
+Message 3: [05/11/2024 09:23:52.757690 PM] assistant: OK
+Message 4: [05/11/2024 09:23:52.757982 PM] user: Here is the third list of items of Haier products. Read it and say OK! [{'Product Info': 'HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner', 'Status': 'active', 'Categories': 'Home Appliances/Air Conditioners/Non Inverter AC', 'Variation': 'White/HSU-18CFCP', 'Price(Rs)': 125499, 'combined': 'HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner Home Appliances/Air Conditioners/Non Inverter AC White/HSU-18CFCP'}, {'Product Info': 'HSU-12CFCM - 1 Ton Turbo Cool Air Conditioner', 'Status': 'active', 'Categories': 'Home Appliances/Air Conditioners/Non Inverter AC', 'Variation': 'White/HSU-12CFCP', 'Price(Rs)': 97499, 'combined': 'HSU-12CFCM - 1 Ton Turbo Cool Air Conditioner Home Appliances/Air Conditioners/Non Inverter AC White/HSU-12CFCP'}, {'Product Info': 'Haier Turbo Cool Series Air Conditioner (HSU-12/18 CFCM)\n', 'Status': 'inactive', 'Categories': 'Home Appliances/Air Conditioners/Non Inverter AC', 'Variation': 'White/HSU 18CFCM - 1.5 Ton', 'Price(Rs)': 134000, 'combined': 'Haier Turbo Cool Series Air Conditioner (HSU-12/18 CFCM)\n Home Appliances/Air Conditioners/Non Inverter AC White/HSU 18CFCM - 1.5 Ton'}, {'Product Info': 'HSU-18LFCM-- Cool Only Inverter Series Air Conditioner', 'Status': 'active', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'White/HSU-18LFCB-USDC - 1.5 Ton', 'Price(Rs)': 143999, 'combined': 'HSU-18LFCM-- Cool Only Inverter Series Air Conditioner Home Appliances/Air Conditioners/Inverter AC White/HSU-18LFCB-USDC - 1.5 Ton'}, {'Product Info': 'HSU-12LFCM--1 Ton Cool Only Inverter Series Air Conditioner', 'Status': 'active', 'Categories': 'Home Appliances/Air Conditioners/Inverter AC', 'Variation': 'White/HSU-12LFCB-USDC - 1.0 Ton', 'Price(Rs)': 114499, 'combined': 'HSU-12LFCM--1 Ton Cool Only Inverter Series Air Conditioner Home Appliances/Air Conditioners/Inverter AC White/HSU-12LFCB-USDC - 1.0 Ton'}]
+Message 5: [05/11/2024 09:23:52.758233 PM] assistant: OK
+Message 6: [05/11/2024 09:23:52.758438 PM] user: I need a fridge
+Message 7: [05/11/2024 09:23:52.758675 PM] assistant: Sure! We have several options available. Could you please specify your requirements or preferences?
+Message 8: [05/11/2024 09:23:52.758920 PM] user: Any you have
+Message 9: [05/11/2024 09:23:52.759197 PM] assistant: We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options.
+Message 10: [05/11/2024 09:23:52.759576 PM] user: Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction.
+Message 11: [05/11/2024 09:23:52.760687 PM] assistant: I understand. I will act as an AI customer support chatbot specialized in Haier products.
+Message 12: [05/11/2024 09:23:52.760941 PM] user: Washing machine haier HRF-622IBS black/30 price?
+Message 13: [05/11/2024 09:23:52.761210 PM] assistant: The Washing machine haier at Rs. 4. Would you like to proceed with the purchase?
+Message 14: [05/11/2024 09:23:52.761469 PM] user: Washing machine haier HRF-622IBS grey/20
+Message 15: [05/11/2024 09:23:52.761707 PM] assistant: Understood. The product details are as follows:
+Product Name: Haier Twin Tub Semi Automatic Washing Machine HTW100-1169
+Capacity: 6.2KG
+Color: Grey
+Price: Rs. 44,400
+
+Would you like to make a purchase?
+Message 16: [05/11/2024 09:23:52.761926 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 17: [05/11/2024 09:23:52.762166 PM] assistant: This watch offers advanced features for seamless usage. Would you like to proceed with the purchase?
+Message 18: [05/11/2024 09:23:52.762398 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+Message 19: [05/11/2024 09:23:52.762639 PM] assistant: The price for this watch is Rs. 19,130. Would you like to confirm the order?
+Message 20: [05/11/2024 09:23:52.762886 PM] user: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+Message 21: [05/11/2024 09:23:52.763120 PM] assistant: Thank you for choosing our smartwatch. You can place the order through our website or contact us directly for assistance.
+Message 22: [05/11/2024 09:23:52.763430 PM] user: Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+Message 23: [05/11/2024 09:23:52.763656 PM] assistant: The price for this microwave is Rs. 17,050. Would you like to add it to your cart?
+Message 24: [05/11/2024 09:23:52.763901 PM] user: Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+Message 25: [05/11/2024 09:23:52.764177 PM] assistant: The price for this hob is Rs. 17,500. How would you like to proceed?
+Message 26: [05/11/2024 09:23:52.764402 PM] user: Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+Message 27: [05/11/2024 09:23:52.764630 PM] assistant: Yes, this television is ideal for home entertainment purposes due to its high-quality display and user-friendly interface.
+Message 28: [05/11/2024 09:23:52.764846 PM] user: what's the price?
+Message 29: [05/11/2024 09:23:52.765075 PM] assistant: The price for the Haier LED - 4K UHD Real Tv Android Series - K6600 is Rs.  HMW-28100-28L Digital Grill Microwave Oven . Is there anything else I can help you with?
+Message 30: [05/11/2024 09:23:52.765717 PM] user: Haier LED - Real Android TV - S6 series price of this model?
+Message 31: [05/11/2024 09:23:52.765934 PM] assistant: The price for the Haier LED - Real Android TV - S6 series is Rs. 68,250. Would you like to inquire about additional details or place an order?
+Message 32: [05/11/2024 09:23:52.766170 PM] user: Haier LED - Real Android TV - S6 series S6 - 55 price
+Message 33: [05/11/2024 09:23:52.766451 PM] assistant: The price for the Haier LED - Real Android TV - S6 series S6 - 55 inch variant is Rs. 68,250. Please let me know if you wish to proceed with the purchase.
+Message 34: [05/11/2024 09:23:52.766689 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+Message 35: [05/11/2024 09:23:52.766926 PM] assistant: The price for the Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) is Rs. 58,700. If you require any further information, feel free to ask.
+Message 36: [05/11/2024 09:23:52.767156 PM] user: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+Message 37: [05/11/2024 09:23:52.767390 PM] assistant: The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in gold color with 16 cu ft/438 liter capacity is priced at Rs. 58,700.
+Message 38: [05/11/2024 09:23:52.767640 PM] user: Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Red/10 Cu Ft/276 Liter this model price?
+Message 39: [05/11/2024 09:23:52.767872 PM] assistant: The Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) in red color with 10 cu ft/276 liter capacity is priced at Rs. 73,000.
+Message 40: [05/11/2024 09:23:52.768122 PM] user: Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver color price range
+Message 41: [05/11/2024 09:23:52.768371 PM] assistant: The Haier 14CFT - HRF-438 IBSA - 15CFT Digital Inverter Refrigerator - Digital Inverter Refrigerator in silver color has a price tag of Rs. 97,999.
+Message 42: [05/11/2024 09:23:52.768590 PM] user: Haier 14CFT - HRF-398IBSA - Digital Inverter Refrigerator Silver price?
+Message 43: [05/11/2024 09:23:52.768887 PM] assistant: The price for the Haier 14CFT - HRF-438 IBSA - 15CFT Digital Inverter Refrigerator - Digital Inverter Refrigerator in silver color is Rs. 97,999. Would you like to make the purchase?
+Message 44: [05/11/2024 09:23:52.769187 PM] user: HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner White/HSU-12CFCP price
+[Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q][Q]
+Received query: HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner White/HSU-12CFCP price 
+[R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R][R]
+Response generated: The HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner at Rs. 125,499. 

@@ -1,0 +1,39 @@
+Message Index,Timestamp,Role,Content
+0,12/11/2024 01:03:33.573306 PM,user,"Here are some products I am interested in: Haier Hand Wash Series Washing Machine (HWM-1708)HWM80 1708Y - 8KGpriced at 70900, Washing machine haierwhite /10priced at 4, Haier Double Tub Washing Machine (HWM80-100SR)HWM80-100SR - 08KGpriced at 24501. Read it and say OK"
+1,12/11/2024 01:03:33.573326 PM,assistant,OK
+2,12/11/2024 01:03:33.573338 PM,user,"Here are some more products I am interested in: Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS)622ICG - Chocolate Glasspriced at 309900, Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG)HRF 578TBP - Black Metalpriced at 329900, Haier 748KG SBS Series Refrigerator (HRF-748KG)Black Glasspriced at 196900. Read it and say OK"
+3,12/11/2024 01:03:33.573352 PM,assistant,OK
+4,12/11/2024 01:03:33.573362 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W))White/HSU 12HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1 Tonpriced at 129351, Haier Turbo Cool Series Air Conditioner (HSU-24LTC/L)HSU-24LTC/L - 2 Tonpriced at 202000, Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC)HSU-12HFMCC - 1.0 Tonpriced at 129351, Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFM/N/F/AC/AD/AE/DG/DS/CE/CC-WUSDC(W))White/HSU 12HFM - 1 Tonpriced at 134000. Read it and say OK"
+5,12/11/2024 01:03:33.573380 PM,assistant,OK
+6,12/11/2024 01:03:33.573390 PM,user,"Here are some more products I am interested in: Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS)622ICG - Chocolate Glasspriced at 309900, Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG)HRF 678TGG - Golden Glasspriced at 329900, Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB)Black/12 Cu Ft/336 Literpriced at 65464, Haier 748KG SBS Series Refrigerator (HRF-748KG)Black Glasspriced at 196900, Haier 522 SBS Series Refrigerator (HRF-522 IBS)HRF 522IBS - Blackpriced at 259900. Read it and say OK"
+7,12/11/2024 01:03:33.573406 PM,user,does haier has apple iphone
+8,12/11/2024 01:03:33.573416 PM,assistant,"No, Apple iPhone is not produced by Haier. However, we do have a range of home appliances such as washing machines, microwaves, and televisions. Is there anything specific you are looking for in terms of appliances?"
+9,12/11/2024 01:03:33.573428 PM,user,I need a fridge
+10,12/11/2024 01:03:33.573438 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+11,12/11/2024 01:03:33.573449 PM,user,Any you have
+12,12/11/2024 01:03:33.573458 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+13,12/11/2024 01:03:33.573471 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+14,12/11/2024 01:03:33.573482 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+15,12/11/2024 01:03:33.573492 PM,user,i need a fridge
+Q,12/11/2024 01:03:33.573502 PM,user,i need a fridge
+R,12/11/2024 01:03:33.573512 PM,assistant,"Certainly! Our refrigerator section offers multiple choices to suit different needs. Please provide more details like the size, color preference, and any additional features you might be looking for. This way, I can assist you better in finding the perfect refrigerator from our collection."
+0,12/11/2024 01:03:59.988328 PM,user,"Here are some products I am interested in: Haier Hand Wash Series Washing Machine (HWM-1708)HWM80 1708Y - 8KGpriced at 70900, Washing machine haierwhite /10priced at 4, Haier Double Tub Washing Machine (HWM80-100SR)HWM80-100SR - 08KGpriced at 24501. Read it and say OK"
+1,12/11/2024 01:03:59.988350 PM,assistant,OK
+2,12/11/2024 01:03:59.988362 PM,user,"Here are some more products I am interested in: Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS)622ICG - Chocolate Glasspriced at 309900, Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG)HRF 678TGG - Golden Glasspriced at 329900, Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB)Black/12 Cu Ft/336 Literpriced at 65464. Read it and say OK"
+3,12/11/2024 01:03:59.988376 PM,assistant,OK
+4,12/11/2024 01:03:59.988386 PM,user,"Here are some more products I am interested in: Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB)Black/14 Cu Ft/368 Literpriced at 71672, Haier Smart SBS Series Refrigerator (HRF 758SIBGU1)Black Glasspriced at 535853, Haier 522 SBS Series Refrigerator (HRF-522 IBS)HRF 522IBS - Blackpriced at 259900, Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)Black/10 Cu Ft/276 Literpriced at 82000. Read it and say OK"
+5,12/11/2024 01:03:59.988400 PM,assistant,OK
+6,12/11/2024 01:03:59.988409 PM,user,"Here are some more products I am interested in: HMW-20MBS - Haier Solo Microwave OvenBlackpriced at 16999, HGL-25MXP8 - 25 L Solo Microwave OvenBlackpriced at 25199, HMN-32100BEGB - 32L Grill Microwave OvenBlackpriced at 36499, HGL-20MXP8 - 20L Solo Microwave OvenBlackpriced at 17599, HGL-45200 - 45L Grill Microwave OvenBlackpriced at 49900. Read it and say OK"
+7,12/11/2024 01:03:59.988421 PM,user,does haier has apple iphone
+8,12/11/2024 01:03:59.988431 PM,assistant,"No, Apple iPhone is not produced by Haier. However, we do have a range of home appliances such as washing machines, microwaves, and televisions. Is there anything specific you are looking for in terms of appliances?"
+9,12/11/2024 01:03:59.988443 PM,user,I need a fridge
+10,12/11/2024 01:03:59.988453 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+11,12/11/2024 01:03:59.988463 PM,user,Any you have
+12,12/11/2024 01:03:59.988473 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+13,12/11/2024 01:03:59.988485 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+14,12/11/2024 01:03:59.988495 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+15,12/11/2024 01:03:59.988505 PM,user,i need a fridge
+16,12/11/2024 01:03:59.988514 PM,assistant,"Certainly! Our refrigerator section offers multiple choices to suit different needs. Please provide more details like the size, color preference, and any additional features you might be looking for. This way, I can assist you better in finding the perfect refrigerator from our collection."
+17,12/11/2024 01:03:59.988526 PM,user,cheap one
+Q,12/11/2024 01:03:59.988536 PM,user,cheap one
+R,12/11/2024 01:03:59.988545 PM,assistant,"For affordable pricing, we recommend checking out the Haier E-star EP series refrigerator with a capacity of 438 liters. It comes under budget-friendly options while still offering reliable performance. Would that fit your criteria?"

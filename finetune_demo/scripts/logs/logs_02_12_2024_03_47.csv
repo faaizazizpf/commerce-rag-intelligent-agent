@@ -1,0 +1,29 @@
+Message Index,Timestamp,Role,Content
+0,02/12/2024 03:47:21.946210 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W)) White/HSU 12HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1 Ton priced at 129351, Haier Android Dongle (S905Y4) Black priced at 14999, Haier Dishwasher DW14-KFFWWPK DW14-KFFWWPK priced at 65343, HGL-30100 - 30L Rotisserie/Grill/Convection/Baking Microwave Oven Black priced at 43999. Read it and say OK"
+1,02/12/2024 03:47:21.946231 PM,assistant,OK
+2,02/12/2024 03:47:21.946243 PM,user,Haier E-Star EP Series Refrigerator price?
+3,02/12/2024 03:47:21.946255 PM,assistant,"The MRP for the Haier E-Star EB Series Refrigerator (The https://haier.com.pk/product/2431 #HRF-216# EBS/EBD) is Rs. 63,999 but we offer it at a discounted price of Rs. 105,574. Would you like to proceed with the purchase or do you need further assistance?"
+4,02/12/2024 03:47:21.946268 PM,user,list 3 more different ones
+5,02/12/2024 03:47:21.946279 PM,assistant,"Certainly! Here are three additional Haier refrigerator models:
+
+1. Haier E-Star EB Series Refrigerator (The https://haier.com.pk/product/2431 #HRF-216# EBS/EBD) - Gold color variant, 7 Cu Ft/216 Liters, MRP Rs. 63,999 our price Rs. 63,999.
+2. Haier E-Star EB Series Refrigerator (The https://haier.com.pk/product/2431 #HRF-216# EBS/EBD) - Black color variant, 246 Liters, MRP Rs. 119,000 our price Rs. 113,455.
+3. Haier Digital Inverter With Turbo Fan Series Refrigerator (HRF-IDRA/IDBA)  - Green color variant, 485 Liters, MRP Rs. 132,000, our price Rs. 116,450.
+
+Please let us know which model interests you the most."
+6,02/12/2024 03:47:21.946297 PM,user,other options
+7,02/12/2024 03:47:21.946307 PM,assistant,"Of course! Here are a few other Haier refrigerator options:
+
+1. Haier Single - Door Series Refrigerator (HR-132B)- Red color variant, 185 Ltrs, MRP Rs. 43,360 our price Rs. 329,900.
+2. Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG) - Silver color variant, 285 Ltrs, MRP Rs. 86,500 our price Rs. 84,400.
+3. Haier Double-Door Series Deep Freezer (HDF-H/DD) - Blue color variant, 310 Ltrs, MRP Rs. 75,250, our price Rs. 69,885. 
+
+Feel free to choose any of these based on your preference and budget."
+Q,02/12/2024 03:47:21.946322 PM,user,other options
+R,02/12/2024 03:47:21.946333 PM,assistant,"Of course! Here are a few other Haier refrigerator options:
+
+1. Haier Single - Door Series Refrigerator (HR-132B)- Red color variant, 185 Ltrs, MRP Rs. 43,360 our price Rs. 329,900.
+2. Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG) - Silver color variant, 285 Ltrs, MRP Rs. 86,500 our price Rs. 84,400.
+3. Haier Double-Door Series Deep Freezer (HDF-H/DD) - Blue color variant, 310 Ltrs, MRP Rs. 75,250, our price Rs. 69,885. 
+
+Feel free to choose any of these based on your preference and budget."

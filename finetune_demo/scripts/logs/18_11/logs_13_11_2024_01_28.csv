@@ -1,0 +1,35 @@
+Message Index,Timestamp,Role,Content
+0,13/11/2024 01:28:48.917091 PM,user,"Here are some products I am interested in: Haier Hand Wash Series Washing Machine (HWM-1708)HWM80 1708Y - 8KGpriced at 70900, Washing machine haierwhite /10priced at 4, Haier Double Tub Washing Machine (HWM80-100SR)HWM80-100SR - 08KGpriced at 24501. Read it and say OK"
+1,13/11/2024 01:28:48.917149 PM,assistant,OK
+2,13/11/2024 01:28:48.917185 PM,user,"Here are some more products I am interested in: Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS)622ICG - Chocolate Glasspriced at 309900, Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG)HRF 578TBP - Black Metalpriced at 329900, Haier 748KG SBS Series Refrigerator (HRF-748KG)Black Glasspriced at 196900. Read it and say OK"
+3,13/11/2024 01:28:48.917225 PM,assistant,OK
+4,13/11/2024 01:28:48.917253 PM,user,"Here are some more products I am interested in: Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFMN/F/AD/AE/DS/CE/CC-WUSDC(W))White/HSU 12HFMN/F/AD/AE/DS/CE/CC-WUSDC - 1 Tonpriced at 129351, Haier Turbo Cool Series Air Conditioner (HSU-24LTC/L)HSU-24LTC/L - 2 Tonpriced at 202000, Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC)HSU-12HFMCC - 1.0 Tonpriced at 129351, Haier Marvel Inverter Series Air Conditioner (HSU-12/18 HFM/N/F/AC/AD/AE/DG/DS/CE/CC-WUSDC(W))White/HSU 12HFM - 1 Tonpriced at 134000. Read it and say OK"
+5,13/11/2024 01:28:48.917300 PM,assistant,OK
+6,13/11/2024 01:28:48.917335 PM,user,"Here are some more products I am interested in: Washing machine haierblack/30priced at 4, Haier Duo Golden Series Washing Machine (HWD120-B1558)HWD120 B1558 - 12 Kgpriced at 402711, HWM120-35FF - 12KG Single Tub WasherGreypriced at 25499, Haier Double Tub Washing Machine (HWM80-000)HWM80-000 - 08KGpriced at 23661, Haier Double Tub Washing Machine (HWM80-100)HWM80-100 - 08KGpriced at 25532. Read it and say OK"
+7,13/11/2024 01:28:48.917377 PM,user,I need a fridge
+8,13/11/2024 01:28:48.917406 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,13/11/2024 01:28:48.917441 PM,user,Any you have
+10,13/11/2024 01:28:48.917469 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,13/11/2024 01:28:48.917509 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,13/11/2024 01:28:48.917542 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,13/11/2024 01:28:48.917591 PM,user,Washing machine haier HRF-622IBS black/30 price?
+Q,13/11/2024 01:28:48.917641 PM,user,Washing machine haier HRF-622IBS black/30 price?
+R,13/11/2024 01:28:48.917673 PM,assistant,"The washing machine Haier 522 SBS Series Refrigerator (HRF-522 IBS) at Rs. 259,900. Let me know if there's anything else I can help you with."
+0,13/11/2024 01:28:56.214584 PM,user,"Here are some products I am interested in: Haier Hand Wash Series Washing Machine (HWM-1708)HWM80 1708Y - 8KGpriced at 70900, Washing machine haierwhite /10priced at 4, Haier Double Tub Washing Machine (HWM80-100SR)HWM80-100SR - 08KGpriced at 24501. Read it and say OK"
+1,13/11/2024 01:28:56.214616 PM,assistant,OK
+2,13/11/2024 01:28:56.214629 PM,user,"Here are some more products I am interested in: Washing machine haierblack/30priced at 4, Haier Duo Golden Series Washing Machine (HWD120-B1558)HWD120 B1558 - 12 Kgpriced at 402711, HWM120-35FF - 12KG Single Tub WasherGreypriced at 25499. Read it and say OK"
+3,13/11/2024 01:28:56.214642 PM,assistant,OK
+4,13/11/2024 01:28:56.214652 PM,user,"Here are some more products I am interested in: Haier 522 SBS Series Refrigerator (HRF-522 IBS)HRF 522IBS - Blackpriced at 259900, Haier 748KG SBS Series Refrigerator (HRF-748KG)Black Glasspriced at 196900, Haier Smart SBS Series Refrigerator (HRF 758SIBGU1)Black Glasspriced at 535853, Washing machine haierblack/20priced at 4. Read it and say OK"
+5,13/11/2024 01:28:56.214666 PM,assistant,OK
+6,13/11/2024 01:28:56.214676 PM,user,"Here are some more products I am interested in: Washing machine haiergrey/20priced at 4, Haier Single Tub Washing Machine (HWM80-50)Greypriced at 20499, Haier Single Tub Washing Machine (HWM80-60)Greypriced at 23500, HWM80-1269Y Fully Automatic Top Load Washing MachineLight Greypriced at 50999, HWM120-35FF - 12KG Single Tub WasherGreypriced at 25499. Read it and say OK"
+7,13/11/2024 01:28:56.214688 PM,user,I need a fridge
+8,13/11/2024 01:28:56.214699 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,13/11/2024 01:28:56.214711 PM,user,Any you have
+10,13/11/2024 01:28:56.214721 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,13/11/2024 01:28:56.214734 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,13/11/2024 01:28:56.214745 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,13/11/2024 01:28:56.214755 PM,user,Washing machine haier HRF-622IBS black/30 price?
+14,13/11/2024 01:28:56.214765 PM,assistant,"The washing machine Haier 522 SBS Series Refrigerator (HRF-522 IBS) at Rs. 259,900. Let me know if there's anything else I can help you with."
+15,13/11/2024 01:28:56.214778 PM,user,Washing machine haier HRF-622IBS grey/20
+Q,13/11/2024 01:28:56.214788 PM,user,Washing machine haier HRF-622IBS grey/20
+R,13/11/2024 01:28:56.214799 PM,assistant,"I'm sorry, but the model ""Haier Single Tub Washing Machine (HWM80-35) at Rs. 19,999. Is that something you're interested in exploring further?"

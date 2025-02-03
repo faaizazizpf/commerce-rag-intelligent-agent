@@ -1,0 +1,253 @@
+Message Index,Timestamp,Role,Content
+0,11/11/2024 04:46:03.486429 PM,user,"Here are some products I am interested in: Haier Solo Series 20L Microwave (HDL/HMN-20MXP4/P5)HDL 20MXP4 - 20Lpriced at 17843, Haier Solo Series 20L Microwave (HDL-20MXP4)HDL 20MXP4 - 20Lpriced at 17843, Haier Solo Series 25 Microwave (HDL-25MX60)HDL 25MX60 - 25Lpriced at 26290. Read it and say OK"
+1,11/11/2024 04:46:03.486481 PM,assistant,OK
+2,11/11/2024 04:46:03.486497 PM,user,"Here are some more products I am interested in: Haier FFD Safety Device 5 Burner Hob (HCC-509EGS)HCC 509EGS - Stainless Steelpriced at 17000, Haier FFD Safety Device 5 Burner Hob (HCC-509DGG/EGS)HCC 509EGS - Stainless Steelpriced at 17000, Haier FFD Safety Device 5 Burner Hob (HCC-519DGS)HCC 519DGS - Stainless Steelpriced at 55854. Read it and say OK"
+3,11/11/2024 04:46:03.486520 PM,assistant,OK
+4,11/11/2024 04:46:03.486531 PM,user,"Here are some more products I am interested in: Haier FFD Safety Device 5 Burner Hob (HCC-509EGS)HCC 509EGS - Stainless Steelpriced at 17000, Haier FFD Safety Device 5 Burner Hob (HCC-509DGG/EGS)HCC 509EGS - Stainless Steelpriced at 17000, Haier FFD Safety Device 5 Burner Hob (HCC-519DGS)HCC 519DGS - Stainless Steelpriced at 55854, Haier FFD Safety Device 5 Burner Hob (HCC-519DGG/DGS)HCC 519DGS - Stainless Steelpriced at 55854. Read it and say OK"
+5,11/11/2024 04:46:03.486554 PM,assistant,OK
+6,11/11/2024 04:46:03.486565 PM,user,"Here are some more products I am interested in: Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 50""priced at 85900, Haier LED - Real Android TV - S6 seriesS6 - 55""priced at 161200, Haier 55"" K66 4K UHD Smart Android Series LED (LE55K6600/K66UG)K66UG - 55""priced at 168458, Haier 55"" 4K UHD Android TV (HE55S6UG PRO)HE55S6UG PRO - 55""priced at 154210, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999. Read it and say OK"
+7,11/11/2024 04:46:03.486583 PM,user,I need a fridge
+8,11/11/2024 04:46:03.486594 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,11/11/2024 04:46:03.486607 PM,user,Any you have
+10,11/11/2024 04:46:03.486619 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,11/11/2024 04:46:03.486635 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,11/11/2024 04:46:03.486648 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,11/11/2024 04:46:03.486660 PM,user,Washing machine haier HRF-622IBS black/30 price?
+14,11/11/2024 04:46:03.486672 PM,assistant,"The washing machine Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) at Rs. 309,900. Would you like to proceed with the purchase?"
+15,11/11/2024 04:46:03.486686 PM,user,Washing machine haier HRF-622IBS grey/20
+16,11/11/2024 04:46:03.486698 PM,assistant,"Yes, we do have that model. The Haier 32 in gray color is priced at Rs. 37,190. How can I assist you further?"
+17,11/11/2024 04:46:03.486711 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+18,11/11/2024 04:46:03.486725 PM,assistant,"You're referring to the smartwatch from Computer Zone. It features a 2.12-inch Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch screen and comes in orange color. The price is Rs. 1,923. Is there anything else I can help you with?"
+19,11/11/2024 04:46:03.486742 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+20,11/11/2024 04:46:03.486756 PM,assistant,"The Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) is priced at Rs. 18,999. Let me know if you would like to make a purchase."
+21,11/11/2024 04:46:03.486771 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+22,11/11/2024 04:46:03.486785 PM,assistant,"Certainly! You can buy the Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) for Rs. 18,999. Would you like to place an order?"
+23,11/11/2024 04:46:03.486799 PM,user,Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+24,11/11/2024 04:46:03.486811 PM,assistant,"The Haier Solo Series 20L Microwave (HDL-20MXP4) is priced at Rs. 17,843. If you wish to purchase it, let me know and I'll process the payment."
+25,11/11/2024 04:46:03.486824 PM,user,Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+26,11/11/2024 04:46:03.486837 PM,assistant,"The Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) is priced at Rs. 17,000. Let me know if you'd like to buy it."
+27,11/11/2024 04:46:03.486849 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+Q,11/11/2024 04:46:03.486862 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+R,11/11/2024 04:46:03.486874 PM,assistant,"Yes, the Haier H85S5UG - 85 Inch Android LED 4K UHD UHD Real TV Android SeriesHaier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG) is suitable for entertainment purposes. It offers high-quality picture quality and seamless connectivity."
+0,11/11/2024 04:46:13.790687 PM,user,"Here are some products I am interested in: Haier FFD Safety Device 5 Burner Hob (HCC-509EGS)HCC 509EGS - Stainless Steelpriced at 17000, Haier FFD Safety Device 5 Burner Hob (HCC-509DGG/EGS)HCC 509EGS - Stainless Steelpriced at 17000, Haier FFD Safety Device 5 Burner Hob (HCC-519DGS)HCC 519DGS - Stainless Steelpriced at 55854. Read it and say OK"
+1,11/11/2024 04:46:13.790710 PM,assistant,OK
+2,11/11/2024 04:46:13.790723 PM,user,"Here are some more products I am interested in: Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 50""priced at 85900, Haier LED - Real Android TV - S6 seriesS6 - 55""priced at 161200, Haier 55"" K66 4K UHD Smart Android Series LED (LE55K6600/K66UG)K66UG - 55""priced at 168458. Read it and say OK"
+3,11/11/2024 04:46:13.790736 PM,assistant,OK
+4,11/11/2024 04:46:13.790750 PM,user,"Here are some more products I am interested in: Haier 50"" K66 4K UHD Smart Android Series LED (H50K66UGP)H50K66UGP - 50""priced at 109850, Haier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG)LE75K6600UG - 75""priced at 286718, Haier 65"" K66 4K UHD Smart Android Series LED (H65K66UG)H65K66UG - 65""priced at 168646, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO)H65S6UG PRO - 65""priced at 210234. Read it and say OK"
+5,11/11/2024 04:46:13.790764 PM,assistant,OK
+6,11/11/2024 04:46:13.790773 PM,user,"Here are some more products I am interested in: HGL-30100 - 30L Rotisserie/Grill/Convection/Baking Microwave OvenBlackpriced at 43999,  HMW-20MX11 20L Solo Microwave Oven HMW-20MX11priced at 17999, HGL-25MXP8 - 25 L Solo Microwave OvenBlackpriced at 25199, HGL-20MXP8 - 20L Solo Microwave OvenBlackpriced at 17599, HMW-20MX12 20L Solo Microwave OvenHMW-20MX12priced at 17999. Read it and say OK"
+7,11/11/2024 04:46:13.790787 PM,user,I need a fridge
+8,11/11/2024 04:46:13.790797 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,11/11/2024 04:46:13.790809 PM,user,Any you have
+10,11/11/2024 04:46:13.790818 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,11/11/2024 04:46:13.790831 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,11/11/2024 04:46:13.790842 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,11/11/2024 04:46:13.790852 PM,user,Washing machine haier HRF-622IBS black/30 price?
+14,11/11/2024 04:46:13.790862 PM,assistant,"The washing machine Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) at Rs. 309,900. Would you like to proceed with the purchase?"
+15,11/11/2024 04:46:13.790873 PM,user,Washing machine haier HRF-622IBS grey/20
+16,11/11/2024 04:46:13.790883 PM,assistant,"Yes, we do have that model. The Haier 32 in gray color is priced at Rs. 37,190. How can I assist you further?"
+17,11/11/2024 04:46:13.790893 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+18,11/11/2024 04:46:13.790905 PM,assistant,"You're referring to the smartwatch from Computer Zone. It features a 2.12-inch Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch screen and comes in orange color. The price is Rs. 1,923. Is there anything else I can help you with?"
+19,11/11/2024 04:46:13.790919 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+20,11/11/2024 04:46:13.790931 PM,assistant,"The Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) is priced at Rs. 18,999. Let me know if you would like to make a purchase."
+21,11/11/2024 04:46:13.790942 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+22,11/11/2024 04:46:13.790954 PM,assistant,"Certainly! You can buy the Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) for Rs. 18,999. Would you like to place an order?"
+23,11/11/2024 04:46:13.790966 PM,user,Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+24,11/11/2024 04:46:13.790976 PM,assistant,"The Haier Solo Series 20L Microwave (HDL-20MXP4) is priced at Rs. 17,843. If you wish to purchase it, let me know and I'll process the payment."
+25,11/11/2024 04:46:13.790990 PM,user,Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+26,11/11/2024 04:46:13.791000 PM,assistant,"The Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) is priced at Rs. 17,000. Let me know if you'd like to buy it."
+27,11/11/2024 04:46:13.791010 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+28,11/11/2024 04:46:13.791020 PM,assistant,"Yes, the Haier H85S5UG - 85 Inch Android LED 4K UHD UHD Real TV Android SeriesHaier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG) is suitable for entertainment purposes. It offers high-quality picture quality and seamless connectivity."
+29,11/11/2024 04:46:13.791032 PM,user,what's the price?
+Q,11/11/2024 04:46:13.791042 PM,user,what's the price?
+R,11/11/2024 04:46:13.791053 PM,assistant,"The H85S5UG - 85 Inch Android LED 4K UHD is priced at Rs. 649,800."
+0,11/11/2024 04:46:22.360930 PM,user,"Here are some products I am interested in: Haier 50"" K66 4K UHD Smart Android Series LED (H50K66UGP)H50K66UGP - 50""priced at 109850, Haier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG)LE75K6600UG - 75""priced at 286718, Haier 65"" K66 4K UHD Smart Android Series LED (H65K66UG)H65K66UG - 65""priced at 168646. Read it and say OK"
+1,11/11/2024 04:46:22.361002 PM,assistant,OK
+2,11/11/2024 04:46:22.361019 PM,user,"Here are some more products I am interested in: HGL-30100 - 30L Rotisserie/Grill/Convection/Baking Microwave OvenBlackpriced at 43999,  HMW-20MX11 20L Solo Microwave Oven HMW-20MX11priced at 17999, HGL-25MXP8 - 25 L Solo Microwave OvenBlackpriced at 25199. Read it and say OK"
+3,11/11/2024 04:46:22.361037 PM,assistant,OK
+4,11/11/2024 04:46:22.361049 PM,user,"Here are some more products I am interested in: H85S5UG - 85 Inch Android LED 4K UHDH85S5UG - 85""priced at 649800, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO)H65S6UG PRO - 65""priced at 210234, Haier 50"" K66 4K UHD Smart Android Series LED (H50K66UGP)H50K66UGP - 50""priced at 109850, Haier 65"" K66 4K UHD Smart Android Series LED (H65K66UG)H65K66UG - 65""priced at 168646. Read it and say OK"
+5,11/11/2024 04:46:22.361066 PM,assistant,OK
+6,11/11/2024 04:46:22.361077 PM,user,"Here are some more products I am interested in: Haier LED - Real Android TV - S6 seriesS6 - 55""priced at 161200, Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 58""priced at 109900, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO)H65S6UG PRO - 65""priced at 210234, Haier 32"" K66 Smart Android Series LED (H32K66G)H32K66G - 32""priced at 50575. Read it and say OK"
+7,11/11/2024 04:46:22.361095 PM,user,I need a fridge
+8,11/11/2024 04:46:22.361106 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,11/11/2024 04:46:22.361119 PM,user,Any you have
+10,11/11/2024 04:46:22.361130 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,11/11/2024 04:46:22.361145 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,11/11/2024 04:46:22.361158 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,11/11/2024 04:46:22.361171 PM,user,Washing machine haier HRF-622IBS black/30 price?
+14,11/11/2024 04:46:22.361182 PM,assistant,"The washing machine Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) at Rs. 309,900. Would you like to proceed with the purchase?"
+15,11/11/2024 04:46:22.361195 PM,user,Washing machine haier HRF-622IBS grey/20
+16,11/11/2024 04:46:22.361207 PM,assistant,"Yes, we do have that model. The Haier 32 in gray color is priced at Rs. 37,190. How can I assist you further?"
+17,11/11/2024 04:46:22.361219 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+18,11/11/2024 04:46:22.361234 PM,assistant,"You're referring to the smartwatch from Computer Zone. It features a 2.12-inch Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch screen and comes in orange color. The price is Rs. 1,923. Is there anything else I can help you with?"
+19,11/11/2024 04:46:22.361251 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+20,11/11/2024 04:46:22.361265 PM,assistant,"The Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) is priced at Rs. 18,999. Let me know if you would like to make a purchase."
+21,11/11/2024 04:46:22.361279 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+22,11/11/2024 04:46:22.361294 PM,assistant,"Certainly! You can buy the Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) for Rs. 18,999. Would you like to place an order?"
+23,11/11/2024 04:46:22.361307 PM,user,Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+24,11/11/2024 04:46:22.361319 PM,assistant,"The Haier Solo Series 20L Microwave (HDL-20MXP4) is priced at Rs. 17,843. If you wish to purchase it, let me know and I'll process the payment."
+25,11/11/2024 04:46:22.361347 PM,user,Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+26,11/11/2024 04:46:22.361359 PM,assistant,"The Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) is priced at Rs. 17,000. Let me know if you'd like to buy it."
+27,11/11/2024 04:46:22.361372 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+28,11/11/2024 04:46:22.361384 PM,assistant,"Yes, the Haier H85S5UG - 85 Inch Android LED 4K UHD UHD Real TV Android SeriesHaier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG) is suitable for entertainment purposes. It offers high-quality picture quality and seamless connectivity."
+29,11/11/2024 04:46:22.361398 PM,user,what's the price?
+30,11/11/2024 04:46:22.361409 PM,assistant,"The H85S5UG - 85 Inch Android LED 4K UHD is priced at Rs. 649,800."
+31,11/11/2024 04:46:22.361422 PM,user,Haier LED - Real Android TV - S6 series price of this model?
+Q,11/11/2024 04:46:22.361437 PM,user,Haier LED - Real Android TV - S6 series price of this model?
+R,11/11/2024 04:46:22.361454 PM,assistant,"The Haier LED - Real Android TV - S6 series costs Rs. 161,200."
+0,11/11/2024 04:46:30.967723 PM,user,"Here are some products I am interested in: H85S5UG - 85 Inch Android LED 4K UHDH85S5UG - 85""priced at 649800, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO)H65S6UG PRO - 65""priced at 210234, Haier 50"" K66 4K UHD Smart Android Series LED (H50K66UGP)H50K66UGP - 50""priced at 109850. Read it and say OK"
+1,11/11/2024 04:46:30.967754 PM,assistant,OK
+2,11/11/2024 04:46:30.967767 PM,user,"Here are some more products I am interested in: Haier LED - Real Android TV - S6 seriesS6 - 55""priced at 161200, Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 58""priced at 109900, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999. Read it and say OK"
+3,11/11/2024 04:46:30.967780 PM,assistant,OK
+4,11/11/2024 04:46:30.967790 PM,user,"Here are some more products I am interested in: Haier LED - Real Android TV - S6 seriesS6 - 65""priced at 199800, Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 65""priced at 139900, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO)H65S6UG PRO - 65""priced at 210234. Read it and say OK"
+5,11/11/2024 04:46:30.967807 PM,assistant,OK
+6,11/11/2024 04:46:30.967816 PM,user,"Here are some more products I am interested in: Haier LED - Real Android TV - S6 seriesS6 - 55""priced at 161200, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO)H65S6UG PRO - 65""priced at 210234, Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 55""priced at 99900, Haier 32"" K66 Smart Android Series LED (H32K66G)H32K66G - 32""priced at 50575. Read it and say OK"
+7,11/11/2024 04:46:30.967833 PM,user,I need a fridge
+8,11/11/2024 04:46:30.967842 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,11/11/2024 04:46:30.967853 PM,user,Any you have
+10,11/11/2024 04:46:30.967863 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,11/11/2024 04:46:30.967875 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,11/11/2024 04:46:30.967886 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,11/11/2024 04:46:30.967896 PM,user,Washing machine haier HRF-622IBS black/30 price?
+14,11/11/2024 04:46:30.967906 PM,assistant,"The washing machine Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) at Rs. 309,900. Would you like to proceed with the purchase?"
+15,11/11/2024 04:46:30.967918 PM,user,Washing machine haier HRF-622IBS grey/20
+16,11/11/2024 04:46:30.967927 PM,assistant,"Yes, we do have that model. The Haier 32 in gray color is priced at Rs. 37,190. How can I assist you further?"
+17,11/11/2024 04:46:30.967938 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+18,11/11/2024 04:46:30.967950 PM,assistant,"You're referring to the smartwatch from Computer Zone. It features a 2.12-inch Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch screen and comes in orange color. The price is Rs. 1,923. Is there anything else I can help you with?"
+19,11/11/2024 04:46:30.967964 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+20,11/11/2024 04:46:30.967975 PM,assistant,"The Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) is priced at Rs. 18,999. Let me know if you would like to make a purchase."
+21,11/11/2024 04:46:30.967987 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+22,11/11/2024 04:46:30.967999 PM,assistant,"Certainly! You can buy the Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) for Rs. 18,999. Would you like to place an order?"
+23,11/11/2024 04:46:30.968010 PM,user,Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+24,11/11/2024 04:46:30.968021 PM,assistant,"The Haier Solo Series 20L Microwave (HDL-20MXP4) is priced at Rs. 17,843. If you wish to purchase it, let me know and I'll process the payment."
+25,11/11/2024 04:46:30.968032 PM,user,Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+26,11/11/2024 04:46:30.968042 PM,assistant,"The Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) is priced at Rs. 17,000. Let me know if you'd like to buy it."
+27,11/11/2024 04:46:30.968052 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+28,11/11/2024 04:46:30.968062 PM,assistant,"Yes, the Haier H85S5UG - 85 Inch Android LED 4K UHD UHD Real TV Android SeriesHaier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG) is suitable for entertainment purposes. It offers high-quality picture quality and seamless connectivity."
+29,11/11/2024 04:46:30.968074 PM,user,what's the price?
+30,11/11/2024 04:46:30.968083 PM,assistant,"The H85S5UG - 85 Inch Android LED 4K UHD is priced at Rs. 649,800."
+31,11/11/2024 04:46:30.968093 PM,user,Haier LED - Real Android TV - S6 series price of this model?
+32,11/11/2024 04:46:30.968103 PM,assistant,"The Haier LED - Real Android TV - S6 series costs Rs. 161,200."
+33,11/11/2024 04:46:30.968113 PM,user,Haier LED - Real Android TV - S6 series S6 - 55 price
+Q,11/11/2024 04:46:30.968123 PM,user,Haier LED - Real Android TV - S6 series S6 - 55 price
+R,11/11/2024 04:46:30.968132 PM,assistant,"The Haier LED - Real Android TV - S6 series at Rs. 161,200."
+0,11/11/2024 04:46:39.329850 PM,user,"Here are some products I am interested in: Haier LED - Real Android TV - S6 seriesS6 - 65""priced at 199800, Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 65""priced at 139900, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999. Read it and say OK"
+1,11/11/2024 04:46:39.329910 PM,assistant,OK
+2,11/11/2024 04:46:39.329925 PM,user,"Here are some more products I am interested in: Haier LED - Real Android TV - S6 seriesS6 - 55""priced at 161200, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO)H65S6UG PRO - 65""priced at 210234. Read it and say OK"
+3,11/11/2024 04:46:39.329942 PM,assistant,OK
+4,11/11/2024 04:46:39.329953 PM,user,"Here are some more products I am interested in: Haier LED - Real Android TV - S6 seriesS6 - 65""priced at 199800, Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 65""priced at 139900, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO)H65S6UG PRO - 65""priced at 210234. Read it and say OK"
+5,11/11/2024 04:46:39.329969 PM,assistant,OK
+6,11/11/2024 04:46:39.329980 PM,user,"Here are some more products I am interested in: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)Silver/7 Cu Ft/216 Literpriced at 69000, Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD)Gold/HRF-216 - 7 Cu Ft/216 Literpriced at 63999, Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)Black/10 Cu Ft/276 Literpriced at 82000, Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB)Black/11 Cu Ft/306 Literpriced at 63583, Haier Digital Inverter Premium Series Refrigerator (HRF-IPB/IPR)Black/15 Cu Ft/398 Literpriced at 69900. Read it and say OK"
+7,11/11/2024 04:46:39.329998 PM,user,I need a fridge
+8,11/11/2024 04:46:39.330009 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,11/11/2024 04:46:39.330022 PM,user,Any you have
+10,11/11/2024 04:46:39.330033 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,11/11/2024 04:46:39.330047 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,11/11/2024 04:46:39.330060 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,11/11/2024 04:46:39.330072 PM,user,Washing machine haier HRF-622IBS black/30 price?
+14,11/11/2024 04:46:39.330084 PM,assistant,"The washing machine Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) at Rs. 309,900. Would you like to proceed with the purchase?"
+15,11/11/2024 04:46:39.330096 PM,user,Washing machine haier HRF-622IBS grey/20
+16,11/11/2024 04:46:39.330108 PM,assistant,"Yes, we do have that model. The Haier 32 in gray color is priced at Rs. 37,190. How can I assist you further?"
+17,11/11/2024 04:46:39.330120 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+18,11/11/2024 04:46:39.330135 PM,assistant,"You're referring to the smartwatch from Computer Zone. It features a 2.12-inch Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch screen and comes in orange color. The price is Rs. 1,923. Is there anything else I can help you with?"
+19,11/11/2024 04:46:39.330151 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+20,11/11/2024 04:46:39.330166 PM,assistant,"The Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) is priced at Rs. 18,999. Let me know if you would like to make a purchase."
+21,11/11/2024 04:46:39.330179 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+22,11/11/2024 04:46:39.330193 PM,assistant,"Certainly! You can buy the Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) for Rs. 18,999. Would you like to place an order?"
+23,11/11/2024 04:46:39.330207 PM,user,Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+24,11/11/2024 04:46:39.330219 PM,assistant,"The Haier Solo Series 20L Microwave (HDL-20MXP4) is priced at Rs. 17,843. If you wish to purchase it, let me know and I'll process the payment."
+25,11/11/2024 04:46:39.330232 PM,user,Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+26,11/11/2024 04:46:39.330244 PM,assistant,"The Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) is priced at Rs. 17,000. Let me know if you'd like to buy it."
+27,11/11/2024 04:46:39.330257 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+28,11/11/2024 04:46:39.330269 PM,assistant,"Yes, the Haier H85S5UG - 85 Inch Android LED 4K UHD UHD Real TV Android SeriesHaier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG) is suitable for entertainment purposes. It offers high-quality picture quality and seamless connectivity."
+29,11/11/2024 04:46:39.330287 PM,user,what's the price?
+30,11/11/2024 04:46:39.330298 PM,assistant,"The H85S5UG - 85 Inch Android LED 4K UHD is priced at Rs. 649,800."
+31,11/11/2024 04:46:39.330310 PM,user,Haier LED - Real Android TV - S6 series price of this model?
+32,11/11/2024 04:46:39.330322 PM,assistant,"The Haier LED - Real Android TV - S6 series costs Rs. 161,200."
+33,11/11/2024 04:46:39.330334 PM,user,Haier LED - Real Android TV - S6 series S6 - 55 price
+34,11/11/2024 04:46:39.330345 PM,assistant,"The Haier LED - Real Android TV - S6 series at Rs. 161,200."
+35,11/11/2024 04:46:39.330357 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+Q,11/11/2024 04:46:39.330368 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+R,11/11/2024 04:46:39.330381 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) is priced at Rs. 58,700."
+0,11/11/2024 04:46:48.456294 PM,user,"Here are some products I am interested in: Haier LED - Real Android TV - S6 seriesS6 - 65""priced at 199800, Haier LED - 4K UHD Real Tv Android Series - K6600K6600 - 65""priced at 139900, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG)HE55S6UG - 55""priced at 209999. Read it and say OK"
+1,11/11/2024 04:46:48.456339 PM,assistant,OK
+2,11/11/2024 04:46:48.456355 PM,user,"Here are some more products I am interested in: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)Silver/7 Cu Ft/216 Literpriced at 69000, Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD)Gold/HRF-216 - 7 Cu Ft/216 Literpriced at 63999, Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)Black/10 Cu Ft/276 Literpriced at 82000. Read it and say OK"
+3,11/11/2024 04:46:48.456372 PM,assistant,OK
+4,11/11/2024 04:46:48.456383 PM,user,"Here are some more products I am interested in: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)Silver/7 Cu Ft/216 Literpriced at 69000, Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD)Gold/HRF-216 - 7 Cu Ft/216 Literpriced at 63999, Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)Black/10 Cu Ft/276 Literpriced at 82000, Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB)Black/15 Cu Ft/398 Literpriced at 73459. Read it and say OK"
+5,11/11/2024 04:46:48.456400 PM,assistant,OK
+6,11/11/2024 04:46:48.456411 PM,user,"Here are some more products I am interested in: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)Gold/16 Cu Ft/438 Literpriced at 76092, Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD)Gold/HRF-216 - 7 Cu Ft/216 Literpriced at 63999, HRF-186 EBS/EBD - 6.5 CFT E-Star Metal Door RefrigeratorGold/HRF-186 - 6 Cu Ft/186 Literpriced at 59900, HRF-438 EBS/EBD - 15 CFT E-Star Metal Door RefrigeratorGold/HRF-438 - 16 Cu Ft/438 Literpriced at 76092, HRF-306 EBS/EBD - 11 CFT E-Star Metal Door Series RefrigeratorGold/HRF-306 - 11 Cu Ft/306 Literpriced at 80000. Read it and say OK"
+7,11/11/2024 04:46:48.456429 PM,user,I need a fridge
+8,11/11/2024 04:46:48.456440 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,11/11/2024 04:46:48.456453 PM,user,Any you have
+10,11/11/2024 04:46:48.456464 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,11/11/2024 04:46:48.456479 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,11/11/2024 04:46:48.456491 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,11/11/2024 04:46:48.456503 PM,user,Washing machine haier HRF-622IBS black/30 price?
+14,11/11/2024 04:46:48.456515 PM,assistant,"The washing machine Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) at Rs. 309,900. Would you like to proceed with the purchase?"
+15,11/11/2024 04:46:48.456529 PM,user,Washing machine haier HRF-622IBS grey/20
+16,11/11/2024 04:46:48.456540 PM,assistant,"Yes, we do have that model. The Haier 32 in gray color is priced at Rs. 37,190. How can I assist you further?"
+17,11/11/2024 04:46:48.456553 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+18,11/11/2024 04:46:48.456568 PM,assistant,"You're referring to the smartwatch from Computer Zone. It features a 2.12-inch Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch screen and comes in orange color. The price is Rs. 1,923. Is there anything else I can help you with?"
+19,11/11/2024 04:46:48.456584 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+20,11/11/2024 04:46:48.456598 PM,assistant,"The Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) is priced at Rs. 18,999. Let me know if you would like to make a purchase."
+21,11/11/2024 04:46:48.456612 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+22,11/11/2024 04:46:48.456626 PM,assistant,"Certainly! You can buy the Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) for Rs. 18,999. Would you like to place an order?"
+23,11/11/2024 04:46:48.456640 PM,user,Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+24,11/11/2024 04:46:48.456652 PM,assistant,"The Haier Solo Series 20L Microwave (HDL-20MXP4) is priced at Rs. 17,843. If you wish to purchase it, let me know and I'll process the payment."
+25,11/11/2024 04:46:48.456665 PM,user,Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+26,11/11/2024 04:46:48.456677 PM,assistant,"The Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) is priced at Rs. 17,000. Let me know if you'd like to buy it."
+27,11/11/2024 04:46:48.456689 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+28,11/11/2024 04:46:48.456701 PM,assistant,"Yes, the Haier H85S5UG - 85 Inch Android LED 4K UHD UHD Real TV Android SeriesHaier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG) is suitable for entertainment purposes. It offers high-quality picture quality and seamless connectivity."
+29,11/11/2024 04:46:48.456715 PM,user,what's the price?
+30,11/11/2024 04:46:48.456726 PM,assistant,"The H85S5UG - 85 Inch Android LED 4K UHD is priced at Rs. 649,800."
+31,11/11/2024 04:46:48.456738 PM,user,Haier LED - Real Android TV - S6 series price of this model?
+32,11/11/2024 04:46:48.456749 PM,assistant,"The Haier LED - Real Android TV - S6 series costs Rs. 161,200."
+33,11/11/2024 04:46:48.456761 PM,user,Haier LED - Real Android TV - S6 series S6 - 55 price
+34,11/11/2024 04:46:48.456773 PM,assistant,"The Haier LED - Real Android TV - S6 series at Rs. 161,200."
+35,11/11/2024 04:46:48.456784 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+36,11/11/2024 04:46:48.456796 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) is priced at Rs. 58,700."
+37,11/11/2024 04:46:48.456807 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+Q,11/11/2024 04:46:48.456820 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+R,11/11/2024 04:46:48.456834 PM,assistant,"That's correct, the Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in gold with a capacity of 16 Cu Ft/438 Liters is priced at Rs. 58,700."
+0,11/11/2024 04:46:57.872078 PM,user,"Here are some products I am interested in: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)Silver/7 Cu Ft/216 Literpriced at 69000, Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD)Gold/HRF-216 - 7 Cu Ft/216 Literpriced at 63999, Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)Black/10 Cu Ft/276 Literpriced at 82000. Read it and say OK"
+1,11/11/2024 04:46:57.872153 PM,assistant,OK
+2,11/11/2024 04:46:57.872170 PM,user,"Here are some more products I am interested in: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)Gold/16 Cu Ft/438 Literpriced at 76092, Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD)Gold/HRF-216 - 7 Cu Ft/216 Literpriced at 63999, HRF-186 EBS/EBD - 6.5 CFT E-Star Metal Door RefrigeratorGold/HRF-186 - 6 Cu Ft/186 Literpriced at 59900. Read it and say OK"
+3,11/11/2024 04:46:57.872189 PM,assistant,OK
+4,11/11/2024 04:46:57.872200 PM,user,"Here are some more products I am interested in: Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)Gold/14 Cu Ft/368 Literpriced at 70731, Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD)Gold/HRF-216 - 7 Cu Ft/216 Literpriced at 63999, HRF-186 EBS/EBD - 6.5 CFT E-Star Metal Door RefrigeratorGold/HRF-186 - 6 Cu Ft/186 Literpriced at 59900, HRF-216 EBS/EBD - 7.5 CFT E-Star Metal Door Series RefrigeratorGold/HRF-216 - 7 Cu Ft/216 Literpriced at 63999. Read it and say OK"
+5,11/11/2024 04:46:57.872218 PM,assistant,OK
+6,11/11/2024 04:46:57.872229 PM,user,"Here are some more products I am interested in: Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC)Red/10 Cu Ft/276 Literpriced at 82000, Haier E-Star EB Series Refrigerator (HRF-EBS/EBD)Gold/10 Cu Ft/276 Literpriced at 78000, HRF-276 EPR/EPB/EPC/EPG - 10CFT E-Star Glass Door Series RefrigeratorRed/HRF-276 EPR/EPB/EPC/EPG - 10 Cu Ft/276 Literpriced at 77999, Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB)Red/11 Cu Ft/306 Literpriced at 63583, HRF-306 EPR/EPB/EPC/EPG - 11CFT E-Star Glass Door Series RefrigeratorRed/HRF-306 EPR/EPB/EPC/EPG - 11 Cu Ft/306 Literpriced at 86000. Read it and say OK"
+7,11/11/2024 04:46:57.872249 PM,user,I need a fridge
+8,11/11/2024 04:46:57.872260 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,11/11/2024 04:46:57.872273 PM,user,Any you have
+10,11/11/2024 04:46:57.872284 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,11/11/2024 04:46:57.872299 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,11/11/2024 04:46:57.872313 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,11/11/2024 04:46:57.872325 PM,user,Washing machine haier HRF-622IBS black/30 price?
+14,11/11/2024 04:46:57.872337 PM,assistant,"The washing machine Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) at Rs. 309,900. Would you like to proceed with the purchase?"
+15,11/11/2024 04:46:57.872349 PM,user,Washing machine haier HRF-622IBS grey/20
+16,11/11/2024 04:46:57.872361 PM,assistant,"Yes, we do have that model. The Haier 32 in gray color is priced at Rs. 37,190. How can I assist you further?"
+17,11/11/2024 04:46:57.872373 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+18,11/11/2024 04:46:57.872388 PM,assistant,"You're referring to the smartwatch from Computer Zone. It features a 2.12-inch Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch screen and comes in orange color. The price is Rs. 1,923. Is there anything else I can help you with?"
+19,11/11/2024 04:46:57.872404 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch prices
+20,11/11/2024 04:46:57.872419 PM,assistant,"The Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) is priced at Rs. 18,999. Let me know if you would like to make a purchase."
+21,11/11/2024 04:46:57.872433 PM,user,Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch
+22,11/11/2024 04:46:57.872447 PM,assistant,"Certainly! You can buy the Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) for Rs. 18,999. Would you like to place an order?"
+23,11/11/2024 04:46:57.872462 PM,user,Haier Solo Series 20L Microwave (HDL-20MXP4) HDL 20MXP4 - 20L price?'
+24,11/11/2024 04:46:57.872473 PM,assistant,"The Haier Solo Series 20L Microwave (HDL-20MXP4) is priced at Rs. 17,843. If you wish to purchase it, let me know and I'll process the payment."
+25,11/11/2024 04:46:57.872486 PM,user,Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) HCC 509EGS - Stainless Steel price?
+26,11/11/2024 04:46:57.872498 PM,assistant,"The Haier FFD Safety Device 5 Burner Hob (HCC-509EGS) is priced at Rs. 17,000. Let me know if you'd like to buy it."
+27,11/11/2024 04:46:57.872511 PM,user,Haier LED - 4K UHD Real Tv Android Series - K6600 is good for use?
+28,11/11/2024 04:46:57.872522 PM,assistant,"Yes, the Haier H85S5UG - 85 Inch Android LED 4K UHD UHD Real TV Android SeriesHaier 75"" K66 4K UHD Smart Android Series LED (LE75K6600UG) is suitable for entertainment purposes. It offers high-quality picture quality and seamless connectivity."
+29,11/11/2024 04:46:57.872536 PM,user,what's the price?
+30,11/11/2024 04:46:57.872549 PM,assistant,"The H85S5UG - 85 Inch Android LED 4K UHD is priced at Rs. 649,800."
+31,11/11/2024 04:46:57.872561 PM,user,Haier LED - Real Android TV - S6 series price of this model?
+32,11/11/2024 04:46:57.872572 PM,assistant,"The Haier LED - Real Android TV - S6 series costs Rs. 161,200."
+33,11/11/2024 04:46:57.872585 PM,user,Haier LED - Real Android TV - S6 series S6 - 55 price
+34,11/11/2024 04:46:57.872597 PM,assistant,"The Haier LED - Real Android TV - S6 series at Rs. 161,200."
+35,11/11/2024 04:46:57.872608 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) model price?
+36,11/11/2024 04:46:57.872620 PM,assistant,"The Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) is priced at Rs. 58,700."
+37,11/11/2024 04:46:57.872632 PM,user,Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) Gold/16 Cu Ft/438 Liter
+38,11/11/2024 04:46:57.872643 PM,assistant,"That's correct, the Haier E-Star EB Series Refrigerator (HRF-EBS/EBD) in gold with a capacity of 16 Cu Ft/438 Liters is priced at Rs. 58,700."
+39,11/11/2024 04:46:57.872657 PM,user,Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Red/10 Cu Ft/276 Liter this model price?
+Q,11/11/2024 04:46:57.872669 PM,user,Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) Red/10 Cu Ft/276 Liter this model price?
+R,11/11/2024 04:46:57.872682 PM,assistant,"The Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) in red with a capacity of 10 Cu Ft/276 Liters is priced at Rs. 73,000."

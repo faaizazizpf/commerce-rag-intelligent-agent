@@ -1,0 +1,25 @@
+Message Index,Timestamp,Role,Content
+0,25/11/2024 01:38:35.772765 PM,user,"Here are some more products I am interested in: Remote Remote priced at 10, H50K800UX - 50 Inch Google TV 50 Inches priced at 95399, Haier LED - 4K UHD Real Tv Android Series - K6600 K6600 - 50"" priced at 85900, Haier 55"" 4K UHD Android TV (HE55S6UG PRO) HE55S6UG PRO - 55"" priced at 154210, Remote Remote priced at 10. Read it and say OK"
+1,25/11/2024 01:38:35.772790 PM,assistant,OK
+2,25/11/2024 01:38:35.772802 PM,user,remote price?
+3,25/11/2024 01:38:35.772812 PM,assistant,"The remote control for Haier LED - Real Android TV - S6 series at Rs. 161,200. Would you like to proceed with the purchase?"
+Q,25/11/2024 01:38:35.772825 PM,user,remote price?
+R,25/11/2024 01:38:35.772835 PM,assistant,"The remote control for Haier LED - Real Android TV - S6 series at Rs. 161,200. Would you like to proceed with the purchase?"
+0,25/11/2024 01:38:46.102661 PM,user,"Here are some more products I am interested in: Candy - CDL-20MX01 - 20L Solo Microwave Oven CDL-20MX01 priced at 15199, Candy - CDL-25DG02 -25L - Grill Microwave Oven CDL-25DG02 priced at 25299, HGL-23100 - 23L Grill Microwave Oven White priced at 27499, HGL-25200 - 25L Grill Microwave Oven Black priced at 29499, Candy - CDL-25DG02 -25L - Grill Microwave Oven CDL-25DG02 priced at 25299. Read it and say OK"
+1,25/11/2024 01:38:46.102688 PM,assistant,OK
+2,25/11/2024 01:38:46.102700 PM,user,remote price?
+3,25/11/2024 01:38:46.102710 PM,assistant,"The remote control for Haier LED - Real Android TV - S6 series at Rs. 161,200. Would you like to proceed with the purchase?"
+4,25/11/2024 01:38:46.102722 PM,user,Candy - CDL-25DG02 -25L - Grill Microwave Oven pricE?
+5,25/11/2024 01:38:46.102732 PM,assistant,"The price of the Candy - Candy - CDL-25DG02 -25L - Grill Microwave Oven -25L - Grill Microwave Oven is Rs. 25,299. Is there anything else you would like to inquire about?"
+Q,25/11/2024 01:38:46.102744 PM,user,Candy - CDL-25DG02 -25L - Grill Microwave Oven pricE?
+R,25/11/2024 01:38:46.102754 PM,assistant,"The price of the Candy - Candy - CDL-25DG02 -25L - Grill Microwave Oven -25L - Grill Microwave Oven is Rs. 25,299. Is there anything else you would like to inquire about?"
+0,25/11/2024 01:38:57.251396 PM,user,"Here are some more products I am interested in: Candy - CDL-20MX01 - 20L Solo Microwave Oven CDL-20MX01 priced at 15199,  HMW-20MX11 20L Solo Microwave Oven  HMW-20MX11 priced at 17999, HMW-20MX12 20L Solo Microwave Oven HMW-20MX12 priced at 17999, HGL-20MXP8 - 20L Solo Microwave Oven Black priced at 17599, Candy - CDL-20MX01 - 20L Solo Microwave Oven CDL-20MX01 priced at 15199. Read it and say OK"
+1,25/11/2024 01:38:57.251425 PM,assistant,OK
+2,25/11/2024 01:38:57.251437 PM,user,remote price?
+3,25/11/2024 01:38:57.251448 PM,assistant,"The remote control for Haier LED - Real Android TV - S6 series at Rs. 161,200. Would you like to proceed with the purchase?"
+4,25/11/2024 01:38:57.251462 PM,user,Candy - CDL-25DG02 -25L - Grill Microwave Oven pricE?
+5,25/11/2024 01:38:57.251472 PM,assistant,"The price of the Candy - Candy - CDL-25DG02 -25L - Grill Microwave Oven -25L - Grill Microwave Oven is Rs. 25,299. Is there anything else you would like to inquire about?"
+6,25/11/2024 01:38:57.251484 PM,user,Candy - CDL-20MX01 - 20L Solo Microwave Oven price?
+7,25/11/2024 01:38:57.251493 PM,assistant,"The price of the Candy - Candy - CDL-20MX01 - 20L Solo Microwave Oven - 20L Solo Microwave Oven is Rs. 15,199. How can I assist you further today?"
+Q,25/11/2024 01:38:57.251505 PM,user,Candy - CDL-20MX01 - 20L Solo Microwave Oven price?
+R,25/11/2024 01:38:57.251516 PM,assistant,"The price of the Candy - Candy - CDL-20MX01 - 20L Solo Microwave Oven - 20L Solo Microwave Oven is Rs. 15,199. How can I assist you further today?"

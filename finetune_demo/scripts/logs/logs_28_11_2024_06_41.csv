@@ -1,0 +1,9 @@
+Message Index,Timestamp,Role,Content
+0,28/11/2024 06:41:39.563406 PM,user,"Here are some more products I am interested in: Haier 40"" K66 Smart Android Series LED (H40K66FG) H40K66FG - 40"" priced at 71800, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG) HE55S6UG - 55"" priced at 209999, Haier 43"" K66 Smart Android Series LED (H43K66UGP) H43K66UGP - 43"" 4KHDR priced at 87861, Haier 65"" S6 4K UHD Smart Android Series LED (H65S6UG PRO) H65S6UG PRO - 65"" priced at 210234, Candy - C55K7UG - 55 Inch Android Smart LED TV Certified Android TV priced at 110899. Read it and say OK"
+1,28/11/2024 06:41:39.563435 PM,assistant,OK
+2,28/11/2024 06:41:39.563449 PM,user,hi
+3,28/11/2024 06:41:39.563460 PM,assistant,Hi there! How can I assist you today?
+4,28/11/2024 06:41:39.563474 PM,user,hair LED price?
+5,28/11/2024 06:41:39.563485 PM,assistant,<function query_RAG_check_with_link at 0x7afd291d5000>
+Q,28/11/2024 06:41:39.563500 PM,user,hair LED price?
+R,28/11/2024 06:41:39.563512 PM,assistant,<function query_RAG_check_with_link at 0x7afd291d5000>

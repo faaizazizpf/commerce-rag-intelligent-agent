@@ -1,0 +1,61 @@
+Message Index,Timestamp,Role,Content
+0,20/11/2024 12:06:00.012781 PM,user,"Here are some products I am interested in: Haier Hand Wash Series Washing Machine (HWM-1708) HWM80 1708Y - 8KG priced at 70900, Haier Double Tub Washing Machine (HWM80-100SR) HWM80-100SR - 08KG priced at 24501, Haier Double Tub Washing Machine (HWM80-100) HWM80-100 - 08KG priced at 25532. Read it and say OK"
+1,20/11/2024 12:06:00.012869 PM,assistant,OK
+2,20/11/2024 12:06:00.012911 PM,user,"Here are some more products I am interested in:  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999,  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449, HMN-32100BEGB - 32L Grill Microwave Oven Black priced at 36499. Read it and say OK"
+3,20/11/2024 12:06:00.012956 PM,assistant,OK
+4,20/11/2024 12:06:00.012990 PM,user,"Here are some more products I am interested in: Haier Microwave Grill Oven HMN-45200ESD HMN-45200ESD - 45L priced at 46000,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999, Haier 36L Red Ribbon Grill Series Microwave (HMN-36100EGB) HMN-36100EGB - 36L priced at 0, Haier 32L Red Ribbon Grill Series Microwave (HMN-32100EGB) HMN-32100EGB - 32L priced at 0. Read it and say OK"
+5,20/11/2024 12:06:00.013043 PM,assistant,OK
+6,20/11/2024 12:06:00.013083 PM,user,"Here are some more products I am interested in:  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999,  HMW-20MX11 20L Solo Microwave Oven  HMW-20MX11 priced at 17999, HMN-62MX80 - 62L Solo Microwave Oven Black priced at 47599, HMW-20MX12 20L Solo Microwave Oven HMW-20MX12 priced at 17999. Read it and say OK"
+7,20/11/2024 12:06:00.013135 PM,user,I need a fridge
+8,20/11/2024 12:06:00.013171 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,20/11/2024 12:06:00.013214 PM,user,Any you have
+10,20/11/2024 12:06:00.013248 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,20/11/2024 12:06:00.013302 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,20/11/2024 12:06:00.013342 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,20/11/2024 12:06:00.013380 PM,user, HMW-28100-28L Digital Grill Microwave Oven price?
+14,20/11/2024 12:06:00.013416 PM,assistant,"The price for the Haier  HMW-28100-28L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 33,999. Is there anything else you would like to inquire about our products?"
+15,20/11/2024 12:06:00.013458 PM,user, HMW-23200-23L Digital Microwave Oven  price?
+Q,20/11/2024 12:06:00.013495 PM,user, HMW-23200-23L Digital Microwave Oven  price?
+R,20/11/2024 12:06:00.013531 PM,assistant,"The price for the Haier   HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven is Rs. 30,449. Would you like any further assistance or information on other Haier appliances?"
+0,20/11/2024 12:06:18.766035 PM,user,"Here are some products I am interested in: Haier Microwave Grill Oven HMN-45200ESD HMN-45200ESD - 45L priced at 46000,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999, Haier 36L Red Ribbon Grill Series Microwave (HMN-36100EGB) HMN-36100EGB - 36L priced at 0. Read it and say OK"
+1,20/11/2024 12:06:18.766088 PM,assistant,OK
+2,20/11/2024 12:06:18.766106 PM,user,"Here are some more products I am interested in:  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999,  HMW-20MX11 20L Solo Microwave Oven  HMW-20MX11 priced at 17999. Read it and say OK"
+3,20/11/2024 12:06:18.766124 PM,assistant,OK
+4,20/11/2024 12:06:18.766138 PM,user,"Here are some more products I am interested in: Haier Baking Toaster Oven (HMO-4550) HMO 4550 - 45L priced at 20955, Haier 25L ESI Series Microwave Oven (HMN-25500ESI) HMN-25500ESI - 25L priced at 44400, Haier Microwave Grill Oven HMN-45200ESD HMN-45200ESD - 45L priced at 46000, Haier Built in Microwave Oven (HDL/HMN 25NG) HDL 25NG22 - Black priced at 26599. Read it and say OK"
+5,20/11/2024 12:06:18.766155 PM,assistant,OK
+6,20/11/2024 12:06:18.766167 PM,user,"Here are some more products I am interested in:  HMW-20DGS-20L Digital Grill Microwave Oven  HMW-20DGS priced at 23899,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999,  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449,  HMW-20DSS-20L Digital Solo Microwave Oven  HMW-20DSS priced at 20899, HMW-20MX12 20L Solo Microwave Oven HMW-20MX12 priced at 17999. Read it and say OK"
+7,20/11/2024 12:06:18.766185 PM,user,I need a fridge
+8,20/11/2024 12:06:18.766197 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,20/11/2024 12:06:18.766210 PM,user,Any you have
+10,20/11/2024 12:06:18.766223 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,20/11/2024 12:06:18.766239 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,20/11/2024 12:06:18.766253 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,20/11/2024 12:06:18.766266 PM,user, HMW-28100-28L Digital Grill Microwave Oven price?
+14,20/11/2024 12:06:18.766278 PM,assistant,"The price for the Haier  HMW-28100-28L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 33,999. Is there anything else you would like to inquire about our products?"
+15,20/11/2024 12:06:18.766293 PM,user, HMW-23200-23L Digital Microwave Oven  price?
+16,20/11/2024 12:06:18.766305 PM,assistant,"The price for the Haier   HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven is Rs. 30,449. Would you like any further assistance or information on other Haier appliances?"
+17,20/11/2024 12:06:18.766319 PM,user, HMW-20DGS-20L Digital Grill Microwave Oven  price?
+Q,20/11/2024 12:06:18.766332 PM,user, HMW-20DGS-20L Digital Grill Microwave Oven  price?
+R,20/11/2024 12:06:18.766347 PM,assistant,"The price for the Haier     HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. How can I assist you further today?"
+0,20/11/2024 12:06:49.689450 PM,user,"Here are some products I am interested in: Haier Baking Toaster Oven (HMO-4550) HMO 4550 - 45L priced at 20955, Haier 25L ESI Series Microwave Oven (HMN-25500ESI) HMN-25500ESI - 25L priced at 44400, Haier Microwave Grill Oven HMN-45200ESD HMN-45200ESD - 45L priced at 46000. Read it and say OK"
+1,20/11/2024 12:06:49.689489 PM,assistant,OK
+2,20/11/2024 12:06:49.689504 PM,user,"Here are some more products I am interested in:  HMW-20DGS-20L Digital Grill Microwave Oven  HMW-20DGS priced at 23899,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999,  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449. Read it and say OK"
+3,20/11/2024 12:06:49.689519 PM,assistant,OK
+4,20/11/2024 12:06:49.689531 PM,user,"Here are some more products I am interested in: Haier Microwave Grill Oven HMN-45200ESD HMN-45200ESD - 45L priced at 46000,  HMW-20DGS-20L Digital Grill Microwave Oven  HMW-20DGS priced at 23899,  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449,  HMW-20DSS-20L Digital Solo Microwave Oven  HMW-20DSS priced at 20899. Read it and say OK"
+5,20/11/2024 12:06:49.689553 PM,assistant,OK
+6,20/11/2024 12:06:49.689565 PM,user,"Here are some more products I am interested in: Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch (Orange) Computer Zone Hk8 Pro Max 2.12 Inch Amoled Screen Smart Watch Ultra 49mm Men Series 8 Nfc Wireless Charging Sports Watch 30/200/111111 priced at 1999, HW80-BP12929S3 - 8 kg - Fully Automatic Front Load Washing Machine Grey priced at 154999, HW90-BP14959S8 - 9 kg Fully Automatic Front Load Washing Machine Grey priced at 169999, Haier Front Load 8 KG Washing Machine HW80-BP12929S3 8KG - HW80-BP12929S3 priced at 179900, Haier Double Tub Washing Machine (HWM-75/80AS 80ASR) HWM 75AS - 7.5KG priced at 31000. Read it and say OK"
+7,20/11/2024 12:06:49.689591 PM,user,I need a fridge
+8,20/11/2024 12:06:49.689603 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,20/11/2024 12:06:49.689616 PM,user,Any you have
+10,20/11/2024 12:06:49.689627 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,20/11/2024 12:06:49.689642 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,20/11/2024 12:06:49.689657 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,20/11/2024 12:06:49.689669 PM,user, HMW-28100-28L Digital Grill Microwave Oven price?
+14,20/11/2024 12:06:49.689682 PM,assistant,"The price for the Haier  HMW-28100-28L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 33,999. Is there anything else you would like to inquire about our products?"
+15,20/11/2024 12:06:49.689695 PM,user, HMW-23200-23L Digital Microwave Oven  price?
+16,20/11/2024 12:06:49.689707 PM,assistant,"The price for the Haier   HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven is Rs. 30,449. Would you like any further assistance or information on other Haier appliances?"
+17,20/11/2024 12:06:49.689720 PM,user, HMW-20DGS-20L Digital Grill Microwave Oven  price?
+18,20/11/2024 12:06:49.689732 PM,assistant,"The price for the Haier     HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. How can I assist you further today?"
+19,20/11/2024 12:06:49.689746 PM,user,hello buddy how are you
+Q,20/11/2024 12:06:49.689757 PM,user,hello buddy how are you
+R,20/11/2024 12:06:49.689769 PM,assistant,Hello! I'm here to help you with any queries related to Haier products. How may I assist you today?

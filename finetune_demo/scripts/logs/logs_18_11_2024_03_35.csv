@@ -1,0 +1,43 @@
+Message Index,Timestamp,Role,Content
+0,18/11/2024 03:35:01.612730 PM,user,"Here are some products I am interested in: Haier Double Tub Washing Machine (HWM-80ASR) HWM 80ASR - 08KG priced at 23701, Haier Double Tub Washing Machine (HWM80-000) HWM80-000 - 08KG priced at 23661, Haier Double Tub Washing Machine (HWM-80AS) HWM-80AS - 08KG priced at 29499. Read it and say OK"
+1,18/11/2024 03:35:01.612803 PM,assistant,OK
+2,18/11/2024 03:35:01.612836 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG) HMN 25NG23 - Sliver Grilling priced at 34642, Haier Built in Microwave Oven (HMN 25NG23) HMN 25NG23 - Sliver Grilling priced at 34642, Haier Built in Microwave Oven (HDL 25NG22) HDL 25NG22 - Black priced at 26599. Read it and say OK"
+3,18/11/2024 03:35:01.612869 PM,assistant,OK
+4,18/11/2024 03:35:01.612892 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG) HMN 25NG23 - Sliver Grilling priced at 34642, Haier Built in Microwave Oven (HMN 25NG23) HMN 25NG23 - Sliver Grilling priced at 34642, Haier Built in Microwave Oven (HDL 25NG22) HDL 25NG22 - Black priced at 26599, Haier Built in Microwave Oven (HMN 25NG24) HMN 25NG24 - Black Grilling priced at 38438. Read it and say OK"
+5,18/11/2024 03:35:01.612922 PM,assistant,OK
+6,18/11/2024 03:35:01.612945 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL 25UG21) HDL 25UG21 - Silver priced at 30699, Haier Built in Microwave Oven (HDL/HMN 25NG) HDL 25UG21 - Silver priced at 30699, Haier Built in Microwave Oven (HDL 25NG22) HDL 25NG22 - Black priced at 26599, Haier Built-in Smart Baking Oven HCO-ICOOK5U1 HCO-ICOOK5U1 priced at 182500, Haier Smart SBS Series Refrigerator (HRF 758SIBGU1) Black Glass priced at 535853. Read it and say OK"
+7,18/11/2024 03:35:01.612980 PM,user,I need a fridge
+8,18/11/2024 03:35:01.613001 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,18/11/2024 03:35:01.613032 PM,user,Any you have
+10,18/11/2024 03:35:01.613053 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,18/11/2024 03:35:01.613083 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,18/11/2024 03:35:01.613107 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,18/11/2024 03:35:01.613132 PM,user,Does haier sales hair dryers?
+14,18/11/2024 03:35:01.613155 PM,assistant,"Haier does not sell hair dryers. However, we do offer washing machines, air conditioners, and refrigerators. How can I assist you further today?"
+15,18/11/2024 03:35:01.613180 PM,user,Does haier offer wooden bats?
+16,18/11/2024 03:35:01.613201 PM,assistant,"No, Haier does not carry Wooden Bats. We specialize in home appliances such as washers, dryers, ovens, and microwaves. Is there anything else you're looking for?"
+17,18/11/2024 03:35:01.613226 PM,user,Is haier provides laptop repairing services?
+Q,18/11/2024 03:35:01.613250 PM,user,Is haier provides laptop repairing services?
+R,18/11/2024 03:35:01.613273 PM,assistant,"I'm sorry to inform you that Haier doesn't provide laptop repair services. Our expertise lies in household electronics like refrigerators, freezers, and water heaters. Please let me know how I can help you with those items."
+0,18/11/2024 03:35:25.491146 PM,user,"Here are some products I am interested in: Haier Built in Microwave Oven (HDL/HMN 25NG) HMN 25NG23 - Sliver Grilling priced at 34642, Haier Built in Microwave Oven (HMN 25NG23) HMN 25NG23 - Sliver Grilling priced at 34642, Haier Built in Microwave Oven (HDL 25NG22) HDL 25NG22 - Black priced at 26599. Read it and say OK"
+1,18/11/2024 03:35:25.491214 PM,assistant,OK
+2,18/11/2024 03:35:25.491231 PM,user,"Here are some more products I am interested in: Haier Built in Microwave Oven (HDL 25UG21) HDL 25UG21 - Silver priced at 30699, Haier Built in Microwave Oven (HDL/HMN 25NG) HDL 25UG21 - Silver priced at 30699, Haier Built in Microwave Oven (HDL 25NG22) HDL 25NG22 - Black priced at 26599. Read it and say OK"
+3,18/11/2024 03:35:25.491255 PM,assistant,OK
+4,18/11/2024 03:35:25.491267 PM,user,"Here are some more products I am interested in: Haier Smart SBS Series Refrigerator (HRF 758SIBGU1) Black Glass priced at 535853, Haier 748KG SBS Series Refrigerator (HRF-748KG) Black Glass priced at 196900, Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) 622IBG - Black Glass priced at 309900, Haier Built in Microwave Oven (HDL 25NG22) HDL 25NG22 - Black priced at 26599. Read it and say OK"
+5,18/11/2024 03:35:25.491285 PM,assistant,OK
+6,18/11/2024 03:35:25.491296 PM,user,"Here are some more products I am interested in: Haier Built-in Smart Baking Oven HCO-ICOOK5U1 HCO-ICOOK5U1 priced at 182500, Haier Built in Microwave Oven (HDL/HMN 25NG) HDL 25UG21 - Silver priced at 30699, Haier Baking Toaster Oven (HMO-4550) HMO 4550 - 45L priced at 20955, Haier Built in Microwave Oven (HDL 25UG21) HDL 25UG21 - Silver priced at 30699, Haier Smart Anti Dry 3 Burner Hob (HCC-QHA9331/83UD) HCC QHA9331 - 3 Burner priced at 83000. Read it and say OK"
+7,18/11/2024 03:35:25.491313 PM,user,I need a fridge
+8,18/11/2024 03:35:25.491324 PM,assistant,Sure! We have several options available. Could you please specify your requirements or preferences?
+9,18/11/2024 03:35:25.491337 PM,user,Any you have
+10,18/11/2024 03:35:25.491348 PM,assistant,"We have various refrigerators available. Here's one option: Haier E-Star EP Series Refrigerator (HRF-438 EPR/EPB/EPC/EPG). It has a capacity of 246 liters with non-inverter technology. The price is Rs. 101,964. Let me know if this meets your requirements or if you want more options."
+11,18/11/2024 03:35:25.491363 PM,user,"Act as an AI customer support chatbot specialized in Haier products. Provide accurate and helpful information, and ensure customer satisfaction."
+12,18/11/2024 03:35:25.491376 PM,assistant,I understand. I will act as an AI customer support chatbot specialized in Haier products.
+13,18/11/2024 03:35:25.491388 PM,user,Does haier sales hair dryers?
+14,18/11/2024 03:35:25.491399 PM,assistant,"Haier does not sell hair dryers. However, we do offer washing machines, air conditioners, and refrigerators. How can I assist you further today?"
+15,18/11/2024 03:35:25.491412 PM,user,Does haier offer wooden bats?
+16,18/11/2024 03:35:25.491423 PM,assistant,"No, Haier does not carry Wooden Bats. We specialize in home appliances such as washers, dryers, ovens, and microwaves. Is there anything else you're looking for?"
+17,18/11/2024 03:35:25.491437 PM,user,Is haier provides laptop repairing services?
+18,18/11/2024 03:35:25.491448 PM,assistant,"I'm sorry to inform you that Haier doesn't provide laptop repair services. Our expertise lies in household electronics like refrigerators, freezers, and water heaters. Please let me know how I can help you with those items."
+19,18/11/2024 03:35:25.491462 PM,user,Which haier cake is best selling product?
+Q,18/11/2024 03:35:25.491474 PM,user,Which haier cake is best selling product?
+R,18/11/2024 03:35:25.491486 PM,assistant,The Haier E-Star EB Series Refrigerator (HRF-216 EBS/EBD) in black glass color is our top-selling refrigerator model. It offers great value for money. Would you like to learn more about its features?

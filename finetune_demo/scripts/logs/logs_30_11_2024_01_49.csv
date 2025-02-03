@@ -1,0 +1,19 @@
+Message Index,Timestamp,Role,Content
+0,30/11/2024 01:49:43.805946 PM,user,"Here are some more products I am interested in: Haier Turbo Premium Cooling Series Refrigerator (HRF-TPR/TPB) Black/12 Cu Ft/336 Liter priced at 65464, Haier T-Door SBS Series Refrigerator (HRF-578TBG/TBP/678TGG) HRF 678TGG - Golden Glass priced at 329900, Haier 622 SBS Series Refrigerator (HRF-622ICG/IBG/IBS) 622ICG - Chocolate Glass priced at 309900, Haier 522 SBS Series Refrigerator (HRF-522 IBS) HRF 522IBS - Black priced at 259900. Read it and say OK"
+1,30/11/2024 01:49:43.805974 PM,assistant,OK
+2,30/11/2024 01:49:43.805987 PM,user,Hi
+3,30/11/2024 01:49:43.805999 PM,assistant,Hello! How can I assist you today? Please let me know how I can help you with our range of Haier products.
+4,30/11/2024 01:49:43.806012 PM,user,i am looking for a fridge
+5,30/11/2024 01:49:43.806022 PM,assistant,"Of course! We have a variety of fridges to choose from. What type of refrigerator are you interested in – a top-mounted, side-by-side, or bottom-freezer model?"
+Q,30/11/2024 01:49:43.806037 PM,user,i am looking for a fridge
+R,30/11/2024 01:49:43.806047 PM,assistant,"Of course! We have a variety of fridges to choose from. What type of refrigerator are you interested in – a top-mounted, side-by-side, or bottom-freezer model?"
+0,30/11/2024 01:49:55.867921 PM,user,"Here are some more products I am interested in: Haier T Shape Hood (PCHT-9001/9002) PCHT 9001 - Button priced at 43500, Haier T Shape Hood (PCHT-9001) PCHT 9001 - Button priced at 43500, Haier T Shape Hood (PCHT-9002) PCHT 9002 - Touch priced at 45200, HWM90-1708S5 - 9KG Top Load Fully Automatic Washing Machine 9KG - HWM90-1708S5 priced at 69999, HWM150-1678ES8 -  Fully Automatic Top Load Washing Machine Black priced at 115999. Read it and say OK"
+1,30/11/2024 01:49:55.867953 PM,assistant,OK
+2,30/11/2024 01:49:55.867970 PM,user,Hi
+3,30/11/2024 01:49:55.867981 PM,assistant,Hello! How can I assist you today? Please let me know how I can help you with our range of Haier products.
+4,30/11/2024 01:49:55.867993 PM,user,i am looking for a fridge
+5,30/11/2024 01:49:55.868004 PM,assistant,"Of course! We have a variety of fridges to choose from. What type of refrigerator are you interested in – a top-mounted, side-by-side, or bottom-freezer model?"
+6,30/11/2024 01:49:55.868024 PM,user,top mounted
+7,30/11/2024 01:49:55.868036 PM,assistant,"Got it. Our top-mounted models include the Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) with a capacity of 246 liters priced at Rs. 82,000. Is that something you would consider?"
+Q,30/11/2024 01:49:55.868049 PM,user,top mounted
+R,30/11/2024 01:49:55.868059 PM,assistant,"Got it. Our top-mounted models include the Haier E-Star EP Series Refrigerator (HRF-EPR/EPB/EPC) with a capacity of 246 liters priced at Rs. 82,000. Is that something you would consider?"

@@ -1,0 +1,20 @@
+Message Index,Timestamp,Role,Content
+0,02/12/2024 06:30:02.694526 PM,user,"Here are some more products I am interested in: HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner White/HSU-18CFCP priced at 125499, Haier Turbo Cool Series Air Conditioner (HSU-12/18 CFCM)
+ White/HSU 18CFCM - 1.5 Ton priced at 134000, HSU-12CFCM - 1 Ton Turbo Cool Air Conditioner White/HSU-12CFCP priced at 97499, HSU-18LFCM-- Cool Only Inverter Series Air Conditioner White/HSU-18LFCB-USDC - 1.5 Ton priced at 143999, HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner White/HSU-18CFCP priced at 125499. Read it and say OK"
+1,02/12/2024 06:30:02.694549 PM,assistant,OK
+2,02/12/2024 06:30:02.694562 PM,user,HWM150-826 - 15KG Top Load Fully Automatic Washing Machine price?
+3,02/12/2024 06:30:02.694573 PM,assistant,"The MRP for the Haier 15KG top load fully automatic washing machine (The https://haier.com.pk/product/2398 #HWM120-826E - 12KG Top Load Fully Automatic Washing Machine#) is Rs. 85,499 but we offer it at a discounted price of Rs. 98,654. Would you like to proceed with the purchase?"
+4,02/12/2024 06:30:02.694586 PM,user,HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner
+5,02/12/2024 06:30:02.694597 PM,assistant,"Yes, the The https://haier.com.pk/product/2351 #HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner# at Rs. 125,499. Would you like to buy it?"
+Q,02/12/2024 06:30:02.694609 PM,user,HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner
+R,02/12/2024 06:30:02.694620 PM,assistant,"Yes, the The https://haier.com.pk/product/2351 #HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner# at Rs. 125,499. Would you like to buy it?"
+0,02/12/2024 06:30:20.925970 PM,user,"Here are some more products I am interested in: HMN-45200ESD - 45L Grill Microwave Oven HMN-45200ESD - 45L priced at 41999, Haier Microwave Grill Oven HMN-45200ESD HMN-45200ESD - 45L priced at 46000,  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999, HMN-45200ESD - 45L Grill Microwave Oven HMN-45200ESD - 45L priced at 41999. Read it and say OK"
+1,02/12/2024 06:30:20.926010 PM,assistant,OK
+2,02/12/2024 06:30:20.926030 PM,user,HWM150-826 - 15KG Top Load Fully Automatic Washing Machine price?
+3,02/12/2024 06:30:20.926047 PM,assistant,"The MRP for the Haier 15KG top load fully automatic washing machine (The https://haier.com.pk/product/2398 #HWM120-826E - 12KG Top Load Fully Automatic Washing Machine#) is Rs. 85,499 but we offer it at a discounted price of Rs. 98,654. Would you like to proceed with the purchase?"
+4,02/12/2024 06:30:20.926067 PM,user,HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner
+5,02/12/2024 06:30:20.926082 PM,assistant,"Yes, the The https://haier.com.pk/product/2351 #HSU-18CFCM - 1.5 Ton Turbo Cool Series Air Conditioner# at Rs. 125,499. Would you like to buy it?"
+6,02/12/2024 06:30:20.926099 PM,user,HMN-45200ESD - 45L Grill Microwave Oven price?
+7,02/12/2024 06:30:20.926116 PM,assistant,"The HMF series grill microwave oven (https://haier.com.pk/product/2570 #Haier Microwave Grill Oven The https://haier.com.pk/product/1836 #HMN-45200ESD - 45L Grill Microwave Oven##) is priced at Rs. 46,000. Is that okay?"
+Q,02/12/2024 06:30:20.926135 PM,user,HMN-45200ESD - 45L Grill Microwave Oven price?
+R,02/12/2024 06:30:20.926150 PM,assistant,"The HMF series grill microwave oven (https://haier.com.pk/product/2570 #Haier Microwave Grill Oven The https://haier.com.pk/product/1836 #HMN-45200ESD - 45L Grill Microwave Oven##) is priced at Rs. 46,000. Is that okay?"

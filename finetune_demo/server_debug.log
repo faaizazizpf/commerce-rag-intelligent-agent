@@ -1,0 +1,12 @@
+09/11/2024 06:33:16.%f PM - INFO - Use pytorch device_name: cuda
+09/11/2024 06:33:16.%f PM - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+09/11/2024 06:33:16.%f PM - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+09/11/2024 06:33:16.%f PM - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+09/11/2024 06:33:16.%f PM - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+09/11/2024 06:33:17.%f PM - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+09/11/2024 06:33:17.%f PM - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+09/11/2024 06:33:17.%f PM - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+09/11/2024 06:33:17.%f PM - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+09/11/2024 06:33:17.%f PM - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+09/11/2024 06:33:18.%f PM - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6680
+09/11/2024 06:33:18.%f PM - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6681

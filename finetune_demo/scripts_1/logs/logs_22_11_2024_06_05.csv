@@ -1,0 +1,15 @@
+Message Index,Timestamp,Role,Content
+0,22/11/2024 06:05:45.661426 PM,user,"Here are some more products I am interested in:  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999,  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449, HMN-32100BEGB - 32L Grill Microwave Oven Black priced at 36499, HMN-45200ESD - 45L Grill Microwave Oven HMN-45200ESD - 45L priced at 41999, HGL-25200 - 25L Grill Microwave Oven Black priced at 29499. Read it and say OK"
+1,22/11/2024 06:05:45.661467 PM,assistant,OK
+2,22/11/2024 06:05:45.661483 PM,user,HMW-28100-28L Digital Grill Microwave Oven price?
+3,22/11/2024 06:05:45.661497 PM,assistant,"The price for the  HMW-28100-28L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 33,999. Would you like to learn more about its features and specifications?"
+Q,22/11/2024 06:05:45.661513 PM,user,HMW-28100-28L Digital Grill Microwave Oven price?
+R,22/11/2024 06:05:45.661525 PM,assistant,"The price for the  HMW-28100-28L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 33,999. Would you like to learn more about its features and specifications?"
+0,22/11/2024 06:05:52.263687 PM,user,"Here are some more products I am interested in:  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999,  HMW-20MX11 20L Solo Microwave Oven  HMW-20MX11 priced at 17999, HMW-20MX12 20L Solo Microwave Oven HMW-20MX12 priced at 17999, HMN-45200ESD - 45L Grill Microwave Oven HMN-45200ESD - 45L priced at 41999. Read it and say OK"
+1,22/11/2024 06:05:52.263724 PM,assistant,OK
+2,22/11/2024 06:05:52.263741 PM,user,HMW-28100-28L Digital Grill Microwave Oven price?
+3,22/11/2024 06:05:52.263755 PM,assistant,"The price for the  HMW-28100-28L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 33,999. Would you like to learn more about its features and specifications?"
+4,22/11/2024 06:05:52.263770 PM,user,HMW-23200-23L Digital Microwave Oven  price?
+5,22/11/2024 06:05:52.263782 PM,assistant,"Yes, the price for the  HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven  is Rs. 30,449. Do you require any additional details on its functionalities?"
+Q,22/11/2024 06:05:52.263797 PM,user,HMW-23200-23L Digital Microwave Oven  price?
+R,22/11/2024 06:05:52.263811 PM,assistant,"Yes, the price for the  HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven  is Rs. 30,449. Do you require any additional details on its functionalities?"

@@ -1,0 +1,13 @@
+Message Index,Timestamp,Role,Content
+0,28/11/2024 06:56:15.467122 PM,user,"Here are some more products I am interested in:  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449,  HMW-28100-28L Digital Grill Microwave Oven  HMW-28100 priced at 33999,  HMW-20MX11 20L Solo Microwave Oven  HMW-20MX11 priced at 17999, HMN-20MXP6 - 20L Solo Microwave Oven HMN-20MXP6 priced at 17599,  HMW-23200-23L Digital Microwave Oven  HMW-23200 priced at 30449. Read it and say OK"
+1,28/11/2024 06:56:15.467152 PM,assistant,OK
+2,28/11/2024 06:56:15.467166 PM,user,hi
+3,28/11/2024 06:56:15.467177 PM,assistant,Hello! How can I assist you today?
+4,28/11/2024 06:56:15.467187 PM,user,Haier LED price?
+5,28/11/2024 06:56:15.467199 PM,assistant,"The prices for our LED TVs may vary depending on the model and size. Can you provide specific details about the TV series you're interested in? This way, I can give you accurate pricing information."
+6,28/11/2024 06:56:15.467213 PM,user,anyone
+7,28/11/2024 06:56:15.467222 PM,assistant,Let me check which models we currently offer before providing you with their prices. Please wait a moment...
+8,28/11/2024 06:56:15.467234 PM,user,HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven price?
+9,28/11/2024 06:56:15.467245 PM,assistant,<function query_RAG_check_with_link at 0x791c44231000>
+Q,28/11/2024 06:56:15.467259 PM,user,HMW-23200-23L Digital Microwave Oven  Digital Microwave Oven price?
+R,28/11/2024 06:56:15.467270 PM,assistant,<function query_RAG_check_with_link at 0x791c44231000>

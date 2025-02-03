@@ -1,0 +1,9 @@
+Message Index,Timestamp,Role,Content
+0,02/12/2024 03:15:19.919972 PM,user,"Here are some more products I am interested in: HWM150-826 - 15KG Top Load Fully Automatic Washing Machine HWM150-826 - 15KG priced at 99999, HWM120-826 - 12KG Top Load Fully Automatic Washing Machine HWM120-826 - 12KG priced at 89499, HWM 90-826S5 - 9KG Top Load Fully Automatic Washing Machine 9KG - HWM 90-826S5 priced at 71499, HWM90-1708S5 - 9KG Top Load Fully Automatic Washing Machine 9KG - HWM90-1708S5 priced at 69999, HWM 90-826S5 - 9KG Top Load Fully Automatic Washing Machine 9KG - HWM 90-826S5 priced at 71499. Read it and say OK"
+1,02/12/2024 03:15:19.919998 PM,assistant,OK
+2,02/12/2024 03:15:19.920012 PM,user,HWD60-50 - Spinner price?
+3,02/12/2024 03:15:19.920025 PM,assistant,"The MRP for the spinner model is Rs. 59,200, but we currently have it on offer for just Rs. 47,581. Would you like to proceed with the purchase?"
+4,02/12/2024 03:15:19.920039 PM,user,HWM 90-826S5 - 9KG Top Load Fully Automatic Washing Machine price?
+5,02/12/2024 03:15:19.920051 PM,assistant,The price for the washing machine with 9KG top load capacity is Rs. 749. Is there anything else you would like assistance with today?
+Q,02/12/2024 03:15:19.920064 PM,user,HWM 90-826S5 - 9KG Top Load Fully Automatic Washing Machine price?
+R,02/12/2024 03:15:19.920076 PM,assistant,The price for the washing machine with 9KG top load capacity is Rs. 749. Is there anything else you would like assistance with today?

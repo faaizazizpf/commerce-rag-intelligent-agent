@@ -1,0 +1,19 @@
+Message Index,Timestamp,Role,Content
+0,28/11/2024 06:55:07.516681 PM,user,"Here are some more products I am interested in: Haier 40"" K66 Smart Android Series LED (H40K66FG) H40K66FG - 40"" priced at 71800, Haier 55"" S6 4K UHD Smart Android Series LED (HE55S6UG) HE55S6UG - 55"" priced at 209999, Haier 43"" K66 Smart Android Series LED (H43K66UGP) H43K66UGP - 43"" 4KHDR priced at 87861, Haier 50"" K66 4K UHD Smart Android Series LED (H50K66UGP) H50K66UGP - 50"" priced at 109850, Haier 43"" K66 Smart Android Series LED (H43K6FG) H43K6FG - 43"" priced at 84499. Read it and say OK"
+1,28/11/2024 06:55:07.516712 PM,assistant,OK
+2,28/11/2024 06:55:07.516726 PM,user,hi
+3,28/11/2024 06:55:07.516738 PM,assistant,Hello! How can I assist you today?
+4,28/11/2024 06:55:07.516749 PM,user,Haier LED price?
+5,28/11/2024 06:55:07.516759 PM,assistant,"The prices for our LED TVs may vary depending on the model and size. Can you provide specific details about the TV series you're interested in? This way, I can give you accurate pricing information."
+Q,28/11/2024 06:55:07.516772 PM,user,Haier LED price?
+R,28/11/2024 06:55:07.516782 PM,assistant,"The prices for our LED TVs may vary depending on the model and size. Can you provide specific details about the TV series you're interested in? This way, I can give you accurate pricing information."
+0,28/11/2024 06:55:18.664279 PM,user,"Here are some more products I am interested in: HGL-45200 - 45L Grill Microwave Oven Black priced at 49900, HMN-32100BEGB - 32L Grill Microwave Oven Black priced at 36499, HGL-25200 - 25L Grill Microwave Oven Black priced at 29499, Haier FFD Safety Device 3 Burner Hob (HCC-309DGG) HCC-309DGG - Glass priced at 50000. Read it and say OK"
+1,28/11/2024 06:55:18.664325 PM,assistant,OK
+2,28/11/2024 06:55:18.664339 PM,user,hi
+3,28/11/2024 06:55:18.664352 PM,assistant,Hello! How can I assist you today?
+4,28/11/2024 06:55:18.664365 PM,user,Haier LED price?
+5,28/11/2024 06:55:18.664376 PM,assistant,"The prices for our LED TVs may vary depending on the model and size. Can you provide specific details about the TV series you're interested in? This way, I can give you accurate pricing information."
+6,28/11/2024 06:55:18.664389 PM,user,anyone
+7,28/11/2024 06:55:18.664400 PM,assistant,Let me check which models we currently offer before providing you with their prices. Please wait a moment...
+Q,28/11/2024 06:55:18.664412 PM,user,anyone
+R,28/11/2024 06:55:18.664422 PM,assistant,Let me check which models we currently offer before providing you with their prices. Please wait a moment...

@@ -1,0 +1,216 @@
+Message Index,Timestamp,Role,Content
+0,24/11/2024 10:13:00.489198 PM,user,"Here are some more products I am interested in: HMW-20MBS - Haier Solo Microwave Oven Black priced at 16999,  HMW-20MX11 20L Solo Microwave Oven  HMW-20MX11 priced at 17999, HMW-20MX12 20L Solo Microwave Oven HMW-20MX12 priced at 17999, Haier Microwave Grill Oven HMN-45200ESD HMN-45200ESD - 45L priced at 46000, HMW-20MBS - Haier Solo Microwave Oven Black priced at 16999. Read it and say OK"
+1,24/11/2024 10:13:00.489239 PM,assistant,OK
+2,24/11/2024 10:13:00.489258 PM,user,HMW-28100-28L Digital Grill Microwave Oven price?
+3,24/11/2024 10:13:00.489271 PM,assistant,"The price for the Haier 280L grill microwave oven model number  HMW-28100-28L Digital Grill Microwave Oven  is Rs. 33,999."
+4,24/11/2024 10:13:00.489286 PM,user,HMW-23200-23L Digital Microwave Oven  price?
+5,24/11/2024 10:13:00.489298 PM,assistant,"The price for the Haier 230L digital microwave oven model number   HMW-23200-23L Digital Microwave Oven  is Rs. 30,449."
+6,24/11/2024 10:13:00.489311 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+7,24/11/2024 10:13:00.489323 PM,assistant,"The price for the Haier 20L grill microwave oven model number    HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  is Rs. 23,899."
+8,24/11/2024 10:13:00.489336 PM,user,hello buddy how are you
+9,24/11/2024 10:13:00.489348 PM,assistant,Hello! How can I assist you today? Feel free to ask any questions related to our product range or services.
+10,24/11/2024 10:13:00.489360 PM,user,give me the price of haier products
+11,24/11/2024 10:13:00.489372 PM,assistant,"Of course! Please provide the specific Haier product you're looking for, and I'll give you its current price."
+12,24/11/2024 10:13:00.489384 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+13,24/11/2024 10:13:00.489396 PM,assistant,"The price for the Haier 20L grill microwave oven model number  HMW-20DGS-20L Digital Grill Microwave Oven  is Rs. 23,899."
+14,24/11/2024 10:13:00.489408 PM,user,any red color AC
+15,24/11/2024 10:13:00.489419 PM,assistant,"For red color air conditioners from Haier, we have the following models:
+
+1. Haier Marvel Inverter Series Air Conditioner (HSU-12HFMAC) - priced at Rs. 134,000.
+2. Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC) - priced at Rs. 129,351.
+
+Is there anything else you would like to inquire about?"
+16,24/11/2024 10:13:00.489436 PM,user,give me the price of haier red tea cups
+17,24/11/2024 10:13:00.489447 PM,assistant,"Unfortunately, we do not carry red tea cups. Our focus is on home appliances such as air conditioners, microwaves, and refrigerators. Is there something else you need help with?"
+18,24/11/2024 10:13:00.489461 PM,user,ok then give me the price of haier shoes
+19,24/11/2024 10:13:00.489473 PM,assistant,"Haier does not offer shoes. However, we have a wide selection of kitchen appliances and entertainment systems. Would you be interested in exploring those instead?"
+20,24/11/2024 10:13:00.489486 PM,user,give the price of all the invertor ac
+21,24/11/2024 10:13:00.489497 PM,assistant,The prices for our invertor ACs vary based on brand and specifications. Can you please let me know which specific AC you are interested in so that I can provide you with the correct price details?
+22,24/11/2024 10:13:00.489511 PM,user,ok
+23,24/11/2024 10:13:00.489532 PM,assistant,"To find out the prices for our invertor ACs, you can visit our website where you'll see detailed product pages for each model. Alternatively, feel free to reach out to us directly for assistance."
+24,24/11/2024 10:13:00.489546 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+25,24/11/2024 10:13:00.489558 PM,assistant,"The price for the  HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. Would you like any further information?"
+26,24/11/2024 10:13:00.489571 PM,user,HMW-20DSS-20L Digital Solo Microwave Oven  price?
+27,24/11/2024 10:13:00.489582 PM,assistant,"The price for the   HMW-20DGS-20L Digital Grill Microwave Oven  Digital Solo Microwave Oven is Rs. 23,899. How can I assist you today?"
+28,24/11/2024 10:13:00.489595 PM,user,HMW-20MX11 20L Solo Microwave Oven  price?
+29,24/11/2024 10:13:00.489607 PM,assistant,"The price for the     HMW-20MX11 20L Solo Microwave Oven  20L Solo Microwave Oven is Rs. 17,999. Is there anything else I can help you with?"
+30,24/11/2024 10:13:00.489620 PM,user,HMW-20MBS - Haier Solo Microwave Oven
+31,24/11/2024 10:13:00.489631 PM,assistant,"The price for the      HMW-20MBS - Haier Solo Microwave Oven - Haier Solo Microwave Oven  is Rs. 16,999. Do you have any other questions regarding this oven?"
+Q,24/11/2024 10:13:00.489646 PM,user,HMW-20MBS - Haier Solo Microwave Oven
+R,24/11/2024 10:13:00.489658 PM,assistant,"The price for the      HMW-20MBS - Haier Solo Microwave Oven - Haier Solo Microwave Oven  is Rs. 16,999. Do you have any other questions regarding this oven?"
+0,24/11/2024 10:13:11.851960 PM,user,"Here are some more products I am interested in: Remote Remote priced at 10, H32K800X - 32 Inch Google TV  32 Inches priced at 46999, Candy - C40K6FG - 40 Inch Smart Android LED TV Andoid TV priced at 61899, H65K800UX - 65 Inch Google TV 65 Inches priced at 177999, Remote Remote priced at 10. Read it and say OK"
+1,24/11/2024 10:13:11.852031 PM,assistant,OK
+2,24/11/2024 10:13:11.852055 PM,user,HMW-28100-28L Digital Grill Microwave Oven price?
+3,24/11/2024 10:13:11.852075 PM,assistant,"The price for the Haier 280L grill microwave oven model number  HMW-28100-28L Digital Grill Microwave Oven  is Rs. 33,999."
+4,24/11/2024 10:13:11.852100 PM,user,HMW-23200-23L Digital Microwave Oven  price?
+5,24/11/2024 10:13:11.852119 PM,assistant,"The price for the Haier 230L digital microwave oven model number   HMW-23200-23L Digital Microwave Oven  is Rs. 30,449."
+6,24/11/2024 10:13:11.852138 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+7,24/11/2024 10:13:11.852159 PM,assistant,"The price for the Haier 20L grill microwave oven model number    HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  is Rs. 23,899."
+8,24/11/2024 10:13:11.852181 PM,user,hello buddy how are you
+9,24/11/2024 10:13:11.852200 PM,assistant,Hello! How can I assist you today? Feel free to ask any questions related to our product range or services.
+10,24/11/2024 10:13:11.852219 PM,user,give me the price of haier products
+11,24/11/2024 10:13:11.852237 PM,assistant,"Of course! Please provide the specific Haier product you're looking for, and I'll give you its current price."
+12,24/11/2024 10:13:11.852256 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+13,24/11/2024 10:13:11.852273 PM,assistant,"The price for the Haier 20L grill microwave oven model number  HMW-20DGS-20L Digital Grill Microwave Oven  is Rs. 23,899."
+14,24/11/2024 10:13:11.852292 PM,user,any red color AC
+15,24/11/2024 10:13:11.852311 PM,assistant,"For red color air conditioners from Haier, we have the following models:
+
+1. Haier Marvel Inverter Series Air Conditioner (HSU-12HFMAC) - priced at Rs. 134,000.
+2. Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC) - priced at Rs. 129,351.
+
+Is there anything else you would like to inquire about?"
+16,24/11/2024 10:13:11.852335 PM,user,give me the price of haier red tea cups
+17,24/11/2024 10:13:11.852353 PM,assistant,"Unfortunately, we do not carry red tea cups. Our focus is on home appliances such as air conditioners, microwaves, and refrigerators. Is there something else you need help with?"
+18,24/11/2024 10:13:11.852373 PM,user,ok then give me the price of haier shoes
+19,24/11/2024 10:13:11.852388 PM,assistant,"Haier does not offer shoes. However, we have a wide selection of kitchen appliances and entertainment systems. Would you be interested in exploring those instead?"
+20,24/11/2024 10:13:11.852401 PM,user,give the price of all the invertor ac
+21,24/11/2024 10:13:11.852412 PM,assistant,The prices for our invertor ACs vary based on brand and specifications. Can you please let me know which specific AC you are interested in so that I can provide you with the correct price details?
+22,24/11/2024 10:13:11.852425 PM,user,ok
+23,24/11/2024 10:13:11.852436 PM,assistant,"To find out the prices for our invertor ACs, you can visit our website where you'll see detailed product pages for each model. Alternatively, feel free to reach out to us directly for assistance."
+24,24/11/2024 10:13:11.852450 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+25,24/11/2024 10:13:11.852461 PM,assistant,"The price for the  HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. Would you like any further information?"
+26,24/11/2024 10:13:11.852476 PM,user,HMW-20DSS-20L Digital Solo Microwave Oven  price?
+27,24/11/2024 10:13:11.852487 PM,assistant,"The price for the   HMW-20DGS-20L Digital Grill Microwave Oven  Digital Solo Microwave Oven is Rs. 23,899. How can I assist you today?"
+28,24/11/2024 10:13:11.852500 PM,user,HMW-20MX11 20L Solo Microwave Oven  price?
+29,24/11/2024 10:13:11.852511 PM,assistant,"The price for the     HMW-20MX11 20L Solo Microwave Oven  20L Solo Microwave Oven is Rs. 17,999. Is there anything else I can help you with?"
+30,24/11/2024 10:13:11.852524 PM,user,HMW-20MBS - Haier Solo Microwave Oven
+31,24/11/2024 10:13:11.852535 PM,assistant,"The price for the      HMW-20MBS - Haier Solo Microwave Oven - Haier Solo Microwave Oven  is Rs. 16,999. Do you have any other questions regarding this oven?"
+32,24/11/2024 10:13:11.852548 PM,user,Remote ?
+33,24/11/2024 10:13:11.852559 PM,assistant,"Apologies, but we do not offer remote controls separately from microwave ovens. If you require additional features, such as smart control compatibility, please let me know and I will check if they are compatible with our range."
+Q,24/11/2024 10:13:11.852600 PM,user,Remote ?
+R,24/11/2024 10:13:11.852613 PM,assistant,"Apologies, but we do not offer remote controls separately from microwave ovens. If you require additional features, such as smart control compatibility, please let me know and I will check if they are compatible with our range."
+0,24/11/2024 10:13:23.337075 PM,user,"Here are some more products I am interested in: HSU-12HFPCA/AA/BG-SG-WUSDC - 1 Ton Pearl Inverter Air Conditioner Silver/HSU-12HFPCA/AA/BG-SG-WUSDC - 1 Ton priced at 130499, HSU-18HFPCA/AA/BG-SG-WUSDC - 1.5 Ton Pearl Inverter Air Conditioner Silver/HSU-18HFPCA/AA/BG-SG-WUSDC - 1.5 Ton priced at 169499, HGL-30100 - 30L Rotisserie/Grill/Convection/Baking Microwave Oven Black priced at 43999, HGL-45200 - 45L Grill Microwave Oven Black priced at 49900. Read it and say OK"
+1,24/11/2024 10:13:23.337113 PM,assistant,OK
+2,24/11/2024 10:13:23.337131 PM,user,HMW-28100-28L Digital Grill Microwave Oven price?
+3,24/11/2024 10:13:23.337147 PM,assistant,"The price for the Haier 280L grill microwave oven model number  HMW-28100-28L Digital Grill Microwave Oven  is Rs. 33,999."
+4,24/11/2024 10:13:23.337163 PM,user,HMW-23200-23L Digital Microwave Oven  price?
+5,24/11/2024 10:13:23.337178 PM,assistant,"The price for the Haier 230L digital microwave oven model number   HMW-23200-23L Digital Microwave Oven  is Rs. 30,449."
+6,24/11/2024 10:13:23.337195 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+7,24/11/2024 10:13:23.337209 PM,assistant,"The price for the Haier 20L grill microwave oven model number    HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  is Rs. 23,899."
+8,24/11/2024 10:13:23.337227 PM,user,hello buddy how are you
+9,24/11/2024 10:13:23.337241 PM,assistant,Hello! How can I assist you today? Feel free to ask any questions related to our product range or services.
+10,24/11/2024 10:13:23.337255 PM,user,give me the price of haier products
+11,24/11/2024 10:13:23.337268 PM,assistant,"Of course! Please provide the specific Haier product you're looking for, and I'll give you its current price."
+12,24/11/2024 10:13:23.337282 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+13,24/11/2024 10:13:23.337296 PM,assistant,"The price for the Haier 20L grill microwave oven model number  HMW-20DGS-20L Digital Grill Microwave Oven  is Rs. 23,899."
+14,24/11/2024 10:13:23.337311 PM,user,any red color AC
+15,24/11/2024 10:13:23.337323 PM,assistant,"For red color air conditioners from Haier, we have the following models:
+
+1. Haier Marvel Inverter Series Air Conditioner (HSU-12HFMAC) - priced at Rs. 134,000.
+2. Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC) - priced at Rs. 129,351.
+
+Is there anything else you would like to inquire about?"
+16,24/11/2024 10:13:23.337340 PM,user,give me the price of haier red tea cups
+17,24/11/2024 10:13:23.337352 PM,assistant,"Unfortunately, we do not carry red tea cups. Our focus is on home appliances such as air conditioners, microwaves, and refrigerators. Is there something else you need help with?"
+18,24/11/2024 10:13:23.337367 PM,user,ok then give me the price of haier shoes
+19,24/11/2024 10:13:23.337381 PM,assistant,"Haier does not offer shoes. However, we have a wide selection of kitchen appliances and entertainment systems. Would you be interested in exploring those instead?"
+20,24/11/2024 10:13:23.337396 PM,user,give the price of all the invertor ac
+21,24/11/2024 10:13:23.337408 PM,assistant,The prices for our invertor ACs vary based on brand and specifications. Can you please let me know which specific AC you are interested in so that I can provide you with the correct price details?
+22,24/11/2024 10:13:23.337422 PM,user,ok
+23,24/11/2024 10:13:23.337433 PM,assistant,"To find out the prices for our invertor ACs, you can visit our website where you'll see detailed product pages for each model. Alternatively, feel free to reach out to us directly for assistance."
+24,24/11/2024 10:13:23.337446 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+25,24/11/2024 10:13:23.337458 PM,assistant,"The price for the  HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. Would you like any further information?"
+26,24/11/2024 10:13:23.337471 PM,user,HMW-20DSS-20L Digital Solo Microwave Oven  price?
+27,24/11/2024 10:13:23.337483 PM,assistant,"The price for the   HMW-20DGS-20L Digital Grill Microwave Oven  Digital Solo Microwave Oven is Rs. 23,899. How can I assist you today?"
+28,24/11/2024 10:13:23.337496 PM,user,HMW-20MX11 20L Solo Microwave Oven  price?
+29,24/11/2024 10:13:23.337508 PM,assistant,"The price for the     HMW-20MX11 20L Solo Microwave Oven  20L Solo Microwave Oven is Rs. 17,999. Is there anything else I can help you with?"
+30,24/11/2024 10:13:23.337527 PM,user,HMW-20MBS - Haier Solo Microwave Oven
+31,24/11/2024 10:13:23.337539 PM,assistant,"The price for the      HMW-20MBS - Haier Solo Microwave Oven - Haier Solo Microwave Oven  is Rs. 16,999. Do you have any other questions regarding this oven?"
+32,24/11/2024 10:13:23.337552 PM,user,Remote ?
+33,24/11/2024 10:13:23.337564 PM,assistant,"Apologies, but we do not offer remote controls separately from microwave ovens. If you require additional features, such as smart control compatibility, please let me know and I will check if they are compatible with our range."
+34,24/11/2024 10:13:23.337578 PM,user,price?
+35,24/11/2024 10:13:23.337589 PM,assistant,"For pricing on specific appliances or accessories, please provide details about what exactly you're looking for so that I may be able to find the most suitable product for your needs and budget."
+Q,24/11/2024 10:13:23.337604 PM,user,price?
+R,24/11/2024 10:13:23.337617 PM,assistant,"For pricing on specific appliances or accessories, please provide details about what exactly you're looking for so that I may be able to find the most suitable product for your needs and budget."
+0,24/11/2024 10:13:33.775181 PM,user,"Here are some more products I am interested in: Remote Remote priced at 10, H32K800X - 32 Inch Google TV  32 Inches priced at 46999, H32D2M - 32 Inch H-CAST D2M Series LED H32D2M - 32"" priced at 39899, H75P7UX - 75 Inch Google TV 75 inches priced at 341999, Remote Remote priced at 10. Read it and say OK"
+1,24/11/2024 10:13:33.775230 PM,assistant,OK
+2,24/11/2024 10:13:33.775248 PM,user,HMW-28100-28L Digital Grill Microwave Oven price?
+3,24/11/2024 10:13:33.775263 PM,assistant,"The price for the Haier 280L grill microwave oven model number  HMW-28100-28L Digital Grill Microwave Oven  is Rs. 33,999."
+4,24/11/2024 10:13:33.775279 PM,user,HMW-23200-23L Digital Microwave Oven  price?
+5,24/11/2024 10:13:33.775292 PM,assistant,"The price for the Haier 230L digital microwave oven model number   HMW-23200-23L Digital Microwave Oven  is Rs. 30,449."
+6,24/11/2024 10:13:33.775306 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+7,24/11/2024 10:13:33.775319 PM,assistant,"The price for the Haier 20L grill microwave oven model number    HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  is Rs. 23,899."
+8,24/11/2024 10:13:33.775332 PM,user,hello buddy how are you
+9,24/11/2024 10:13:33.775345 PM,assistant,Hello! How can I assist you today? Feel free to ask any questions related to our product range or services.
+10,24/11/2024 10:13:33.775358 PM,user,give me the price of haier products
+11,24/11/2024 10:13:33.775371 PM,assistant,"Of course! Please provide the specific Haier product you're looking for, and I'll give you its current price."
+12,24/11/2024 10:13:33.775384 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+13,24/11/2024 10:13:33.775396 PM,assistant,"The price for the Haier 20L grill microwave oven model number  HMW-20DGS-20L Digital Grill Microwave Oven  is Rs. 23,899."
+14,24/11/2024 10:13:33.775409 PM,user,any red color AC
+15,24/11/2024 10:13:33.775421 PM,assistant,"For red color air conditioners from Haier, we have the following models:
+
+1. Haier Marvel Inverter Series Air Conditioner (HSU-12HFMAC) - priced at Rs. 134,000.
+2. Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC) - priced at Rs. 129,351.
+
+Is there anything else you would like to inquire about?"
+16,24/11/2024 10:13:33.775439 PM,user,give me the price of haier red tea cups
+17,24/11/2024 10:13:33.775451 PM,assistant,"Unfortunately, we do not carry red tea cups. Our focus is on home appliances such as air conditioners, microwaves, and refrigerators. Is there something else you need help with?"
+18,24/11/2024 10:13:33.775464 PM,user,ok then give me the price of haier shoes
+19,24/11/2024 10:13:33.775476 PM,assistant,"Haier does not offer shoes. However, we have a wide selection of kitchen appliances and entertainment systems. Would you be interested in exploring those instead?"
+20,24/11/2024 10:13:33.775489 PM,user,give the price of all the invertor ac
+21,24/11/2024 10:13:33.775501 PM,assistant,The prices for our invertor ACs vary based on brand and specifications. Can you please let me know which specific AC you are interested in so that I can provide you with the correct price details?
+22,24/11/2024 10:13:33.775515 PM,user,ok
+23,24/11/2024 10:13:33.775526 PM,assistant,"To find out the prices for our invertor ACs, you can visit our website where you'll see detailed product pages for each model. Alternatively, feel free to reach out to us directly for assistance."
+24,24/11/2024 10:13:33.775540 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+25,24/11/2024 10:13:33.775552 PM,assistant,"The price for the  HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. Would you like any further information?"
+26,24/11/2024 10:13:33.775566 PM,user,HMW-20DSS-20L Digital Solo Microwave Oven  price?
+27,24/11/2024 10:13:33.775577 PM,assistant,"The price for the   HMW-20DGS-20L Digital Grill Microwave Oven  Digital Solo Microwave Oven is Rs. 23,899. How can I assist you today?"
+28,24/11/2024 10:13:33.775591 PM,user,HMW-20MX11 20L Solo Microwave Oven  price?
+29,24/11/2024 10:13:33.775602 PM,assistant,"The price for the     HMW-20MX11 20L Solo Microwave Oven  20L Solo Microwave Oven is Rs. 17,999. Is there anything else I can help you with?"
+30,24/11/2024 10:13:33.775616 PM,user,HMW-20MBS - Haier Solo Microwave Oven
+31,24/11/2024 10:13:33.775627 PM,assistant,"The price for the      HMW-20MBS - Haier Solo Microwave Oven - Haier Solo Microwave Oven  is Rs. 16,999. Do you have any other questions regarding this oven?"
+32,24/11/2024 10:13:33.775640 PM,user,Remote ?
+33,24/11/2024 10:13:33.775651 PM,assistant,"Apologies, but we do not offer remote controls separately from microwave ovens. If you require additional features, such as smart control compatibility, please let me know and I will check if they are compatible with our range."
+34,24/11/2024 10:13:33.775665 PM,user,price?
+35,24/11/2024 10:13:33.775676 PM,assistant,"For pricing on specific appliances or accessories, please provide details about what exactly you're looking for so that I may be able to find the most suitable product for your needs and budget."
+36,24/11/2024 10:13:33.775690 PM,user,remote price?
+37,24/11/2024 10:13:33.775701 PM,assistant,"Unfortunately, we don't carry standalone remotes. However, all of our microwaves come with integrated touchpad controllers. Would you like more info on those models?"
+Q,24/11/2024 10:13:33.775715 PM,user,remote price?
+R,24/11/2024 10:13:33.775727 PM,assistant,"Unfortunately, we don't carry standalone remotes. However, all of our microwaves come with integrated touchpad controllers. Would you like more info on those models?"
+0,24/11/2024 10:13:46.649070 PM,user,"Here are some more products I am interested in: Candy - CDL-20MX01 - 20L Solo Microwave Oven CDL-20MX01 priced at 15199, Candy - CDL-25DG02 -25L - Grill Microwave Oven CDL-25DG02 priced at 25299, HGL-25200 - 25L Grill Microwave Oven Black priced at 29499, HGL-23100 - 23L Grill Microwave Oven White priced at 27499, Candy - CDL-25DG02 -25L - Grill Microwave Oven CDL-25DG02 priced at 25299. Read it and say OK"
+1,24/11/2024 10:13:46.649107 PM,assistant,OK
+2,24/11/2024 10:13:46.649123 PM,user,HMW-28100-28L Digital Grill Microwave Oven price?
+3,24/11/2024 10:13:46.649136 PM,assistant,"The price for the Haier 280L grill microwave oven model number  HMW-28100-28L Digital Grill Microwave Oven  is Rs. 33,999."
+4,24/11/2024 10:13:46.649150 PM,user,HMW-23200-23L Digital Microwave Oven  price?
+5,24/11/2024 10:13:46.649163 PM,assistant,"The price for the Haier 230L digital microwave oven model number   HMW-23200-23L Digital Microwave Oven  is Rs. 30,449."
+6,24/11/2024 10:13:46.649177 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+7,24/11/2024 10:13:46.649189 PM,assistant,"The price for the Haier 20L grill microwave oven model number    HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven  is Rs. 23,899."
+8,24/11/2024 10:13:46.649203 PM,user,hello buddy how are you
+9,24/11/2024 10:13:46.649214 PM,assistant,Hello! How can I assist you today? Feel free to ask any questions related to our product range or services.
+10,24/11/2024 10:13:46.649227 PM,user,give me the price of haier products
+11,24/11/2024 10:13:46.649239 PM,assistant,"Of course! Please provide the specific Haier product you're looking for, and I'll give you its current price."
+12,24/11/2024 10:13:46.649251 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+13,24/11/2024 10:13:46.649263 PM,assistant,"The price for the Haier 20L grill microwave oven model number  HMW-20DGS-20L Digital Grill Microwave Oven  is Rs. 23,899."
+14,24/11/2024 10:13:46.649275 PM,user,any red color AC
+15,24/11/2024 10:13:46.649286 PM,assistant,"For red color air conditioners from Haier, we have the following models:
+
+1. Haier Marvel Inverter Series Air Conditioner (HSU-12HFMAC) - priced at Rs. 134,000.
+2. Haier Marvel Inverter Series Air Conditioner (HSU-12/18HFMCC) - priced at Rs. 129,351.
+
+Is there anything else you would like to inquire about?"
+16,24/11/2024 10:13:46.649302 PM,user,give me the price of haier red tea cups
+17,24/11/2024 10:13:46.649314 PM,assistant,"Unfortunately, we do not carry red tea cups. Our focus is on home appliances such as air conditioners, microwaves, and refrigerators. Is there something else you need help with?"
+18,24/11/2024 10:13:46.649327 PM,user,ok then give me the price of haier shoes
+19,24/11/2024 10:13:46.649339 PM,assistant,"Haier does not offer shoes. However, we have a wide selection of kitchen appliances and entertainment systems. Would you be interested in exploring those instead?"
+20,24/11/2024 10:13:46.649352 PM,user,give the price of all the invertor ac
+21,24/11/2024 10:13:46.649364 PM,assistant,The prices for our invertor ACs vary based on brand and specifications. Can you please let me know which specific AC you are interested in so that I can provide you with the correct price details?
+22,24/11/2024 10:13:46.649378 PM,user,ok
+23,24/11/2024 10:13:46.649389 PM,assistant,"To find out the prices for our invertor ACs, you can visit our website where you'll see detailed product pages for each model. Alternatively, feel free to reach out to us directly for assistance."
+24,24/11/2024 10:13:46.649402 PM,user,HMW-20DGS-20L Digital Grill Microwave Oven  price?
+25,24/11/2024 10:13:46.649414 PM,assistant,"The price for the  HMW-20DGS-20L Digital Grill Microwave Oven  Digital Grill Microwave Oven is Rs. 23,899. Would you like any further information?"
+26,24/11/2024 10:13:46.649427 PM,user,HMW-20DSS-20L Digital Solo Microwave Oven  price?
+27,24/11/2024 10:13:46.649438 PM,assistant,"The price for the   HMW-20DGS-20L Digital Grill Microwave Oven  Digital Solo Microwave Oven is Rs. 23,899. How can I assist you today?"
+28,24/11/2024 10:13:46.649451 PM,user,HMW-20MX11 20L Solo Microwave Oven  price?
+29,24/11/2024 10:13:46.649463 PM,assistant,"The price for the     HMW-20MX11 20L Solo Microwave Oven  20L Solo Microwave Oven is Rs. 17,999. Is there anything else I can help you with?"
+30,24/11/2024 10:13:46.649476 PM,user,HMW-20MBS - Haier Solo Microwave Oven
+31,24/11/2024 10:13:46.649487 PM,assistant,"The price for the      HMW-20MBS - Haier Solo Microwave Oven - Haier Solo Microwave Oven  is Rs. 16,999. Do you have any other questions regarding this oven?"
+32,24/11/2024 10:13:46.649500 PM,user,Remote ?
+33,24/11/2024 10:13:46.649511 PM,assistant,"Apologies, but we do not offer remote controls separately from microwave ovens. If you require additional features, such as smart control compatibility, please let me know and I will check if they are compatible with our range."
+34,24/11/2024 10:13:46.649532 PM,user,price?
+35,24/11/2024 10:13:46.649543 PM,assistant,"For pricing on specific appliances or accessories, please provide details about what exactly you're looking for so that I may be able to find the most suitable product for your needs and budget."
+36,24/11/2024 10:13:46.649557 PM,user,remote price?
+37,24/11/2024 10:13:46.649568 PM,assistant,"Unfortunately, we don't carry standalone remotes. However, all of our microwaves come with integrated touchpad controllers. Would you like more info on those models?"
+38,24/11/2024 10:13:46.649581 PM,user,Candy - CDL-25DG02 -25L - Grill Microwave Oven pricE?
+39,24/11/2024 10:13:46.649593 PM,assistant,"The price for the   Candy - Candy - CDL-25DG02 -25L - Grill Microwave Oven -25L - Grill Microwave Oven is Rs. 25,299. How else can I assist you today?"
+Q,24/11/2024 10:13:46.649607 PM,user,Candy - CDL-25DG02 -25L - Grill Microwave Oven pricE?
+R,24/11/2024 10:13:46.649620 PM,assistant,"The price for the   Candy - Candy - CDL-25DG02 -25L - Grill Microwave Oven -25L - Grill Microwave Oven is Rs. 25,299. How else can I assist you today?"
