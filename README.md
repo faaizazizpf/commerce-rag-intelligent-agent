@@ -6,7 +6,7 @@ WARNING: The supplied scripts install many system packages, clone large model ch
 
 ## Repository layout (relevant)
 - finetune_demo/
-  - scripts/  ← My contributions; contains automation,finetuning, data preparation and provisioning commands (e.g. `configAndRun.sh`)
+  - scripts/  ← My contributions; contains automation,finetuning, implementing RAG, data preparation for training, testing and validation, and provisioning commands (e.g. `configAndRun.sh`)
   - basic_demo/, finetune_demo/, etc. (model and demo code)
 - configAndRun.sh — script that provisions environment, installs dependencies, downloads models and runs the demo app (provided content shown below).
 
