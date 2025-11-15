@@ -26,8 +26,6 @@ Example (on a fresh Ubuntu GPU VM):
 1. Clone this repository:
    git clone https://github.com/faaizazizpf/commerce-rag-intelligent-agent.git
    
-   cd commerce-rag-intelligent-agent/finetune_demo/scripts
-
 2. Review `configAndRun.sh` and remove any dummy secrets (eg. ngrok auth token) or replace with your own. 
 a. Run `configAndRun.sh` should run project root folder
 
